@@ -9,4 +9,6 @@
   * [Overview](about/overview.md)
   * [Publications](about/publications.md)
   * [Statistics](about/statistics.md)
+* [Help](help/README.md)
+  * [FAQ](help/faq.md)
 
