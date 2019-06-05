@@ -1,7 +1,7 @@
 # IntAct Portal Documentation
 Documentation for the website in markdown
 
-Structure proposal:
+Structure:
 - About
   - Overview
   - Publication
