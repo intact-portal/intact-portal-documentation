@@ -3,6 +3,7 @@
 * [IntAct Portal Documentation](README.md)
 * [About](about/README.md)
   * [Overview](about/overview.md)
+  * [Collaborators](about/collaborators.md)
   * [Funding](about/funding.md)
   * [Statistics](about/statistics.md)
   * [Publications](about/publications.md)
