@@ -11,7 +11,6 @@
   * [Conceptual Design](about/conceptual-design.md)
   * [Cite Us](about/cite-us.md)
 * [Help](help/README.md)
-  * [Annotation Practices](help/annotation-practices.md)
   * [User Manual](help/user-manual/README.md)
     * [Search](help/user-manual/search.md)
     * [Data Visualization and Filtering](help/user-manual/data-visualization-and-filtering/README.md)
