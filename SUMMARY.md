@@ -24,6 +24,8 @@
   * [FAQ](help/faq/README.md)
     * [Data Sources and Annotation Practices](help/faq/data-sources-and-annotation-practices.md)
     * [Usage](help/faq/usage.md)
+    * [Scoring](help/faq/scoring.md)
+    * [Data Export](help/faq/data-export.md)
 * [Docs](docs/README.md)
   * [Curation Manual](docs/curation-manual.md)
   * [Interaction Scoring](docs/interaction-scoring.md)
