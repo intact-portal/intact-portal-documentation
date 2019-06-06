@@ -1,2 +1,2 @@
-# User Manual
+# User Guide
 
