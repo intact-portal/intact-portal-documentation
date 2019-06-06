@@ -8,10 +8,9 @@ Some experimental methods such as Tandem Affinity Purification do generate molec
 
 ### Existing expansion algorithm
 
-There are several known algorithm allowing to transform an n-ary interaction into a set of binaries. The illustration below present the two well known expansion model and illustrates why they can be incorrect.  
-  
-![sourceExp](https://www.ebi.ac.uk/intact/images/documentation/matrix-spoke.png?conversationContext=4)  
+There are several known algorithms allowing to transform an n-ary interaction into a set of binaries. The illustration below present the two well known expansion model and illustrates why they can be incorrect.
 
+![sourceExp](https://www.ebi.ac.uk/intact/images/documentation/matrix-spoke.png?conversationContext=4)
 
 * **Spoke expansion**: Links the bait molecule to all prey molecules. If N is the count of molecule in the complex, it generated N-1 binary interactions.
 * **Matrix expansion**: Links all molecule to all other molecule present in the complex. If N is the count of molecule in the complex, it generated \(N\*\(N-1\)\)/2 binary interactions.
