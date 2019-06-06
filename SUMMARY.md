@@ -32,7 +32,8 @@
   * [Control Vocabulary](definitions-and-formats/control-vocabulary.md)
 * [Download](download/README.md)
   * [FTP](download/ftp.md)
-  * [Curated Datasets](download/curated-datasets.md)
-  * [Species-based Datasets](download/species-based-datasets.md)
-  * [Mutations](download/mutations.md)
+  * [Dataset Files](download/dataset-files/README.md)
+    * [Curated Datasets](download/dataset-files/curated-datasets.md)
+    * [Species-based Datasets](download/dataset-files/species-based-datasets.md)
+    * [Mutations](download/dataset-files/mutations.md)
 
