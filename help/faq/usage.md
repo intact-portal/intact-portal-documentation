@@ -4,8 +4,6 @@
 
 Answer: Yes, just list the gene name or UniprotKB accession numbers, space separated e.g. TP53 MDM2 CHK2 LCK. Please note, this query is actually  TP53 **OR**  MDM2 **OR** CHK2 **OR** LCK. If you wish to specify  interactions between molecules, please use **AND** operator e.g. TP53 **AND** MDM2
 
-
-
 ### The results of my search contain mixed species e.g. human-mouse interactions – why, and how do I remove them?
 
 Answer: The data reflects how the authors performed the original experiments. In many cases genes from one species are exogenously expressed in a second, for example a tagged mouse protein is expressed in a human cell line, resulting in _mouse-human_ _interactions_. It is our practice to collate the data as it was observed in the experiment e.g. _human-mouse_, _mouse-rat_ and let the user decide whether to infer _human-human_ or _mouse-mouse_ _interactions_ from these observations. Of course, some of the data is _host-pathogen_, and the mixed species interaction is then valid
