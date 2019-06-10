@@ -12,7 +12,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ### Logo
 
-![](../.gitbook/assets/intact_gradient_wca.svg)
+![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi%20%281%29.png)
 
 {% file src="../.gitbook/assets/intact\_gradient\_wca.svg" caption="logo .svg" %}
 
@@ -22,7 +22,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 {% file src="../.gitbook/assets/logo\_gradient\_250x82\_transparentbg\_300dpi.png" caption="logo large .png" %}
 
-![](../.gitbook/assets/intact_white_wca_w_bckg.svg)
+![](../.gitbook/assets/intact_white_wca_w_bckg.png)
 
 {% file src="../.gitbook/assets/intact\_white\_wca.svg" caption="logo \(negative\) .svg" %}
 
