@@ -2,7 +2,7 @@
 
 ### License
 
-IntAct is an open data, open access project, free to be used by anyone. Data and code available at IntAct are distributed under a [Creative Commons Attribution 4.0 International \(CC BY 4.0\) License](https://creativecommons.org/licenses/by/4.0/),  ****meaning you are free to use, reproduce and adapt our data and code providing you give [appropriate credit.](https://creativecommons.org/licenses/by/4.0/#) 
+IntAct is an open data, open access project, free to be used by anyone. Data and code available at IntAct are distributed under a [Creative Commons Attribution 4.0 International \(CC BY 4.0\) License](https://creativecommons.org/licenses/by/4.0/),  ****meaning you are free to use, reproduce and adapt our data and code providing you give [appropriate credit.](https://wiki.creativecommons.org/wiki/License_Versions#Detailed_attribution_comparison_chart) 
 
 ### Privacy Notices
 
