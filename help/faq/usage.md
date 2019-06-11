@@ -1,10 +1,10 @@
 # Usage
 
-### Can I search for more than one protein at a time?
+## Can I search for more than one protein at a time?
 
 Answer: Yes, just list the gene name or UniprotKB accession numbers, space separated e.g. TP53 MDM2 CHK2 LCK. Please note, this query is actually  TP53 **OR**  MDM2 **OR** CHK2 **OR** LCK. If you wish to specify  interactions between molecules, please use **AND** operator e.g. TP53 **AND** MDM2
 
-### The results of my search contain mixed species e.g. human-mouse interactions – why, and how do I remove them?
+## The results of my search contain mixed species e.g. human-mouse interactions – why, and how do I remove them?
 
 Answer: The data reflects how the authors performed the original experiments. In many cases genes from one species are exogenously expressed in a second, for example a tagged mouse protein is expressed in a human cell line, resulting in _mouse-human_ _interactions_. It is our practice to collate the data as it was observed in the experiment e.g. _human-mouse_, _mouse-rat_ and let the user decide whether to infer _human-human_ or _mouse-mouse_ _interactions_ from these observations. Of course, some of the data is _host-pathogen_, and the mixed species interaction is then valid
 
@@ -14,15 +14,15 @@ If you require species-specific data, you should perform the query `species:{you
 
 For example, for only human proteins, `taxidA:9606 AND taxidB:9606`.
 
-### I want to look for interactions between pathogen and host proteins, can I find this information in IntAct?
+## I want to look for interactions between pathogen and host proteins, can I find this information in IntAct?
 
 Answer: Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
 
-### I submitted a list of 2000 UniProtKB accession numbers via the "search" interface of IntAct, I obtain "0 binary interactions found for search term", why and how do I find results to my search?
+## I submitted a list of 2000 UniProtKB accession numbers via the "search" interface of IntAct, I obtain "0 binary interactions found for search term", why and how do I find results to my search?
 
 Answer: The problem is the length of the query. It is difficult to provide a specific limit, because it is defined according to the length in characters that your query consists of, and that depends on the type of identifier you are using. If you submit a list of space-separated UniProtKB accessions, the limit is _approximately_ **700** __identifiers in search. This also applies to PSCIQUIC view and PSICQUIC-based Cytoscape import tool
 
-### I have found no interactions for my protein rat Zap70. How do I find if a homolog/ortholog/paralog with a high degree of sequence similarity has any interactions in the IntAct database?
+## I have found no interactions for my protein rat Zap70. How do I find if a homolog/ortholog/paralog with a high degree of sequence similarity has any interactions in the IntAct database?
 
 Answer: Go to [www.ebi.ac.uk/tools/sss](www.ebi.ac.uk/tools/sss)
 
@@ -40,27 +40,27 @@ Press on the link to access the data in IntAct
 
 ![](../../.gitbook/assets/image%20%283%29.png)
 
-### How do I find if there are interactions involving a specific domain or region in my protein of interest?
+## How do I find if there are interactions involving a specific domain or region in my protein of interest?
 
 Answer
 
-### How do I find interactions affected by variant or mutant forms of my protein?
+## How do I find interactions affected by variant or mutant forms of my protein?
 
 Answer
 
-### Does IntAct record isoform-specific interactions?
+## Does IntAct record isoform-specific interactions?
 
-Answer: Yes, IntAct curators stringently  specify the protein isoform as mentioned by the authors by using appropriate UniProtKB accession number. In case of specific isoform not found in UniProtKB we requesting for creation one, and build interactions.
+Yes, IntAct curators stringently  specify the protein isoform as mentioned by the authors by using appropriate UniProtKB accession number. In case of specific isoform not found in UniProtKB we requesting for creation one, and build interactions.
 
-### Can I find drug-target interactions in IntAct?
+## Can I find drug-target interactions in IntAct?
 
 Answer: IntAct does have Protein-drug interaction data. Drugs or ligands  based interactions can be searched by using appropriate ChEBI accession number in the query.
 
-### Can I find interactions between different molecule types in IntAct? \(e.g. protein-DNA interactions\)
+## Can I find interactions between different molecule types in IntAct? \(e.g. protein-DNA interactions\)
 
 Answer: Yes, IntAct captures protein-DNA interactions,  protein-ligand interactions from scientific literature.
 
-### How to link to the IntAct website?
+## How to link to the IntAct website?
 
 Answer: There are currently 5 supported ways to link to the IntAct website
 
@@ -80,7 +80,7 @@ Given an interaction AC, one can open the detail view
 
 Example: [`http://www.ebi.ac.uk/intact/interaction/EBI-2307627`](http://www.ebi.ac.uk/intact/interaction/EBI-2307627)\`\`
 
-### Why do I get less results when I search the IntAct PSICQUIC service, than when I search the website?
+## Why do I get less results when I search the IntAct PSICQUIC service, than when I search the website?
 
 Answer
 
