@@ -27,7 +27,7 @@
     * [Scoring](help/faq/scoring.md)
     * [Data Export](help/faq/data-export.md)
 * [Docs](docs/README.md)
-  * [Curation Manual](docs/curation-manual.md)
+  * [1. IntAct](docs/curation-manual.md)
   * [Interaction Scoring](docs/interaction-scoring.md)
   * [Expansion Method](docs/expansion-method.md)
   * [Definitions and Formats](docs/definitions-and-formats/README.md)
