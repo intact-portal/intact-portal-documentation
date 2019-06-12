@@ -11,7 +11,7 @@ Most details \(Journal, year of publication, author-list\) will be added automat
 
 #### This is an example of a completed Publication level page
 
-![](../../.gitbook/assets/0%20%282%29.png)
+![](../../.gitbook/assets/0%20%288%29.png)
 
 ## 
 
@@ -49,7 +49,7 @@ Experimental details are entered where experiments have a protocol that is **non
 
 Curators should indicate whether the entry has been curated to IMEx or MIMIx depth \(see Section 1.2\)
 
-![](../../.gitbook/assets/1%20%281%29.png)
+![](../../.gitbook/assets/1%20%284%29.png)
 
 ### 3.2.6 dataset \(NA-MIMIx\)
 

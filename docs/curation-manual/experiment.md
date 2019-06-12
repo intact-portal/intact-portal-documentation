@@ -8,7 +8,7 @@ Experiments that demonstrate that an interaction does **not** occur can be enter
 
 Example of an Experiment – with two interactions.
 
-![](../../.gitbook/assets/0%20%281%29.png)
+![](../../.gitbook/assets/0%20%282%29.png)
 
 ## 4.1. Experiment AC
 
