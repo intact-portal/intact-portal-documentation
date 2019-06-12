@@ -50,15 +50,15 @@ Answer
 
 ## Does IntAct record isoform-specific interactions?
 
-Yes, IntAct curators stringently  specify the protein isoform as mentioned by the authors by using appropriate UniProtKB accession number. In case of specific isoform not found in UniProtKB we requesting for creation one, and build interactions.
+Yes, IntAct curators stringently specify the protein isoform as mentioned by the authors by using appropriate UniProtKB accession number. In case of specific isoform not found in UniProtKB we requesting for creating the same and the curation process will follow after UniProtKB release.
 
 ## Can I find drug-target interactions in IntAct?
 
-IntAct does have Protein-drug interaction data. Drugs or ligands  based interactions can be searched by using appropriate ChEBI accession number in the query.
+Yes, IntAct has documented interaction of proteins with drugs and other small molecules using appropriate ChEBI accession number. Small molecules list will include entities which are synthetic or modified peptides but not those directly encoded by the genome.
 
 ## Can I find interactions between different molecule types in IntAct? \(e.g. protein-DNA interactions\)
 
-Yes, IntAct captures protein-DNA interactions,  protein-ligand interactions from scientific literature.
+Interacting partner\(s\) in IntAct database can be of different molecular types such as proteins, small molecules, nucleic acids, complexes and genes. Based on the type of parter, interactions between protein-protein,  protein-DNA and protein-RNA interactions, protein-small molecule, protein-macromolecule complex interactions are well documented in IntAct.
 
 ## How to link to the IntAct website?
 
