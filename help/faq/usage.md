@@ -34,11 +34,11 @@ Click on protein then paste your sequence into the box, make any required change
 
 You will receive the results in tabular form, with additional hyperlinks through to other databases containing information about this protein. You can see below that, although InAct contains no molecular interactions for rat or mouse it does for human
 
-![](../../.gitbook/assets/image%20%281%29.png)
+![](../../.gitbook/assets/image%20%283%29.png)
 
 Press on the link to access the data in IntAct
 
-![](../../.gitbook/assets/image%20%283%29.png)
+![](../../.gitbook/assets/image%20%287%29.png)
 
 ## How do I find if there are interactions involving a specific domain or region in my protein of interest?
 
