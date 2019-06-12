@@ -39,6 +39,7 @@
   * [APIs](technical-corner/apis.md)
 * [Datasets](dataset-descriptions/README.md)
   * [Curated Datasets](dataset-descriptions/curated-datasets.md)
+  * [Computationally maintained datasets](dataset-descriptions/computational-datasets.md)
   * [Species-based Datasets](dataset-descriptions/species-based-datasets.md)
   * [Mutations](dataset-descriptions/mutations.md)
 * [Download](download/README.md)
