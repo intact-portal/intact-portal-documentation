@@ -42,7 +42,7 @@
   * [Expansion Method](docs/expansion-method.md)
   * [Definitions and Formats](docs/definitions-and-formats/README.md)
     * [Molecular Interaction Formats](docs/definitions-and-formats/molecular-interaction-formats.md)
-    * [Control Vocabulary](docs/definitions-and-formats/control-vocabulary.md)
+    * [Controlled Vocabulary](docs/definitions-and-formats/control-vocabulary.md)
 * [Technical Corner](technical-corner/README.md)
   * [Source Code](technical-corner/source-code.md)
   * [Tools](technical-corner/tools.md)
