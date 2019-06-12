@@ -1,4 +1,4 @@
-# 1. IntAct
+# 1. Introduction
 
 \*\*\*\*
 
@@ -15,7 +15,7 @@ The IntAct data model is built on the following concepts:
 * One experiment has one-to-many interactions;
 * One interaction has one-to-many participants.
 
-![](../.gitbook/assets/1.png)
+![](../../.gitbook/assets/1.png)
 
 A Participant is an Interactor plus its features.
 
