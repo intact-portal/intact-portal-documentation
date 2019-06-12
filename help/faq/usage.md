@@ -2,11 +2,11 @@
 
 ## Can I search for more than one protein at a time?
 
-Yes, just list the gene name or UniprotKB accession numbers, space separated e.g. TP53 MDM2 CHK2 LCK. Please note, this query is actually  TP53 **OR**  MDM2 **OR** CHK2 **OR** LCK. If you wish to specify  interactions between molecules, please use **AND** operator e.g. TP53 **AND** MDM2
+Yes, just list the gene name or UniprotKB accession numbers, space separated e.g. TP53 MDM2 CHK2 LCK. Please note, this query is actually  TP53 **OR**  MDM2 **OR** CHK2 **OR** LCK. If you wish to specify  interactions between molecules, please use **AND** operator e.g. TP53 **AND** MDM2.
 
 ## The results of my search contain mixed species e.g. human-mouse interactions – why, and how do I remove them?
 
-The data reflects how the authors performed the original experiments. In many cases genes from one species are exogenously expressed in a second, for example a tagged mouse protein is expressed in a human cell line, resulting in _mouse-human_ _interactions_. It is our practice to collate the data as it was observed in the experiment e.g. _human-mouse_, _mouse-rat_ and let the user decide whether to infer _human-human_ or _mouse-mouse_ _interactions_ from these observations. Of course, some of the data is _host-pathogen_, and the mixed species interaction is then valid
+The data reflects how the authors performed the original experiments. In many cases genes from one species are exogenously expressed in a second, for example a tagged mouse protein is expressed in a human cell line, resulting in _mouse-human_ _interactions_. It is our practice to collate the data as it was observed in the experiment e.g. _human-mouse_, _mouse-rat_ and let the user decide whether to infer _human-human_ or _mouse-mouse_ _interactions_ from these observations. Of course, some of the data is _host-pathogen_, and the mixed species interaction is then valid.
 
 The 'species' folder on the IntAct ftp site \([ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/species/](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/species/)\) contains species-specific datasets, in PSI-XML2.5 format. These files also contain mixed species interactions.
 
@@ -16,17 +16,17 @@ For example, for only human proteins, `taxidA:9606 AND taxidB:9606`.
 
 ## I want to look for interactions between pathogen and host proteins, can I find this information in IntAct?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+Answer:
 
 ## I submitted a list of 2000 UniProtKB accession numbers via the "search" interface of IntAct, I obtain "0 binary interactions found for search term", why and how do I find results to my search?
 
-The problem is the length of the query. It is difficult to provide a specific limit, because it is defined according to the length in characters that your query consists of, and that depends on the type of identifier you are using. If you submit a list of space-separated UniProtKB accessions, the limit is approximately __**700** __identifiers in search. This also applies to PSCIQUIC view and PSICQUIC-based Cytoscape import tool
+The problem is the length of the query. It is difficult to provide a specific limit, because it is defined according to the length in characters that your query consists of, and that depends on the type of identifier you are using. If you submit a list of space-separated UniProtKB accessions, the limit is approximately __**700** __identifiers in search. This also applies to PSCIQUIC view and PSICQUIC-based Cytoscape import tool.
 
 ## I have found no interactions for my protein rat Zap70. How do I find if a homolog/ortholog/paralog with a high degree of sequence similarity has any interactions in the IntAct database?
 
 Go to [www.ebi.ac.uk/tools/sss](www.ebi.ac.uk/tools/sss)
 
-Select your Search Engine of choice e.g. NCBI-BLAST
+Select your Search Engine of choice e.g. NCBI-BLAST.
 
 Click on protein then paste your sequence into the box, make any required changes to the parameters, add your e-mail address and Submit.
 
@@ -58,7 +58,7 @@ Yes, IntAct has documented interaction of proteins with drugs and other small mo
 
 ## Can I find interactions between different molecule types in IntAct? \(e.g. protein-DNA interactions\)
 
-Interacting partner\(s\) in IntAct database can be of different molecular types such as proteins, small molecules, nucleic acids, complexes and genes. Based on the type of parter, interactions between protein-protein,  protein-DNA and protein-RNA interactions, protein-gene, protein-small molecule, protein-macromolecule complex interactions are well documented in IntAct.
+Interacting partner\(s\) in IntAct database can be of different molecular types such as proteins, small molecules, nucleic acids, complexes and genes. Based on the type of parter, interactions between protein-protein,  protein-DNA and protein-RNA, protein-gene, RNA-RNA, protein-small molecule, protein-macromolecule complex interactions are well documented in IntAct.
 
 ## How to link to the IntAct website?
 
