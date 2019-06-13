@@ -14,17 +14,12 @@ The PSI-MI XML \(miXML\) data interchange format is an XML-based molecular inter
 
 ### RDF
 
-RDF is a standard model for data interchange on the Web. RDF formats supported in IntAct are RDF/XML and RDF/XML-ABBREV \(RDF Syntax Recommendation\), N3 \(Tim Berners-Lee's Notation 3 Language\), N-Triples \(RDF Core's N-Triples Language\) and Turtle \(Terse RDF Triple Language\). Additional information is available at
+RDF is a standard model for data interchange on the Web. Here we list the RDF formats supported in IntAct, with links provided for each format specifications document:
 
-[https://www.w3.org/TR/2014/REC-n-triples-20140225/](https://www.w3.org/TR/2014/REC-n-triples-20140225/),
-
-[https://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/](https://www.w3.org/TR/2014/REC-rdf-syntax-grammar-20140225/),
-
-[https://www.w3.org/TR/2014/REC-turtle-20140225/](https://www.w3.org/TR/2014/REC-turtle-20140225/),
-
-[https://www.w3.org/TeamSubmission/n3/](https://www.w3.org/TeamSubmission/n3/)
-
-[https://www.w3.org/TR/rdf-syntax-grammar/](https://www.w3.org/TR/rdf-syntax-grammar/)
+* RDF/XML and RDF/XML-ABBREV \([RDF Syntax Recommendation](https://www.w3.org/TR/rdf-syntax-grammar/)\)
+* N3 \([Tim Berners-Lee's Notation 3 Language](https://www.w3.org/TeamSubmission/n3/)\)
+* N-Triples \([RDF Core's N-Triples Language](https://www.w3.org/TR/2014/REC-n-triples-20140225/)\)
+* Turtle \([Terse RDF Triple Language](https://www.w3.org/TR/2014/REC-turtle-20140225/)\)
 
 ### BioPAX
 
