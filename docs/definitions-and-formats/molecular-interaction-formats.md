@@ -28,7 +28,7 @@ RDF is a standard model for data interchange on the Web. RDF formats supported i
 
 ### BioPAX
 
-IntAct supports BioPAX Level 2 and Level 3. BioPAX \(Biological Pathway Exchange\) is a standard language to represent biological pathways at the molecular and cellular level. Additional information is available at [https://github.com/BioPAX](https://github.com/BioPAX).
+IntAct supports BioPAX Level 2 and Level 3. BioPAX \(Biological Pathway Exchange\) is a standard language to represent biological pathways at the molecular and cellular level. Additional information is available at [https://github.com/BioPAX/specification](https://github.com/BioPAX/specification).
 
 XGGML
 
