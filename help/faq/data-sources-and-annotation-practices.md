@@ -1,8 +1,8 @@
 # Data Sources and Annotation Practices
 
-## Where does Intact data come from?
+## Where does IntAct data come from?
 
-That's a tough question but thankfully, our team is on it. Please bear with us while we're investigating.
+IntAct curators populate molecular interaction experimental data from published scientific literature and  also facilitate direct user submission prior to publication in a peer-reviewed journal.
 
 ## How do I submit data to IntAct?
 
