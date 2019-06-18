@@ -6,7 +6,13 @@ That's a tough question but thankfully, our team is on it. Please bear with us w
 
 ## How do I submit data to IntAct?
 
-Answer
+The IntAct database encourages and welcomes direct user submissions of molecular interaction data, which may be deposited with us prior to publication in a peer-reviewed journal. We will be happy to assist you with final data preparation and will make your submission publicly available as soon as your article is published. We are happy to accept data in any format, but recommend that you read the [IMEx guideline](http://imex.sourceforge.net/MIMIx/) which may help you in preparing for both deposition and publication.   
+  
+[Here](http://www.ebi.ac.uk/~intact/site/doc/LargeScaleSubmissionTable.xlsx) you have an example excel file detailing the type of information we require for a submission. Please take this a simple guidance, you do not need to accommodate every single detail in terms of format. Interaction data does not constrain to a single way of representation and we can easily re-format your data if we have the required information.   
+  
+Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) once you are ready to send your data, if you have any further questions, or if you would like curator assistance in your data preparation.   
+  
+We are also willing to curate specific papers, on request, or become more actively involved in specific projects. Again, please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) if you would like to discuss this further.
 
 ## What advantages does it have to submit data to IntAct?
 
@@ -25,7 +31,7 @@ Authors state the number of interactions they have identified, based on protein 
 
 ## Are all the molecules reported in an interaction directly binding?
 
-Answer: No, not all the interactions represented in IntAct can be considered as direct binary contacts between the molecules involved. In fact, most of the experimental interaction data that we curate does not allow to say whether an interaction is direct or not. 
+No, not all the interactions represented in IntAct can be considered as direct binary contacts between the molecules involved. In fact, most of the experimental interaction data that we curate does not allow to say whether an interaction is direct or not. 
 
 The 'Interaction type' column can help you find out if an interacting pair is directly binding. We distinguish three major types of interaction:
 
