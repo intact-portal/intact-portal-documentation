@@ -16,7 +16,7 @@ We are also willing to curate specific papers, on request, or become more active
 
 ## What advantages does it have to submit data to IntAct?
 
-Yes, after a few months we finally found the answer. Sadly, Mike is on vacations right now so I'm afraid we are not able to provide the answer at this point.
+There are several benefits from direct user submission. First, it establishes an author-curator direct link that ensures proper and often richer representation of the data, having helped in the past to detect manuscript errors that were corrected before publication. In some cases, details that are not representable through the article text are made available in the database entry and this link between database and data provider has become an on-going collaboration. Secondly, pre-publication data submissions embed a direct reference to the database entry in the manuscript, increasing the visibility and re-usability of the data. Finally, it also ensures that the data is available to users around the manuscript publication date.
 
 ## Why does the number of interactions given in a particular high-throughput paper, differ from the number I can download from IntAct from the same publication?
 
