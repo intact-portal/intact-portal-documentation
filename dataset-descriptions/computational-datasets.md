@@ -1,10 +1,6 @@
----
-description: >-
-  These datasets are computationally maintained but additional papers may be
-  manually added to this set by a curator during the curation process.
----
-
 # Computationally maintained datasets
+
+These datasets are computationally maintained but additional papers may be manually added to this set by a curator during the curation process.
 
 When datasets are computationally added to a publication, the large scale papers \(more than 100 interactions per experiment\) are excluded.
 

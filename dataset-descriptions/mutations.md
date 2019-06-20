@@ -1,12 +1,6 @@
----
-description: >-
-  This dataset contains over 28,000 instances where mutations have been
-  experimentally shown to affect a protein interaction.
----
-
 # Mutations
 
-
+This dataset contains annotations of experimental evidence where mutations have been shown to affect a protein interaction.
 
 There are several types of mutations covered, the terms used have been described in the PSI-MI controlled vocabularies, accessible at [www.ebi.ac.uk/ols/ontologies/mi](https://www.ebi.ac.uk/ols/ontologies/mi):
 

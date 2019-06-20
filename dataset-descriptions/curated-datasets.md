@@ -1,10 +1,6 @@
----
-description: >-
-  Curated datasets are publications tagged, either computationally or manually
-  by a curator, as being relevant to a specific area of biology.
----
-
 # Curated Datasets
+
+Curated datasets are publications tagged, either computationally or manually by a curator, as being relevant to a specific area of biology.
 
 These are actively maintained and grow with every release.   
 New datasets can be requested, if relevant to your work, by mailing [intact-help@ebi.ac.uk.](mailto:intact-help@ebi.ac.uk)
