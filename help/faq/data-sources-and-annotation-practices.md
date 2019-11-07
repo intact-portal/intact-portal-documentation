@@ -1,10 +1,10 @@
 # Data Sources and Annotation Practices
 
-## Where does IntAct data come from?
+### Where does Intact data come from?
 
-IntAct curators populate molecular interaction experimental data from published scientific literature and  also facilitate direct user submission prior to publication in a peer-reviewed journal.
+IntAct populates molecular interactions from experimentally-derived interaction data available in the published scientific literature and from direct scientists' submissions prior to publication in a peer-reviewed journal.
 
-## How do I submit data to IntAct?
+### How do I submit data to IntAct?
 
 The IntAct database encourages and welcomes direct user submissions of molecular interaction data, which may be deposited with us prior to publication in a peer-reviewed journal. We will be happy to assist you with final data preparation and will make your submission publicly available as soon as your article is published. We are happy to accept data in any format, but recommend that you read the [IMEx guideline](http://imex.sourceforge.net/MIMIx/) which may help you in preparing for both deposition and publication.   
   
@@ -14,14 +14,30 @@ Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) once yo
   
 We are also willing to curate specific papers, on request, or become more actively involved in specific projects. Again, please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) if you would like to discuss this further.
 
-## What advantages does it have to submit data to IntAct?
+The IntAct database encourages and welcomes direct user submissions of molecular interaction data, which may be deposited with us prior to publication in a peer-reviewed journal. We will be happy to assist you with final data preparation and will make your submission publicly available as soon as your article is published. We are happy to accept data in any format, but recommend that you read the [IMEx guideline](http://imex.sourceforge.net/MIMIx/) which may help you in preparing for both deposition and publication.   
+  
+[Here](http://www.ebi.ac.uk/~intact/site/doc/LargeScaleSubmissionTable.xlsx) you have an example excel file detailing the type of information we require for a submission. Please take this a simple guidance, you do not need to accommodate every single detail in terms of format. Interaction data does not constrain to a single way of representation and we can easily re-format your data if we have the required information.   
+  
+Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) once you are ready to send your data, if you have any further questions, or if you would like curator assistance in your data preparation.   
+  
+We are also willing to curate specific papers, on request, or become more actively involved in specific projects. Again, please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) if you would like to discuss this further.
+
+### What advantages does it have to submit data to IntAct?
 
 There are several benefits from direct user submission. First, it establishes an author-curator direct link that ensures proper and often richer representation of the data, having helped in the past to detect manuscript errors that were corrected before publication. In some cases, details that are not representable through the article text are made available in the database entry and this link between database and data provider has become an on-going collaboration. Secondly, pre-publication data submissions embed a direct reference to the database entry in the manuscript, increasing the visibility and re-usability of the data. Finally, it also ensures that the data is available to users around the manuscript publication date.
 
-## Why does the number of interactions given in a particular high-throughput paper, differ from the number I can download from IntAct from the same publication?
+### Why does the number of interactions given in a particular high-throughput paper, differ from the number I can download from IntAct from the same publication?
+
+Answer
 
 Authors state the number of interactions they have identified, based on protein sequence identifications made at the time of going to press. When we upload this data into the IntAct molecular interaction database, we map these identifications to the UniProtKB protein sequence database, so that our users can benefit from the high-quality manual annotation of these sequences performed by the UniProtKB/Swiss-Prot curators. The number of interactions can vary both as a result of this process and also as a result of time for the following reasons.
 
+* The author may have used a redundant database to identify their proteins. We often find separate identifiers map to a common non-redundant UniProtKB entry and an interaction turns out to have been identified twice, but originally assigned to different protein IDs.
+* Proteins may have been withdrawn from the protein sequence database over time - this is particularity true for predicted proteins based on gene models. If we cannot remap the protein to an appropriate alternative, we may have to withdraw the interaction.
+* Gene models may merge resulting in only one interacting pair being identified, where previously there was thought to be two.
+* Gene models may be split over time - in this case any interaction based on a protein product of the original gene model will have to be withdrawn unless we have enough data to tell us which of the new proteins is involved in the interaction.
+* Authors may submit additional interactions which they did not describe in the original paper but were generated by the same method. This will be maintained separately and labelled as such.
+* Some interactions pairs included by the author may break the annotation rules of both the IntAct molecular interaction database and the IMEx consortium If so, these interactions are excluded and a note added as a "data-processing" comment to explain why.
 * The author may have used a redundant database to identify their proteins. We often find separate identifiers map to a common non-redundant UniProtKB entry and an interaction turns out to have been identified twice, but originally assigned to different protein IDs.
 * Proteins may have been withdrawn from the protein sequence database over time - this is particularity true for predicted proteins based on gene models. If we cannot remap the protein to an appropriate alternative, we may have to withdraw the interaction.
 * Gene models may merge resulting in only one interacting pair being identified, where previously there was thought to be two.
