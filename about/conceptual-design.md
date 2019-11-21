@@ -14,6 +14,8 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi%20%281%29.png)
 
+![](../.gitbook/assets/intact_gradient_wca.svg)
+
 {% file src="../.gitbook/assets/intact\_gradient\_wca.svg" caption="logo .svg" %}
 
 {% file src="../.gitbook/assets/logo\_gradient\_50x18\_transparentbg\_300dpi.png" caption="logo small .png" %}
