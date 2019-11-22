@@ -12,21 +12,14 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ## Logo
 
-![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi%20%281%29.png)
+![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)
 
 | Type | Download |
 | :--- | :--- |
 | Logo SVG | ![](../.gitbook/assets/intact_gradient_wca.svg)  |
-
-![](../.gitbook/assets/intact_gradient_wca.svg)
-
-{% file src="../.gitbook/assets/intact\_gradient\_wca.svg" caption="logo .svg" %}
-
-{% file src="../.gitbook/assets/logo\_gradient\_50x18\_transparentbg\_300dpi.png" caption="logo small .png" %}
-
-{% file src="../.gitbook/assets/logo\_gradient\_150x50\_transparentbg\_300dpi.png" caption="logo medium .png" %}
-
-{% file src="../.gitbook/assets/logo\_gradient\_250x82\_transparentbg\_300dpi.png" caption="logo large .png" %}
+| Logo Small | ![](../.gitbook/assets/logo_gradient_50x18_transparentbg_300dpi.png)  |
+| Logo Medium | ![](../.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png)  |
+| Logo Large | ![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)  |
 
 ![](../.gitbook/assets/intact_white_wca_w_bckg.png)
 
