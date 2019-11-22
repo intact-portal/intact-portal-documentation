@@ -12,7 +12,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ## Logo
 
-![](../.gitbook/assets/intact_gradient_wca.svg)
+![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)
 
 | Download |
 | :--- |
@@ -21,7 +21,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 | [Logo medium](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png) |
 | [Logo large](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png) |
 
-![](../.gitbook/assets/intact_white_wca_w_bckg.svg)
+![](../.gitbook/assets/intact_white_wca_w_bckg.png)
 
 | Download |
 | :--- |
