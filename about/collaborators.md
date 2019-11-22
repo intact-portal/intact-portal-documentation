@@ -1,10 +1,10 @@
 # Collaborators
 
-### IntAct and the IMEx Consortium
+## IntAct and the IMEx Consortium
 
 IntAct is a member of the [IMEx Consortium](www.imexconsortium.org), an international collaboration between a group of major public interaction data providers who have agreed to share curation effort and practices. 
 
-### IMEx Consortium active members
+## IMEx Consortium active members
 
 * [DIP](http://dip.doe-mbi.ucla.edu/)
 * [HPID](http://hpidb.igbb.msstate.edu/index.html)
@@ -18,7 +18,7 @@ IntAct is a member of the [IMEx Consortium](www.imexconsortium.org), an internat
 * [UniProt group](https://www.uniprot.org/)
 * [Swiss-Prot group, SIB](https://web.expasy.org/groups/swissprot/)
 
-### Additional collaborators
+## Additional collaborators
 
 Is this needed?
 

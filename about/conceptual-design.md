@@ -12,9 +12,13 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ## Logo
 
-![logo](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi%20%281%29.png)
+![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi%20%281%29.png)
 
-![logo](../.gitbook/assets/intact_gradient_wca.svg)
+| Type | Download |
+| :--- | :--- |
+| Logo SVG | ![](../.gitbook/assets/intact_gradient_wca.svg)  |
+
+![](../.gitbook/assets/intact_gradient_wca.svg)
 
 {% file src="../.gitbook/assets/intact\_gradient\_wca.svg" caption="logo .svg" %}
 

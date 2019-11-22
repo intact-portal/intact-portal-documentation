@@ -1,6 +1,6 @@
 # Funding
 
-### Current support
+## Current support
 
 IntAct is supported via the following funding streams:
 
@@ -9,9 +9,7 @@ IntAct is supported via the following funding streams:
 * Wellcome Trust Biomedical Resources grant: ["INVAR: assigning function to orphan amino-acid variants" ](https://wellcome.ac.uk/funding/people-and-projects/grants-awarded/invar-assigning-function-orphan-aminoacid-variants)
 * EC COST Action: Gene Regulation Ensemble Effort for the Knowledge Commons \([GREEKC](https://www.greekc.org/)\)
 
-
-
-### Previous support
+## Previous support
 
 * European Commission grants SLING \(226073\)
 * FELICS \(021902\)
