@@ -15,38 +15,38 @@ Both the logo and the icon are freely available here for use provided appropriat
 ![](../.gitbook/assets/intact_gradient_wca.svg)
 
 | Download |
-| -------- |
-| [Logo SVG](../.gitbook/assets/intact_gradient_wca.svg)  |
-| [Logo small](../.gitbook/assets/logo_gradient_50x18_transparentbg_300dpi.png)  |
-| [Logo medium](../.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png)  |
-| [Logo large](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)  |
+| :--- |
+| [Logo SVG](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/intact_gradient_wca.svg) |
+| [Logo small](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_gradient_50x18_transparentbg_300dpi.png) |
+| [Logo medium](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png) |
+| [Logo large](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png) |
 
-![](../.gitbook/assets/intact_white_wca.svg)
+![](../.gitbook/assets/intact_white_wca_w_bckg.svg)
 
 | Download |
-| -------- |
-| [Logo negative SVG](../.gitbook/assets/intact_white_wca.svg)  |
-| [Logo negative small](../.gitbook/assets/logo_white_50x18_transparentbg_300dpi.png)  |
-| [Logo negative medium](../.gitbook/assets/logo_white_150x50_transparentbg_300dpi.png)  |
-| [Logo negative large](../.gitbook/assets/logo_white_250x82_transparentbg_300dpi.png)  |
+| :--- |
+| [Logo negative SVG](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/intact_white_wca.svg) |
+| [Logo negative small](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_white_50x18_transparentbg_300dpi.png) |
+| [Logo negative medium](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_white_150x50_transparentbg_300dpi.png) |
+| [Logo negative large](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_white_250x82_transparentbg_300dpi.png) |
 
 ## Icon
 
 ![](../.gitbook/assets/icon_gradient_wca.svg)
 
 | Downloads |
-| --------- |
-| [Icon SVG](../.gitbook/assets/icon_gradient_wca.svg)  |
-| [Icon small](../.gitbook/assets/icon_gradient_50x50_transparentbg_300dpi.png)  |
-| [Icon medium](../.gitbook/assets/icon_gradient_150x150_transparentbg_300dpi.png)  |
-| [Icon large](../.gitbook/assets/icon_gradient_250x250_transparentbg_300dpi.png)  |
+| :--- |
+| [Icon SVG](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/icon_gradient_wca.svg) |
+| [Icon small](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/icon_gradient_50x50_transparentbg_300dpi.png) |
+| [Icon medium](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/icon_gradient_150x150_transparentbg_300dpi.png) |
+| [Icon large](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/icon_gradient_250x250_transparentbg_300dpi.png) |
 
-![](../.gitbook/assets/icon_white_wca.svg)
+![](../.gitbook/assets/icon_white_w_bckg.svg)
 
 | Downloads |
-| --------- |
-| [Icon negative SVG](../.gitbook/assets/icon_white_wca.svg)  |
-| [Icon negative small](../.gitbook/assets/icon_white_50x50_transparentbg_300dpi.png)  |
-| [Icon negative medium](../.gitbook/assets/icon_white_150x150_transparentbg_300dpi.png)  |
-| [Icon negative large](../.gitbook/assets/icon_white_250x250_transparentbg_300dpi.png)  |
+| :--- |
+| [Icon negative SVG](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/icon_white_wca.svg) |
+| [Icon negative small](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/icon_white_50x50_transparentbg_300dpi.png) |
+| [Icon negative medium](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/icon_white_150x150_transparentbg_300dpi.png) |
+| [Icon negative large](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/icon_white_250x250_transparentbg_300dpi.png) |
 
