@@ -12,7 +12,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ## Logo
 
-![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)
+![](../.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png)
 
 | Download |
 | -------- |
@@ -21,7 +21,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 | [Logo medium](../.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png)  |
 | [Logo large](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)  |
 
-![](../.gitbook/assets/intact_white_wca_w_bckg.png)
+![](../.gitbook/assets/logo_white_150x50_transparentbg_300dpi.png)
 
 | Download |
 | -------- |
@@ -32,21 +32,21 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ## Icon
 
-![](../.gitbook/assets/icon_gradient_wca.svg)
+![](../.gitbook/assets/icon_gradient_50x50_transparentbg_300dpi.png)
 
 | Downloads |
 | --------- |
 | [Icon SVG](../.gitbook/assets/icon_gradient_wca.svg)  |
-| [Icon Small](../.gitbook/assets/icon_gradient_50x50_transparentbg_300dpi.png)  |
-| [Icon Medium](../.gitbook/assets/icon_gradient_150x150_transparentbg_300dpi.png)  |
-| [Icon Large](../.gitbook/assets/icon_gradient_250x250_transparentbg_300dpi.png)  |
+| [Icon small](../.gitbook/assets/icon_gradient_50x50_transparentbg_300dpi.png)  |
+| [Icon medium](../.gitbook/assets/icon_gradient_150x150_transparentbg_300dpi.png)  |
+| [Icon large](../.gitbook/assets/icon_gradient_250x250_transparentbg_300dpi.png)  |
 
-![](../.gitbook/assets/icon_white_w_bckg.svg)
+![](../.gitbook/assets/icon_white_50x50_transparentbg_300dpi.png)
 
 | Downloads |
 | --------- |
 | [Icon negative SVG](../.gitbook/assets/icon_white_wca.svg)  |
-| [Icon negative Small](../.gitbook/assets/icon_white_50x50_transparentbg_300dpi.png)  |
-| [Icon negative Medium](../.gitbook/assets/icon_white_150x150_transparentbg_300dpi.png)  |
-| [Icon negative Large](../.gitbook/assets/icon_white_250x250_transparentbg_300dpi.png)  |
+| [Icon negative small](../.gitbook/assets/icon_white_50x50_transparentbg_300dpi.png)  |
+| [Icon negative medium](../.gitbook/assets/icon_white_150x150_transparentbg_300dpi.png)  |
+| [Icon negative large](../.gitbook/assets/icon_white_250x250_transparentbg_300dpi.png)  |
 
