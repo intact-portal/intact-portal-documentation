@@ -28,8 +28,6 @@ There are several benefits from direct user submission. First, it establishes an
 
 ## Why does the number of interactions given in a particular high-throughput paper, differ from the number I can download from IntAct from the same publication?
 
-Answer
-
 Authors state the number of interactions they have identified, based on protein sequence identifications made at the time of going to press. When we upload this data into the IntAct molecular interaction database, we map these identifications to the UniProtKB protein sequence database, so that our users can benefit from the high-quality manual annotation of these sequences performed by the UniProtKB/Swiss-Prot curators. The number of interactions can vary both as a result of this process and also as a result of time for the following reasons.
 
 * The author may have used a redundant database to identify their proteins. We often find separate identifiers map to a common non-redundant UniProtKB entry and an interaction turns out to have been identified twice, but originally assigned to different protein IDs.
