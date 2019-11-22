@@ -2,7 +2,7 @@
 
 ## Can I search for more than one protein at a time?
 
-Yes, just list the gene name or UniprotKB accession numbers, space separated e.g. TP53 MDM2 CHK2 LCK. Please note, this query is actually  TP53 **OR**  MDM2 **OR** CHK2 **OR** LCK. If you wish to specify  interactions between molecules, please use **AND** operator e.g. TP53 **AND** MDM2.
+Yes, just list the gene name or UniprotKB accession numbers, space separated e.g. TP53 MDM2 CHK2 LCK. Please note, this query is actually TP53 **OR** MDM2 **OR** CHK2 **OR** LCK. If you wish to specify interactions between molecules, please use **AND** operator e.g. TP53 **AND** MDM2.
 
 ## The results of my search contain mixed species e.g. human-mouse interactions – why, and how do I remove them?
 
@@ -24,7 +24,7 @@ The problem is the length of the query. It is difficult to provide a specific li
 
 ## I have found no interactions for my protein rat Zap70. How do I find if a homolog/ortholog/paralog with a high degree of sequence similarity has any interactions in the IntAct database?
 
-Go to [www.ebi.ac.uk/tools/sss](www.ebi.ac.uk/tools/sss)
+Go to [www.ebi.ac.uk/tools/sss](https://github.com/intact-portal/intact-portal-documentation/tree/8e742af7316018e9ef02c904bd4a4b7932e7cafc/help/faq/www.ebi.ac.uk/tools/sss/README.md)
 
 Select your Search Engine of choice e.g. NCBI-BLAST.
 
@@ -58,39 +58,39 @@ Yes, IntAct has documented interaction of proteins with drugs and other small mo
 
 ## Can I find interactions between different molecule types in IntAct? \(e.g. protein-DNA interactions\)
 
-Interacting partner\(s\) in IntAct database can be of different molecular types such as proteins, small molecules, nucleic acids, complexes and genes. Based on the type of parter, interactions between protein-protein,  protein-DNA and protein-RNA, protein-gene, RNA-RNA, protein-small molecule, protein-macromolecule complex interactions are well documented in IntAct.
+Interacting partner\(s\) in IntAct database can be of different molecular types such as proteins, small molecules, nucleic acids, complexes and genes. Based on the type of parter, interactions between protein-protein, protein-DNA and protein-RNA, protein-gene, RNA-RNA, protein-small molecule, protein-macromolecule complex interactions are well documented in IntAct.
 
 ## How to link to the IntAct website?
 
 There are currently 5 supported ways to link to the IntAct website
 
-#### 1. Interaction tab using a free text query \(MIQL\):
+### 1. Interaction tab using a free text query \(MIQL\):
 
-Example:[`http://www.ebi.ac.uk/intact/query/bbc1`](http://www.ebi.ac.uk/intact/query/bbc1)\`\`
+Example:[`http://www.ebi.ac.uk/intact/query/bbc1`](http://www.ebi.ac.uk/intact/query/bbc1)
 
-#### 2. Details tab by experiment AC: 
+### 2. Details tab by experiment AC:
 
 Given an experiment AC, one can open the details below \(Please note: this will not show any interaction details but only experiment and respective publication\)
 
 Example: [`http://www.ebi.ac.uk/intact/pages/details/details.xhtml?experimentAc=EBI-768904`](http://www.ebi.ac.uk/intact/pages/details/details.xhtml?experimentAc=EBI-768904)
 
-#### 3. Details tab by interaction AC: 
+### 3. Details tab by interaction AC:
 
 Given an interaction AC, one can open the detail view
 
-Example: [`http://www.ebi.ac.uk/intact/interaction/EBI-2307627`](http://www.ebi.ac.uk/intact/interaction/EBI-2307627)\`\`
+Example: [`http://www.ebi.ac.uk/intact/interaction/EBI-2307627`](http://www.ebi.ac.uk/intact/interaction/EBI-2307627)
 
-#### 4. Interaction given a pair of interactor:
+### 4. Interaction given a pair of interactor:
 
 Given two interactors' AC, one can open the interaction detail view, for instance
 
-Example: [`http://www.ebi.ac.uk/intact/pages/details/details.xhtml?binary=EBI-3437,EBI-2750`](http://www.ebi.ac.uk/intact/pages/details/details.xhtml?binary=EBI-3437,EBI-2750)\`\`
+Example: [`http://www.ebi.ac.uk/intact/pages/details/details.xhtml?binary=EBI-3437,EBI-2750`](http://www.ebi.ac.uk/intact/pages/details/details.xhtml?binary=EBI-3437,EBI-2750)
 
-#### 5. Molecule view by interactor AC:
+### 5. Molecule view by interactor AC:
 
 Given an interactor AC, one can open the Molecule view \(Dasty2\), for instance
 
-Example: [`http://www.ebi.ac.uk/intact/molecule/EBI-349905`](http://www.ebi.ac.uk/intact/molecule/EBI-349905)\`\`
+Example: [`http://www.ebi.ac.uk/intact/molecule/EBI-349905`](http://www.ebi.ac.uk/intact/molecule/EBI-349905)
 
 ## Why do I get less results when I search the IntAct PSICQUIC service, than when I search the website?
 
@@ -101,8 +101,8 @@ Here you have a list with the code for each format: [https://github.com/MICommun
 For more information, please have a look at our PSICQUIC GitHub project page: [href="https://github.com/MICommunity/psicquic](https://github.com/MICommunity/psicquic)
 
 Here you have a list with the code for each format:  
-[https://github.com/MICommunity/psicquic/blob/wiki/PsicquicSpec\_1\_3\_Rest.md\#formats](https://github.com/MICommunity/psicquic/blob/wiki/PsicquicSpec_1_3_Rest.md#formats)   
-  
+[https://github.com/MICommunity/psicquic/blob/wiki/PsicquicSpec\_1\_3\_Rest.md\#formats](https://github.com/MICommunity/psicquic/blob/wiki/PsicquicSpec_1_3_Rest.md#formats)
+
 For more information, please have a look at our PSICQUIC GitHub project page:  
 [href="https://github.com/MICommunity/psicquic](https://github.com/MICommunity/psicquic)
 
