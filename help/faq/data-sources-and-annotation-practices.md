@@ -1,10 +1,10 @@
 # Data Sources and Annotation Practices
 
-### Where does Intact data come from?
+## Where does Intact data come from?
 
 IntAct populates molecular interactions from experimentally-derived interaction data available in the published scientific literature and from direct scientists' submissions prior to publication in a peer-reviewed journal.
 
-### How do I submit data to IntAct?
+## How do I submit data to IntAct?
 
 The IntAct database encourages and welcomes direct user submissions of molecular interaction data, which may be deposited with us prior to publication in a peer-reviewed journal. We will be happy to assist you with final data preparation and will make your submission publicly available as soon as your article is published. We are happy to accept data in any format, but recommend that you read the [IMEx guideline](http://imex.sourceforge.net/MIMIx/) which may help you in preparing for both deposition and publication.   
   
@@ -22,11 +22,11 @@ Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) once yo
   
 We are also willing to curate specific papers, on request, or become more actively involved in specific projects. Again, please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) if you would like to discuss this further.
 
-### What advantages does it have to submit data to IntAct?
+## What advantages does it have to submit data to IntAct?
 
 There are several benefits from direct user submission. First, it establishes an author-curator direct link that ensures proper and often richer representation of the data, having helped in the past to detect manuscript errors that were corrected before publication. In some cases, details that are not representable through the article text are made available in the database entry and this link between database and data provider has become an on-going collaboration. Secondly, pre-publication data submissions embed a direct reference to the database entry in the manuscript, increasing the visibility and re-usability of the data. Finally, it also ensures that the data is available to users around the manuscript publication date.
 
-### Why does the number of interactions given in a particular high-throughput paper, differ from the number I can download from IntAct from the same publication?
+## Why does the number of interactions given in a particular high-throughput paper, differ from the number I can download from IntAct from the same publication?
 
 Answer
 

@@ -1,16 +1,16 @@
 # Logo and Design Portfolio
 
-### Introducing IntAct's new logo
+## Introducing IntAct's new logo
 
-The new IntAct logo portrays an abstracted interaction / binding concept, using simplified lines to give it a sense of contemporarity and also incompleteness, a fundamental property of interactomics data. 
+The new IntAct logo portrays an abstracted interaction / binding concept, using simplified lines to give it a sense of contemporarity and also incompleteness, a fundamental property of interactomics data.
 
-The logo has been authored by graphic designer [Cristoffer Sevilla](https://www.behance.net/CristofferLSevilla).  
+The logo has been authored by graphic designer [Cristoffer Sevilla](https://www.behance.net/CristofferLSevilla).
 
-### How to use our logo
+## How to use our logo
 
-Both the logo and the icon are freely available here for use provided appropriate credit is acknowledged. The logo works best against a white background, but we also provide negative versions for use against coloured backgrounds. 
+Both the logo and the icon are freely available here for use provided appropriate credit is acknowledged. The logo works best against a white background, but we also provide negative versions for use against coloured backgrounds.
 
-### Logo
+## Logo
 
 ![logo](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi%20%281%29.png)
 
@@ -34,7 +34,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 {% file src="../.gitbook/assets/logo\_white\_250x82\_transparentbg\_300dpi.png" caption="logo \(negative\) large .png" %}
 
-### Icon
+## Icon
 
 ![](../.gitbook/assets/icon_gradient_wca.svg)
 
