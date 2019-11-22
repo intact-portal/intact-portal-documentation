@@ -14,42 +14,39 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)
 
-| Type | Download |
-| :--- | :--- |
-| Logo SVG | ![](../.gitbook/assets/intact_gradient_wca.svg)  |
-| Logo Small | ![](../.gitbook/assets/logo_gradient_50x18_transparentbg_300dpi.png)  |
-| Logo Medium | ![](../.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png)  |
-| Logo Large | ![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)  |
+| Download |
+| -------- |
+| [Logo SVG](../.gitbook/assets/intact_gradient_wca.svg)  |
+| [Logo small](../.gitbook/assets/logo_gradient_50x18_transparentbg_300dpi.png)  |
+| [Logo medium](../.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png)  |
+| [Logo large](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)  |
 
 ![](../.gitbook/assets/intact_white_wca_w_bckg.png)
 
-{% file src="../.gitbook/assets/intact\_white\_wca.svg" caption="logo \(negative\) .svg" %}
-
-{% file src="../.gitbook/assets/logo\_white\_50x18\_transparentbg\_300dpi.png" caption="logo \(negative\) small .png" %}
-
-{% file src="../.gitbook/assets/logo\_white\_150x50\_transparentbg\_300dpi.png" caption="logo \(negative\) medium .png" %}
-
-{% file src="../.gitbook/assets/logo\_white\_250x82\_transparentbg\_300dpi.png" caption="logo \(negative\) large .png" %}
+| Download |
+| -------- |
+| [Logo negative SVG](../.gitbook/assets/intact_white_wca.svg)  |
+| [Logo negative small](../.gitbook/assets/logo_white_50x18_transparentbg_300dpi.png)  |
+| [Logo negative medium](../.gitbook/assets/logo_white_150x50_transparentbg_300dpi.png)  |
+| [Logo negative large](../.gitbook/assets/logo_white_250x82_transparentbg_300dpi.png)  |
 
 ## Icon
 
 ![](../.gitbook/assets/icon_gradient_wca.svg)
 
-{% file src="../.gitbook/assets/icon\_gradient\_wca.svg" caption="icon .svg" %}
-
-{% file src="../.gitbook/assets/icon\_gradient\_50x50\_transparentbg\_300dpi.png" caption="icon small .png" %}
-
-{% file src="../.gitbook/assets/icon\_gradient\_150x150\_transparentbg\_300dpi.png" caption="icon medium .png" %}
-
-{% file src="../.gitbook/assets/icon\_gradient\_250x250\_transparentbg\_300dpi.png" caption="icon large .png" %}
+| Downloads |
+| --------- |
+| [Icon SVG](../.gitbook/assets/icon_gradient_wca.svg)  |
+| [Icon Small](../.gitbook/assets/icon_gradient_50x50_transparentbg_300dpi.png)  |
+| [Icon Medium](../.gitbook/assets/icon_gradient_150x150_transparentbg_300dpi.png)  |
+| [Icon Large](../.gitbook/assets/icon_gradient_250x250_transparentbg_300dpi.png)  |
 
 ![](../.gitbook/assets/icon_white_w_bckg.svg)
 
-{% file src="../.gitbook/assets/icon\_white\_wca.svg" caption="icon \(negative\) .svg" %}
-
-{% file src="../.gitbook/assets/icon\_white\_50x50\_transparentbg\_300dpi.png" caption="icon \(negative\) small .png" %}
-
-{% file src="../.gitbook/assets/icon\_white\_150x150\_transparentbg\_300dpi.png" caption="icon \(negative\) medium .png" %}
-
-{% file src="../.gitbook/assets/icon\_white\_250x250\_transparentbg\_300dpi.png" caption="icon \(negative\) large .png" %}
+| Downloads |
+| --------- |
+| [Icon negative SVG](../.gitbook/assets/icon_white_wca.svg)  |
+| [Icon negative Small](../.gitbook/assets/icon_white_50x50_transparentbg_300dpi.png)  |
+| [Icon negative Medium](../.gitbook/assets/icon_white_150x150_transparentbg_300dpi.png)  |
+| [Icon negative Large](../.gitbook/assets/icon_white_250x250_transparentbg_300dpi.png)  |
 
