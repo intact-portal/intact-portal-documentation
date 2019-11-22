@@ -12,7 +12,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ## Logo
 
-![](../.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png)
+![](../.gitbook/assets/intact_gradient_wca.svg)
 
 | Download |
 | -------- |
@@ -21,7 +21,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 | [Logo medium](../.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png)  |
 | [Logo large](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)  |
 
-![](../.gitbook/assets/logo_white_150x50_transparentbg_300dpi.png)
+![](../.gitbook/assets/intact_white_wca.svg)
 
 | Download |
 | -------- |
@@ -32,7 +32,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ## Icon
 
-![](../.gitbook/assets/icon_gradient_50x50_transparentbg_300dpi.png)
+![](../.gitbook/assets/icon_gradient_wca.svg)
 
 | Downloads |
 | --------- |
@@ -41,7 +41,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 | [Icon medium](../.gitbook/assets/icon_gradient_150x150_transparentbg_300dpi.png)  |
 | [Icon large](../.gitbook/assets/icon_gradient_250x250_transparentbg_300dpi.png)  |
 
-![](../.gitbook/assets/icon_white_50x50_transparentbg_300dpi.png)
+![](../.gitbook/assets/icon_white_wca.svg)
 
 | Downloads |
 | --------- |
