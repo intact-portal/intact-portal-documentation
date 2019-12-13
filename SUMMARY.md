@@ -2,7 +2,7 @@
 
 * [IntAct Portal Documentation](README.md)
 * [Data Submission](data-submission/README.md)
-  * [How to submit data to IntAct?](data-submission/how-to-submit-data-to-intact.md)
+  * [How to submit data to IntAct?](data-submission/how-to-submit.md)
 * [About](about/README.md)
   * [Overview](about/overview.md)
   * [Collaborators](about/collaborators.md)
