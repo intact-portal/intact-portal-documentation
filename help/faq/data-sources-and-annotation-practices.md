@@ -14,14 +14,6 @@ Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) once yo
 
 We are also willing to curate specific papers, on request, or become more actively involved in specific projects. Again, please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) if you would like to discuss this further.
 
-The IntAct database encourages and welcomes direct user submissions of molecular interaction data, which may be deposited with us prior to publication in a peer-reviewed journal. We will be happy to assist you with final data preparation and will make your submission publicly available as soon as your article is published. We are happy to accept data in any format, but recommend that you read the [IMEx guideline](http://imex.sourceforge.net/MIMIx/) which may help you in preparing for both deposition and publication.
-
-[Here](http://www.ebi.ac.uk/~intact/site/doc/LargeScaleSubmissionTable.xlsx) you have an example excel file detailing the type of information we require for a submission. Please take this a simple guidance, you do not need to accommodate every single detail in terms of format. Interaction data does not constrain to a single way of representation and we can easily re-format your data if we have the required information.
-
-Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) once you are ready to send your data, if you have any further questions, or if you would like curator assistance in your data preparation.
-
-We are also willing to curate specific papers, on request, or become more actively involved in specific projects. Again, please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) if you would like to discuss this further.
-
 ## What advantages does it have to submit data to IntAct?
 
 There are several benefits from direct user submission. First, it establishes an author-curator direct link that ensures proper and often richer representation of the data, having helped in the past to detect manuscript errors that were corrected before publication. In some cases, details that are not representable through the article text are made available in the database entry and this link between database and data provider has become an on-going collaboration. Secondly, pre-publication data submissions embed a direct reference to the database entry in the manuscript, increasing the visibility and re-usability of the data. Finally, it also ensures that the data is available to users around the manuscript publication date.
