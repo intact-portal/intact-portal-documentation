@@ -1,6 +1,6 @@
 # Interaction Scoring
 
-### MIscore
+## MIscore
 
 MIscore is a customizable, heuristic scoring system that takes three factors into account:
 
@@ -12,7 +12,7 @@ MIscore provides a score that represents the degree of confidence in the existen
 
 ![](../.gitbook/assets/image%20%284%29.png)
 
-### Score calculation
+## Score calculation
 
 By default MIscore presents a normalized score \(_S_MI\) between 0 and 1 reflecting the reliability of its combined experimental evidence. This score is calculated from the weighted sum of the three different sub-scores listed above: number of publications \(_p_\), experimental detection methods \(_m_\) and interaction types \(_t_\) found for the interaction. The importance of each variable in the main equation can be adjusted using a weight factor. Each of these sub-scores is also represented by a score between 0 and 1.
 
