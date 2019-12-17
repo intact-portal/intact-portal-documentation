@@ -20,7 +20,7 @@ By default MIscore presents a normalized score \(_S_MI\) between 0 and 1 reflect
 
 The MIscore normalized score calculates a composite score for an interaction based on the number of publications reporting the interaction, the reported interaction detection methods and interaction types.
 
-#### Publication score
+### Publication score
 
 The publication score takes into account the number of different publications supporting an interaction.
 
@@ -30,7 +30,7 @@ _n_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)![\[equivalent\]](h
 
 _b_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)![\[equivalent\]](https://europepmc.org/corehtml/pmc/pmcents/equiv.gif)![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)Number of publications with maximum score; default: b![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)7
 
-#### Method score
+### Method score
 
 The method score takes into account the diversity of interaction detection methods reported for an interaction.
 
@@ -54,7 +54,7 @@ scv7![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://euro
 
 Gscv1![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)scv1 \| Gscv2![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)scv2 \| Gscv3![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)scv3 \| Gscv4![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)scv4\|Gscv5![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)scv5 \| Gscv6![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)scv6
 
-#### Type score
+### Type score
 
 The interaction type score takes into account the diversity of interaction types reported for an interaction.
 
