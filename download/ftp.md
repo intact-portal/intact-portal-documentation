@@ -12,6 +12,6 @@ Contents of the IntAct FTP directory:
 * [psimitab](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psimitab): IntAct data in PSI-MI TAB format. See the [README](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psimitab/README) for a detailed format description.  [intact.zip](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psimitab/intact.zip): entire contents of the database in a single file.  [pmidMITAB27.zip](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psimitab/pmidMITAB27.zip): entire contents of the database, each file represents a publication.
 * [various](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/various): Data subsets for exchange with collaborating databases.
 * [Sentences for text-mining](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/various/data-mining) - textual evidence of manually curated interactions.
-* Contents of the IntAct Biological Complexes FTP directory:
+* Complex Portal FTP directory:
   * [psi25](ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi25): IntAct complexes in PSI-MI 2.5 format.  [psi30](ftp://ftp.ebi.ac.uk/pub/databases/intact/complex/current/psi30): IntAct complexes in PSI-MI 3.0 format.  See the [PSI website](http://www.psidev.info/mif) for a detailed format description.
 
