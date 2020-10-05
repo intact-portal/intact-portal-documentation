@@ -68,11 +68,11 @@ The interaction type score takes into account the diversity of interaction types
 
 As in the method score, *scv* is a normalized score between 0 and 1, in this case associated to an interaction type CV term. An MI-type ontology term without an assigned score inherits the score from the nearest parent. Interaction-type scores are also customizable but by default they have assigned a heuristic score based on the assessment of the HUPO PSI–MI consortium:
 
-|       | cv1                 | cv2            | cv3         | cv4                  | cv5                | cv6     |
-|-------|---------------------|----------------|-------------|----------------------|--------------------|---------|
-| Name  | genetic interaction | colocalization | association | physical association | direct interaction | Unkwown |
-| MI Id | MI:0208             | MI:0403        | MI:0914     | MI:0915              | MI:0407            | Unkwown |
-| scvx  | 0.10                | 0.33           | 0.33        | 0.66                 | 1.00               | 0.05    |
+|        | cv1                 | cv2            | cv3         | cv4                  | cv5                | cv6     |
+|--------|---------------------|----------------|-------------|----------------------|--------------------|---------|
+| Name   | genetic interaction | colocalization | association | physical association | direct interaction | Unkwown |
+| MI Id  | MI:0208             | MI:0403        | MI:0914     | MI:0915              | MI:0407            | Unkwown |
+| *scv*  | 0.10                | 0.33           | 0.33        | 0.66                 | 1.00               | 0.05    |
 
 > Gscv1![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)scv1 \| Gscv2![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)scv2 \| Gscv3![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)scv3, scv4, scv5
 
