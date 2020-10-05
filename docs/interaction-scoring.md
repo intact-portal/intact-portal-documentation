@@ -34,7 +34,7 @@ The publication score takes into account the number of different publications su
 
 The method score takes into account the diversity of interaction detection methods reported for an interaction.
 
-![](../.gitbook/assets/image%20%286%29.png)
+![](../.gitbook/assets/image%20(6).png)
 
 *scv* is a normalized score between 0 and 1 associated to an interaction detection method term, as defined by the MI ontology. An MI detection method ontology term without an assigned score inherits the score from the nearest parent. *Gscv* represents a category of scores normally grouping scores with a common parent. *n* is the number of times an ontology term is reported. The *scv* score values are customizable; however, detection method ontology terms are assigned with a default score based on the assessment of the HUPO PSI–MI consortium:
 
