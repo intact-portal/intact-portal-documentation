@@ -14,7 +14,7 @@ MIscore provides a score that represents the degree of confidence in the existen
 
 ## Score calculation
 
-By default MIscore presents a normalized score \(_S_MI\) between 0 and 1 reflecting the reliability of its combined experimental evidence. This score is calculated from the weighted sum of the three different sub-scores listed above: number of publications \(_p_\), experimental detection methods \(_m_\) and interaction types \(_t_\) found for the interaction. The importance of each variable in the main equation can be adjusted using a weight factor. Each of these sub-scores is also represented by a score between 0 and 1.
+By default MIscore presents a normalized score \(*S*MI\) between 0 and 1 reflecting the reliability of its combined experimental evidence. This score is calculated from the weighted sum of the three different sub-scores listed above: number of publications \(*p*\), experimental detection methods \(*m*\) and interaction types \(*t*\) found for the interaction. The importance of each variable in the main equation can be adjusted using a weight factor. Each of these sub-scores is also represented by a score between 0 and 1.
 
 ![](../.gitbook/assets/image%20%281%29.png)
 
@@ -26,9 +26,9 @@ The publication score takes into account the number of different publications su
 
 ![](../.gitbook/assets/image%20%282%29.png)
 
-_n_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)![\[equivalent\]](https://europepmc.org/corehtml/pmc/pmcents/equiv.gif)![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)Number of publications reporting the interaction \|\| Sp ≡n ∈N \[0,1,2,3 ...\].
+*n*![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)![\[equivalent\]](https://europepmc.org/corehtml/pmc/pmcents/equiv.gif)![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)Number of publications reporting the interaction \|\| Sp ≡n ∈N \[0,1,2,3 ...\].
 
-_b_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)![\[equivalent\]](https://europepmc.org/corehtml/pmc/pmcents/equiv.gif)![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)Number of publications with maximum score; default: b![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)7
+*b*![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)![\[equivalent\]](https://europepmc.org/corehtml/pmc/pmcents/equiv.gif)![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)Number of publications with maximum score; default: b![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)7
 
 ### Method score
 
@@ -36,7 +36,7 @@ The method score takes into account the diversity of interaction detection metho
 
 ![](../.gitbook/assets/image%20%286%29.png)
 
-_scv_ is a normalized score between 0 and 1 associated to an interaction detection method term, as defined by the MI ontology. An MI detection method ontology term without an assigned score inherits the score from the nearest parent. _Gscv_ represents a category of scores normally grouping scores with a common parent. _n_ is the number of times an ontology term is reported. The _scv_ score values are customizable; however, detection method ontology terms are assigned with a default score based on the assessment of the HUPO PSI–MI consortium:
+*scv* is a normalized score between 0 and 1 associated to an interaction detection method term, as defined by the MI ontology. An MI detection method ontology term without an assigned score inherits the score from the nearest parent. *Gscv* represents a category of scores normally grouping scores with a common parent. *n* is the number of times an ontology term is reported. The *scv* score values are customizable; however, detection method ontology terms are assigned with a default score based on the assessment of the HUPO PSI–MI consortium:
 
 scv1![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)1.00 \|\| cv1![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)MI:0013 \| biophysical
 
@@ -58,15 +58,15 @@ Gscv1![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://eur
 
 The interaction type score takes into account the diversity of interaction types reported for an interaction.
 
-_St_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)![\[equivalent\]](https://europepmc.org/corehtml/pmc/pmcents/equiv.gif)![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)Type Score \|![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)\| St![\[set membership\]](https://europepmc.org/corehtml/pmc/pmcents/x2208.gif) \[0−1\]
+*St*![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)![\[equivalent\]](https://europepmc.org/corehtml/pmc/pmcents/equiv.gif)![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)Type Score \|![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)\| St![\[set membership\]](https://europepmc.org/corehtml/pmc/pmcents/x2208.gif) \[0−1\]
 
-_St_\(_cvi_\)![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)log\(_b_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)+![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)1\)\(_a_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)+![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)1\)
+*St*\(*cvi*\)![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)log\(*b*![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)+![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)1\)\(*a*![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)+![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)1\)
 
-_a_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)∑\(_scvi_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)×![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)_ni_\)
+*a*![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)∑\(*scvi*![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)×![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)*ni*\)
 
-_b_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)_a_![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)+![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)∑\(_Max_\(_Gscvi_\)\)
+*b*![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)*a*![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)+![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)∑\(*Max*\(*Gscvi*\)\)
 
-As in the method score, _scv_ is a normalized score between 0 and 1, in this case associated to an interaction type CV term. An MI-type ontology term without an assigned score inherits the score from the nearest parent. Interaction-type scores are also customizable but by default they have assigned a heuristic score based on the assessment of the HUPO PSI–MI consortium:
+As in the method score, *scv* is a normalized score between 0 and 1, in this case associated to an interaction type CV term. An MI-type ontology term without an assigned score inherits the score from the nearest parent. Interaction-type scores are also customizable but by default they have assigned a heuristic score based on the assessment of the HUPO PSI–MI consortium:
 
 scv1![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)0.10 \|\| cv1![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)=![ ](https://europepmc.org/corehtml/pmc/pmcents/x2009.gif)MI:0208 \| genetic interaction
 
