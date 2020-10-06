@@ -10,7 +10,7 @@ MIscore is a customizable, heuristic scoring system that takes three factors int
 
 MIscore provides a score that represents the degree of confidence in the existence of a particular interaction by assessing the annotation of that specific interaction in a standards-compliant dataset. The score given to an interaction will increase as the number of experimental evidences supporting that interaction increases. Experimental evidences contribute more highly to the final score than evidences derived by predictive algorithms or literature text-mining methods. Combinations of evidences, such as low scoring experimental interactions \(e.g. co-localizations\) supported by non-experimental evidence provide a higher degree of confidence than either would in isolation. In the versions of MIscore implemented by the IntAct database and for the filtering of data for export from IntAct to UniProtKB, the values have been selected to reflect the ethos of these databases, with a strong emphasis on there being experimental evidence for the existence of a physical interaction.
 
-![](../.gitbook/assets/image%20%284%29.png)
+![](../assets/images/gitbook/image%20%284%29.png)
 
 ## Score calculation
 
@@ -35,7 +35,7 @@ $$
     S_p &\equiv \text{Publication Score} \in [0,1]\\
     S_p &= \log _{(b+1)} (n+1)\\
     n \in \N &\equiv \text{Number of publications reporting the interaction} \\
-    b \in \N &\equiv \text{Number of publications with maximum score; default } b  =  7
+    b \in \N &\equiv \text{Number of publications with maximum score; default} \; b  =  7
 \end{aligned}
 $$
 
@@ -50,7 +50,8 @@ $$
     a &= \sum(scv_i \times n_i)\\
     b &= a + \sum(\max(Gscv_i))
 \end{aligned}
-$$  
+$$
+
 $scv_i$ is a normalized score between 0 and 1 associated to an interaction detection method term, as defined by the MI ontology. An MI detection method ontology term without an assigned score inherits the score from the nearest parent. $Gscv_i$ represents a category of scores normally grouping scores with a common parent. $n$ is the number of times an ontology term is reported. The $scv_i$ score values are customizable; however, detection method ontology terms are assigned with a default score based on the assessment of the HUPO PSI–MI consortium:
 
 | $cv_i$  | $cv_1$      | $cv_2$                        | $cv_3$               | $cv_4$                            | $cv_5$      | $cv_6$            | $cv_7$  |
