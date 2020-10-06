@@ -10,7 +10,7 @@ MIscore is a customizable, heuristic scoring system that takes three factors int
 
 MIscore provides a score that represents the degree of confidence in the existence of a particular interaction by assessing the annotation of that specific interaction in a standards-compliant dataset. The score given to an interaction will increase as the number of experimental evidences supporting that interaction increases. Experimental evidences contribute more highly to the final score than evidences derived by predictive algorithms or literature text-mining methods. Combinations of evidences, such as low scoring experimental interactions \(e.g. co-localizations\) supported by non-experimental evidence provide a higher degree of confidence than either would in isolation. In the versions of MIscore implemented by the IntAct database and for the filtering of data for export from IntAct to UniProtKB, the values have been selected to reflect the ethos of these databases, with a strong emphasis on there being experimental evidence for the existence of a physical interaction.
 
-![](../assets/images/gitbook/image%20%284%29.png)
+![](../assets/images/gitbook/image%20(4).png)
 
 ## Score calculation
 
@@ -60,7 +60,7 @@ $scv_i$ is a normalized score between 0 and 1 associated to an interaction detec
 | MI Id   | MI:0013     | MI:0090                       | MI:0254              | MI:0255                           | MI:0401     | MI:0428           | Unkwown |
 | $scv_i$ | $1.00$      | $0.66$                        | $0.10$               | $0.10$                            | $1.00$      | $0.33$            | $0.05$  |
 
-$$Gscv_1  =  scv_1 \,\|\; Gscv_2  =  scv_2 \,\|\; Gscv_3  =  scv_3 \,\|\; Gscv_4  =  scv_4\,\|\;Gscv_5  =  scv_5 \,\|\; Gscv_6  =  scv_6$$
+$$Gscv_1   =  scv_1 \,\|\; Gscv_2  =  scv_2 \,\|\; Gscv_3  =  scv_3 \,\|\; Gscv_4  =  scv_4\,\|\;Gscv_5  =  scv_5 \,\|\; Gscv_6  =  scv_6$$
 
 ### Type score
 
@@ -77,7 +77,7 @@ $$
 
 As in the method score, $scv_i$ is a normalized score between 0 and 1, in this case associated to an interaction type CV term. An MI-type ontology term without an assigned score inherits the score from the nearest parent. Interaction-type scores are also customizable but by default they have assigned a heuristic score based on the assessment of the HUPO PSI–MI consortium:
 
-|         | cv1                 | cv2            | cv3         | cv4                  | cv5                | cv6     |
+| $cv_i$  | $cv_1$              | $cv_2$         | $cv_3$      | $cv_4$               | $cv_5$             | $cv_6$  |
 | ------- | ------------------- | -------------- | ----------- | -------------------- | ------------------ | ------- |
 | Name    | genetic interaction | colocalization | association | physical association | direct interaction | Unkwown |
 | MI Id   | MI:0208             | MI:0403        | MI:0914     | MI:0915              | MI:0407            | Unkwown |
@@ -86,4 +86,3 @@ As in the method score, $scv_i$ is a normalized score between 0 and 1, in this c
 $$Gscv_1  =  scv_1 \,\|\; Gscv_2  =  scv_2 \,\|\; Gscv_3  =  scv_3, scv_4, scv_5$$
 
 More details including examples of how to use MIscore are available at [https://europepmc.org/articles/PMC4316181/](https://europepmc.org/articles/PMC4316181/) and [https://code.google.com/p/miscore/](https://code.google.com/p/miscore/).
-
