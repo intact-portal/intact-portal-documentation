@@ -34,8 +34,8 @@ $$
 \begin{aligned}
     S_p &\equiv \text{Publication Score} \in [0,1]\\
     S_p &= \log _{(b+1)} (n+1)\\
-    n \in \N &\equiv \text{Number of publications reporting the interaction} \\
-    b \in \N &\equiv \text{Number of publications with maximum score; default} \; b  =  7
+    n \in \text{IN} &\equiv \text{Number of publications reporting the interaction} \\
+    b \in \text{IN} &\equiv \text{Number of publications with maximum score; default} \; b  =  7
 \end{aligned}
 $$
 
