@@ -8,5 +8,3 @@ A panel of internationally-renowned experts advise the IntAct team and hold a re
 * Dr Alex Jones, [University of Warwick](https://warwick.ac.uk/fac/sci/lifesci/people/ajones/)
 * Prof Willem Ouwehand, [University of Cambridge](https://platelets.group.cam.ac.uk/people/willem-ouwehand)
 * Dr Evangelia Petsalaki, [EMBL-EBI](https://www.ebi.ac.uk/about/people/evangelia-petsalaki)
-* 
-
