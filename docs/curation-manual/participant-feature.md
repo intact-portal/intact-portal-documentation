@@ -52,7 +52,9 @@ A Feature with “Fuzzy” type range: the authors have not given the range for 
         IPR000001 for Kringle)</td>
     </tr>
   </tbody>
-</table>## 7.2 Examples of various features
+</table>
+
+## 7.2 Examples of various features
 
 <table>
   <thead>
@@ -147,7 +149,9 @@ A Feature with “Fuzzy” type range: the authors have not given the range for 
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>**Note:** binding site has two children, ‘sufficient to bind’ \(binding observed with construct shorter than full-length molecule\) and ‘required to bind’ \(binding not observed with region deleted from full-length construct.
+</table>
+
+**Note:** binding site has two children, ‘sufficient to bind’ \(binding observed with construct shorter than full-length molecule\) and ‘required to bind’ \(binding not observed with region deleted from full-length construct.
 
 If amino acids are sequentially mutated to alanine, the feature detection method is alanine scanning.
 

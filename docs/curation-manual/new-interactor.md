@@ -93,7 +93,9 @@ Interactions involving fusion proteins that are of NO biological relevance need 
         <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>### 9.1.4 Sequence
+</table>
+
+### 9.1.4 Sequence
 
 Any novel sequences used to create a new protein interactor, which are over 20 amino acids in length, should first be analysed by InterProScan to determine if further information can be obtained about the protein sequence. This information can be entered as an InterPro cross-reference to InterPro via an InterPro accession number.
 
@@ -195,7 +197,9 @@ The shortlabel and fullname could be based on the author’s description or, for
       <td style="text-align:left">dsDNA_dCdG:dCdG</td>
     </tr>
   </tbody>
-</table>Simple double stranded DNA molecules can be entered as Type of Interactor = "ds dna". If a sequence is given in the publication this should be entered, as should an XRef, if possible.
+</table>
+
+Simple double stranded DNA molecules can be entered as Type of Interactor = "ds dna". If a sequence is given in the publication this should be entered, as should an XRef, if possible.
 
 If neither a sequence nor XRef are available, no entry should be made.
 

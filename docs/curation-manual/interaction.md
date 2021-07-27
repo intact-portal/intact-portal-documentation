@@ -202,7 +202,9 @@ Any publicly available specific instances of “Interaction annotation” can be
         FcR gamma chain (P30273).</td>
     </tr>
   </tbody>
-</table>The annotation comments Complex-properties, Curated complexes and Complex synonyms are only used for the curation of curated complexes and should not be used for experimental interaction evidence curation.
+</table>
+
+The annotation comments Complex-properties, Curated complexes and Complex synonyms are only used for the curation of curated complexes and should not be used for experimental interaction evidence curation.
 
 ### 5.5.2 figure-legend \(MIMIX applicable\)
 

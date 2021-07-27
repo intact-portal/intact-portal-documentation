@@ -267,7 +267,9 @@ Use the term from the hierarchy of the controlled vocabulary that describes the 
       <td style="text-align:left">EBI-4374417, EBI-2130618</td>
     </tr>
   </tbody>
-</table>Further examples of interactions using a particular Interaction Detection Method in IntAct can be found by locating the MI number \(PSI-MI accession number\) for the method in OLS \(Ontology Lookup Service\): [www.ebi.ac.uk/ols/ontologies/m](http://www.ebi.ac.uk/ols/ontologies/mi)[i](http://www.ebi.ac.uk/ols/ontologies/mi)
+</table>
+
+Further examples of interactions using a particular Interaction Detection Method in IntAct can be found by locating the MI number \(PSI-MI accession number\) for the method in OLS \(Ontology Lookup Service\): [www.ebi.ac.uk/ols/ontologies/m](http://www.ebi.ac.uk/ols/ontologies/mi)[i](http://www.ebi.ac.uk/ols/ontologies/mi)
 
 After you have found the MI number enter it into the “Advanced Fields” search on the IntAct web page, under the Field “Interaction Detection Method”.
 
@@ -494,7 +496,9 @@ Examples of specific cases, pitfalls for the unwary & some common errors or omis
         Detection should be &#x201C;Antibody Detection&#x201D;.</td>
     </tr>
   </tbody>
-</table>Further details can be found in the TABLE of PSI-MI dependencies –found here:-
+</table>
+
+Further details can be found in the TABLE of PSI-MI dependencies –found here:-
 
 [https://docs.google.com/spreadsheet/ccc?key=0AtAwdqt9ekgYdFpIWTFrWEMxZGRXemdmWHNkS1RPRWc&usp=sharing\#gid=0](https://docs.google.com/spreadsheet/ccc?key=0AtAwdqt9ekgYdFpIWTFrWEMxZGRXemdmWHNkS1RPRWc&usp=sharing#gid=0)
 
@@ -661,7 +665,9 @@ Some examples of other types of Data-Processing Comments:
         IDs, at the sequence level, using the PICR mapping service.</td>
     </tr>
   </tbody>
-</table>### 4.6.7 exp-modification
+</table>
+
+### 4.6.7 exp-modification
 
 Experimental details are entered where experiments have a protocol that is non-standard, i.e. where the CV terms for either ‘Interaction Detection’ or ‘Participant Detection’ are not adequate. Example: a modified protocol from the one described in the CV term used.
 
@@ -711,7 +717,9 @@ Experimental details are entered where experiments have a protocol that is non-s
       <td style="text-align:left">Molecules tagged with a fluorescent label were detected by tag fluorescence.</td>
     </tr>
   </tbody>
-</table>### 4.6.8 library-used
+</table>
+
+### 4.6.8 library-used
 
 This annotation is most frequently used with two hybrid screening assays.
 
@@ -798,7 +806,9 @@ This is used for annotation of experiments that demonstrate that an interaction 
       </td>
     </tr>
   </tbody>
-</table>All Negative Reactions can be seen on the Web site by searching in Advanced Fields for “Negative Interaction”.
+</table>
+
+All Negative Reactions can be seen on the Web site by searching in Advanced Fields for “Negative Interaction”.
 
 Note that to see the cross-referenced interactions you will currently have to view the interactions in the Editor.
 

@@ -287,7 +287,9 @@ The role played by the participant in the context of the experiment.
         molecule is tagged with both tags to demonstrate an intra-molecular interaction</td>
     </tr>
   </tbody>
-</table>### 6.6.2 Biological role
+</table>
+
+### 6.6.2 Biological role
 
 This is used to capture the physiological role of an interactor in a cell or in vivo environment, which is reproduced in the current experiment.
 
@@ -413,7 +415,9 @@ This is used to capture the physiological role of an interactor in a cell or in 
       <td style="text-align:left"></td>
     </tr>
   </tbody>
-</table>## 6.7 Expressed-In \(NA-MIMIX\)
+</table>
+
+## 6.7 Expressed-In \(NA-MIMIX\)
 
 **'**Expressed-in**'** refers to the source/origin of the protein when this is not the same as the Host organism in which the experiment was carried out. If possible, this field should always be filled-in for ‘_in vitro_’ experiments. Leaving the field on --select-- indicates a protein expressed by the system in which the interaction is being measured, i.e by the host organism in which case it need not be entered twice
 
