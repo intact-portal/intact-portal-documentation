@@ -4,7 +4,7 @@
 
 The new IntAct logo portrays an abstracted interaction / binding concept, using simplified lines to give it a sense of contemporarity and also incompleteness, a fundamental property of interactomics data.
 
-The logo has been authored by graphic designer [Cristoffer Sevilla](https://www.behance.net/CristofferLSevilla).
+The logo has been authored by graphic designer [Cristoffer Sevilla](https://www.behance.net/CristofferSevilla).
 
 ## How to use our logo
 
