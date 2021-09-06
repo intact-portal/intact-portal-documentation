@@ -21,3 +21,5 @@ This web service is for getting IntAct binary interactions and interactors in js
 
 ## IntAct Data
 
+This web service is for having interface for IntAct data in our graph database. It is used in the website to export the data in various formats in search result page, to create solr indexing and to fetch the interaction details & interaction json(for viewer) in details page. You can find fine details for this REST api [here](https://www.ebi.ac.uk/intact/ws/graph/swagger-ui.html)
+
