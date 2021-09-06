@@ -2,7 +2,7 @@
 
 ## Can I search for more than one protein at a time?
 
-Yes, just list the gene name or UniprotKB accession numbers, space separated e.g. TP53 MDM2 CHK2 LCK. Please note, this query is actually TP53 **OR** MDM2 **OR** CHK2 **OR** LCK. If you wish to specify interactions between molecules, please use **AND** operator e.g. TP53 **AND** MDM2. Kindly use the Batch search option
+For searching multiple proteins simultaneously, one can perform ‘Batch Search’ in IntAct. One can directly give the input query in the search box provided or can choose to upload a file containing an interested list of proteins. In the sequential steps, Batch search will allow you to choose to resolve the query terms and will fetch you the results.
 
 ## The results of my search contain mixed species e.g. human-mouse interactions – why, and how do I remove them?
 
@@ -16,7 +16,7 @@ For example, for only human proteins, `taxidA:9606 AND taxidB:9606`.
 
 ## I want to look for interactions between pathogen and host proteins, can I find this information in IntAct?
 
-Answer:
+Using the Advanced search options, it is possible to to get host-pathogen interactions. The query format is taxidA:{your favourite taxID} AND taxidB: :{your favourite taxID}, wherein you can choose tax IDs of the host organism and that of the pathogen.
 
 ## I submitted a list of 2000 UniProtKB accession numbers via the "search" interface of IntAct, I obtain "0 binary interactions found for search term", why and how do I find results to my search?
 
@@ -46,7 +46,7 @@ Answer
 
 ## How do I find interactions affected by variant or mutant forms of my protein?
 
-Answer
+Interactions affected by mutations can be visualized by checking out the “Affected by Mutation” option found in the right side of the results page. Alternatively, you can download the “Mutations” dataset.
 
 ## Does IntAct record isoform-specific interactions?
 
