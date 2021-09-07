@@ -92,7 +92,7 @@ Given an interactor AC, one can open the Molecule view \(Dasty2\), for instance
 
 Example: [`http://www.ebi.ac.uk/intact/molecule/EBI-349905`](http://www.ebi.ac.uk/intact/molecule/EBI-349905)
 
-## Why do I get less results when I search the IntAct PSICQUIC service, than when I search the website?
+## Why do I get fewer results when I search IntAct via the PSICQUIC service, than when I search on the IntAct website?
 
 The IntAct PSICQUIC webservice only contains interactions curated by IntAct curators. If you want data curated by external curators in the IntAct environment \(for example MINT or UniProtKB\), or from other IMEx/PSICQUIC data providers, we recommend you look at the PSICQUIC registry \([http://www.ebi.ac.uk/Tools/webservices/psicquic/registry/registry?action=STATUS](http://www.ebi.ac.uk/Tools/webservices/psicquic/registry/registry?action=STATUS)\). All PSICQUIC data providers should support MITAB2.5, but if you wish to use another format you need to first check which format each data provider supports e.g. REST URL/formats\).
 
