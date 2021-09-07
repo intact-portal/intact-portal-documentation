@@ -34,7 +34,7 @@ Click on protein then paste your sequence into the box, make any required change
 
 You will receive the results in tabular form, with additional hyperlinks through to other databases containing information about this protein. You can see below that, although InAct contains no molecular interactions for rat or mouse it does for human
 
-![image](https://user-images.githubusercontent.com/77560653/132332326-19b59285-1b48-4d27-8cfb-ddf7f3dab5cc.png)
+
 ![image](https://user-images.githubusercontent.com/77560653/132332415-f1e3b27e-5c7d-4c97-a163-83f9f50f65f2.png)
 
 
