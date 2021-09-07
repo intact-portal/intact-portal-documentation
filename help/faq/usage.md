@@ -32,13 +32,17 @@ Click on protein then paste your sequence into the box, make any required change
 
 ![](../../.gitbook/assets/image.png)
 
-You will receive the results in tabular form, with additional hyperlinks through to other databases containing information about this protein. You can see below that, although InAct contains no molecular interactions for rat or mouse it does for human
+You will receive the results in tabular form, with additional hyperlinks through to other databases containing information about this protein. You can see below that, although IntAct  contains no molecular interactions for rat it does for mouse and human
 
 
 ![image](https://user-images.githubusercontent.com/77560653/132332415-f1e3b27e-5c7d-4c97-a163-83f9f50f65f2.png)
 
 
-Press on the link to access the data in IntAct
+![image](https://user-images.githubusercontent.com/77560653/132333470-954b0af3-25e7-4ab2-9f88-68614133307a.png)
+
+
+
+IntAct results can be found in Molecular Interactions cluster. Press on the link to access the data in IntAct
 
 ![image](https://user-images.githubusercontent.com/77560653/132332515-acd7ff82-bdea-427c-9581-88f8a2eeab2c.png)
 
