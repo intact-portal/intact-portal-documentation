@@ -38,7 +38,6 @@ You will receive the results in tabular form, with additional hyperlinks through
 ![image](https://user-images.githubusercontent.com/77560653/132332415-f1e3b27e-5c7d-4c97-a163-83f9f50f65f2.png)
 
 
-
 Press on the link to access the data in IntAct
 
 ![image](https://user-images.githubusercontent.com/77560653/132332515-acd7ff82-bdea-427c-9581-88f8a2eeab2c.png)
