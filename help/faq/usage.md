@@ -46,11 +46,11 @@ Answer
 
 ## How do I find interactions affected by variant or mutant forms of my protein?
 
-Interactions affected by mutations can be visualized by checking out the “Affected by Mutation” option found in the right side of the results page. Alternatively, you can download the “Mutations” dataset.
+Interactions affected by mutations can be visualized by checking out the “Affected by Mutation” option found in the right side of the results page. Alternatively, you can download the “Mutations” dataset at https://www.ebi.ac.uk/intact/documentation/datasets#mutations
 
 ## Does IntAct record isoform-specific interactions?
 
-Yes, IntAct curators stringently specify the protein isoform or the pro-chain as mentioned by the authors by using appropriate UniProtKB accession number. 
+Yes, IntAct curators stringently specify the protein isoform or the pro-chain as mentioned by the authors by using appropriate UniProtKB accession number. The user can query using UniProtKB  
 
 ## Can I find drug-target interactions in IntAct?
 
