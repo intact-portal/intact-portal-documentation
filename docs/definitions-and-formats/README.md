@@ -1,4 +1,4 @@
-The IntAct Molecualr Interactions database provides its data in 3 different file formats, PSI-MI XML, PSI-MI TAB and MI-JSON. Below are links to our schemas and some content explanations. For more information on how to use our data, please see the [User Guide](/documentation/user-guide).
+The IntAct Molecualr Interactions database provides its data in 3 different file formats, PSI-MI XML, PSI-MI TAB and MI-JSON. Below are links to our schemas and some content explanations. For more information on how to use our data, please see the [User Guide](https://wwwdev.ebi.ac.uk/intact/beta/documentation/user-guide).
 
 ## PSI-MI XML & PSI-MI TAB (miTab)
 
