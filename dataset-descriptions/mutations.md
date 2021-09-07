@@ -1,8 +1,8 @@
 # Mutations
 
-This dataset contains annotations of experimental evidence where mutations have been shown to affect a protein interaction.
+[This dataset](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/various/mutations.tsv) contains annotations of experimental evidence where mutations have been shown to affect a protein interaction.
 
-There are several types of mutations covered, the terms used have been described in the PSI-MI controlled vocabularies, accessible at [www.ebi.ac.uk/ols/ontologies/mi](https://www.ebi.ac.uk/ols/ontologies/mi):
+Several types of mutations are captured and the terms used to described them can be found in the [PSI-MI controlled vocabulary](https://www.ebi.ac.uk/ols/ontologies/mi).
 
 ## Dataset Description
 
@@ -11,14 +11,14 @@ There are several types of mutations covered, the terms used have been described
   * Mutation decreasing interaction \(MI:0119\): Region of a molecule whose mutation or deletion decreases significantly interaction strength or rate \(in the case of interactions inferred from enzymatic reaction\).
     * Mutation decreasing interaction rate \(MI:1130\): Region of a molecule whose mutation or deletion decreases significantly interaction rate \(in the case of interactions inferred from enzymatic reaction\).
     * Mutation decreasing interaction strength \(MI:1133\): Region of a molecule whose mutation or deletion decreases significantly interaction strength.
-    * Mutation disrupting interaction \(MI:0573\): Region of a molecule whose mutation or deletion totally disrupts an interaction strength or rate \(in the case of interactions inferred from enzymatic reaction\). • Mutation disrupting interaction rate \(MI:1129\): Region of a molecule whose mutation or deletion totally disrupts an interaction rate \(in the case of interactions inferred from enzymatic reaction\). • Mutation disrupting interaction strength \(MI:1128\): Region of a molecule whose mutation or deletion totally disrupts an interaction strength. 
+  * Mutation disrupting interaction \(MI:0573\): Region of a molecule whose mutation or deletion totally disrupts an interaction strength or rate \(in the case of interactions inferred from enzymatic reaction\). • Mutation disrupting interaction rate \(MI:1129\): Region of a molecule whose mutation or deletion totally disrupts an interaction rate \(in the case of interactions inferred from enzymatic reaction\). • Mutation disrupting interaction strength \(MI:1128\): Region of a molecule whose mutation or deletion totally disrupts an interaction strength. 
   * Mutation increasing interaction \(MI:0382\): Region of a molecule whose mutation or deletion increases significantly interaction strength or rate \(in the case of interactions inferred from enzymatic reaction\).
     * Mutation increasing interaction rate \(MI:1131\): Region of a molecule whose mutation or deletion increases significantly interaction rate \(in the case of interactions inferred from enzymatic reaction\).
     * Mutation increasing interaction strength \(MI:1132\): Region of a molecule whose mutation or deletion increases significantly interaction strength.
   * Mutation with no effect \(MI:2226\): A change in a sequence or structure in comparison to a reference entity due to a insertion, deletion or substitution event that does not have any effect over an interaction when compared with the wild-type.
   * Mutation with complex effect \(MI:2333\): A change in a sequence or structure in comparison to a reference entity due to a insertion, deletion or substitution event that has a complex effect over the interaction when compared with the wild-type. A complex effect is such that cannot be described in increasing, decreasing, causing, disrupting or no effect terms.
 
-**Output format description**
+## Output format description
 
 We provide a tab-delimited flatfile download with the full dataset. Every instance of a mutation affecting a given interaction is given a unique identifier \(_“Feature AC”_\). Please notice that some mutations will affect more than one residue position range in non-consecutive order. Each one of these non-consecutive ranges is recorded in a separate line, hence there will always be a difference between the number of lines in the file and the number of unique mutations. Here is a brief description of the different columns used in the file:
 
