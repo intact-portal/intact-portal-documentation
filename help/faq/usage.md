@@ -46,7 +46,7 @@ Answer
 
 ## How do I find interactions affected by variant or mutant forms of my protein?
 
-Interactions affected by mutations can be visualized by checking out the “Affected by Mutation” option found in the right side of the results page. Alternatively, you can download the “Mutations” dataset at https://www.ebi.ac.uk/intact/documentation/datasets#mutations
+Interactions affected by mutations can be visualized by checking out the “Affected by Mutation” option found in the right side of the results page. Alternatively, you can download the “Mutations” dataset at [here](https://www.ebi.ac.uk/intact/documentation/datasets#mutations)
 
 ## Does IntAct record isoform-specific interactions?
 
