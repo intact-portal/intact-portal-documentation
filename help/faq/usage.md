@@ -54,7 +54,7 @@ Yes, IntAct curators stringently specify the protein isoform or the pro-chain as
 
 ## Can I find drug-target interactions in IntAct?
 
-Yes, IntAct has documented interaction of proteins with drugs and other small molecules using appropriate ChEBI accession number. Small molecules list will include entities which are synthetic or modified peptides but not those directly encoded by the genome.
+Yes, IntAct has captured molecular iteraction of proteins with drugs and other small molecules using appropriate ChEBI accession number. Small molecules list will include entities which are synthetic or modified peptides but not those directly encoded by the genome.
 
 ## Can I find interactions between different molecule types in IntAct? \(e.g. protein-DNA interactions\)
 
