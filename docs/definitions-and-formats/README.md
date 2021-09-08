@@ -38,6 +38,6 @@ The CV can be navigated at the [Ontology Lookup Service (OLS)](https://www.ebi.a
 
 New terms can be requested via its [GitHub repository](https://github.com/HUPO-PSI/psi-mi-CV). 
 
-# Mutation dataset
+# Mutations dataset
 
 IntAct provides a bespoke [file](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/various/mutations.tsv) of annotations of experimental evidence where mutations have been shown to affect a protein interaction. A full description of this data can be found in the [here](https://www.ebi.ac.uk/intact/documentation/datasets#mutations).
