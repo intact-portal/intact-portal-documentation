@@ -54,7 +54,7 @@ IntAct annotates the binding region of interacting proteins at the feature level
 
 Interactions affected by mutations can be visualized by checking out the “Affected by Mutation” option found in the right side of the results page. Alternatively, you can download the “Mutations” dataset at [here](https://www.ebi.ac.uk/intact/documentation/datasets#mutations)
 
-![image](https://user-images.githubusercontent.com/77560653/132431864-b6a618af-8315-4f39-9a9c-3d2530beb726.png)
+![image](https://user-images.githubusercontent.com/77560653/132435272-dbd69e4a-38c6-45ce-90b2-aef6793a421c.png)
 
 ## Does IntAct record isoform-specific interactions?
 
