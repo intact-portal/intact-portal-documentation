@@ -60,7 +60,7 @@ Interactions affected by mutations can be visualized by checking out the “Affe
 
 Yes, IntAct curators stringently specify the protein isoform or the pro-chain as mentioned by the authors by using appropriate UniProtKB accession number. The user can query using UniProtKB
 
-![image](https://user-images.githubusercontent.com/77560653/132434588-1e87dea6-2576-4d6f-9c84-6d579030b81b.png)
+![image](https://user-images.githubusercontent.com/77560653/132434908-58a995f3-875c-445c-bccd-57c679d6c393.png)
 
 
 ## Can I find drug-target interactions in IntAct?
