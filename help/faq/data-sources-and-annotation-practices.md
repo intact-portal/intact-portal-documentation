@@ -10,7 +10,7 @@ There are several benefits from direct user submission. First, it establishes an
 
 ## How do I submit data to IntAct?
 
-If you are willing to submit your data into IntAct, please visit our [Data Submission](../../data-submission/) documentation.
+If you are willing to submit your data into IntAct, please visit our [Data Submission](https://www.ebi.ac.uk/intact/documentation/data_submission) documentation.
 
 ## Why does the number of interactions given in a particular high-throughput paper, differ from the number I can download from IntAct from the same publication?
 
