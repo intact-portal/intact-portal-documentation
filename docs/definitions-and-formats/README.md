@@ -26,19 +26,6 @@ The schema and full details can be found in the [MI Community GitHub repository]
 
 Use case: [ComplexViewer](https://github.com/MICommunity/ComplexViewer)
 
-## RDF
-
-RDF is a standard model for data interchange on the Web. Here we list the RDF formats supported in IntAct, with links provided for each format specifications document:
-
-* RDF/XML and RDF/XML-ABBREV \([RDF Syntax Recommendation](https://www.w3.org/TR/rdf-syntax-grammar/)\)
-* N3 \([Tim Berners-Lee's Notation 3 Language](https://www.w3.org/TeamSubmission/n3/)\)
-* N-Triples \([RDF Core's N-Triples Language](https://www.w3.org/TR/2014/REC-n-triples-20140225/)\)
-* Turtle \([Terse RDF Triple Language](https://www.w3.org/TR/2014/REC-turtle-20140225/)\)
-
-## BioPAX
-
-IntAct supports BioPAX Level 2 and Level 3. BioPAX \(Biological Pathway Exchange\) is a standard language to represent biological pathways at the molecular and cellular level. Additional information is available at [https://github.com/BioPAX/specification](https://github.com/BioPAX/specification).
-
 ## XGMML
 
 The XGMML data interchange format is used for importing data from IntAct directly into network analysis software such as as [Cytoscape](https://cytoscape.org/). Documentation for the XGMML format is available in [Wikipedia](https://en.wikipedia.org/wiki/XGMML). IntAct has developed its own [Cytocsape App](https://apps.cytoscape.org/apps/intactapp) for querying IntAct data directly from Cytoscape.
