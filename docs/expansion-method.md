@@ -20,5 +20,5 @@ Now the issue \(as illustrated at the bottom right of the diagram above\) with t
 * In IntAct we only use the **spoke expansion algorithm** for interactions involving more than two participants. 
 * Spoke-expanded binaries can be easily identified with the **'Expansion method' column** in the results table. 
 * A spoke-expanded binary interaction just informs that the two molecules involved were found together in the same interaction experiment, but **it does not imply that the two molecules are in direct contact** with each other. 
-* You can learn more about how we distinguish between direct and different types of indirect interactions in [our FAQs](../help/faq/data-sources-and-annotation-practices.md#are-all-the-molecules-reported-in-an-interaction-directly-binding). 
+* You can learn more about how we distinguish between direct and different types of indirect interactions in [our FAQs](https://wwwdev.ebi.ac.uk/intact/documentation/user-guide/data-sources-and-annotation-practices.md#are-all-the-molecules-reported-in-an-interaction-directly-binding). 
 
