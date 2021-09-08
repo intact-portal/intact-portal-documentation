@@ -69,7 +69,8 @@ Yes, IntAct has captured molecular iteraction of proteins with drugs and other s
 
 Interacting partner\(s\) in IntAct database can be of different molecular types such as proteins, small molecules, nucleic acids, complexes and genes. Based on the type of partner, interactions between protein-protein, protein-DNA and protein-RNA, protein-gene, RNA-RNA, protein-small molecule, protein-macromolecule complex interactions are well documented in IntAct.
 
-![image](https://user-images.githubusercontent.com/77560653/132430586-241c95ca-7c85-4f62-8bb2-f4055791f8c0.png)
+![image](https://user-images.githubusercontent.com/77560653/132430999-86207463-a7cd-4387-8050-980c556dfde3.png)
+
 
 ## How to link to the IntAct website?
 
