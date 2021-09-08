@@ -1,6 +1,6 @@
 # APIs
 
-We have following four web services catering for the web site, they are available as REST APIs, please find their details here.
+The following four web services are available as REST APIs:
 
 1. IntAct Interactor Search
 2. IntAct Interaction Search
