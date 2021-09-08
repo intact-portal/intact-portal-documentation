@@ -67,14 +67,14 @@ Yes, IntAct curators stringently specify the protein isoform or the pro-chain as
 
 Yes, IntAct has captured molecular iteraction of proteins with drugs and other small molecules using appropriate ChEBI accession number. Small molecules list will include entities which are synthetic or modified peptides but not those directly encoded by the genome.
 
-![image](https://user-images.githubusercontent.com/77560653/132430815-ba262b55-8c79-4b09-9c1c-acc390ca6270.png)
+![image](https://user-images.githubusercontent.com/77560653/132433884-41bc3285-2c69-4855-b822-82d82d37e859.png)
 
 
 ## Can I find interactions between different molecule types in IntAct? \(e.g. protein-DNA interactions\)
 
 Interacting partner\(s\) in IntAct database can be of different molecular types such as proteins, small molecules, nucleic acids, complexes and genes. Based on the type of partner, interactions between protein-protein, protein-DNA and protein-RNA, protein-gene, RNA-RNA, protein-small molecule, protein-macromolecule complex interactions are well documented in IntAct.
 
-![image](https://user-images.githubusercontent.com/77560653/132432594-ea21160a-fdb1-4e93-a027-d205cc57919e.png)
+![image](https://user-images.githubusercontent.com/77560653/132434006-7b5636cb-d04f-4c84-b2ea-5ec99e12899b.png)
 
 
 ## How to link to the IntAct website?
