@@ -1,6 +1,6 @@
 ## IntAct Cytoscape App
 
-Our bespoke [IntAct App](https://apps.cytoscape.org/apps/intactapp) lets users query IntAct directly through Cytoscape and create Molecular Interaction networks within Cytoscape.
+The bespoke [Cytoscape App](https://apps.cytoscape.org/apps/intactapp) lets users query IntAct directly through Cytoscape and create Molecular Interaction networks within Cytoscape.
 
 IntAct App provides 2 entry points for building these networks:
 - Fuzzy Search: create big networks for concepts, e.g. Kinase, "Cell cycle", etc.
