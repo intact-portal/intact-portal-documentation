@@ -49,4 +49,4 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
 * [**Coronavirus**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:coronavirus%22) - Physical molecular interactions focused on proteins from SARS-CoV-2, SARS-CoV-1 and other members of the Coronaviridae family that has been manually extracted by International Molecular Exchange (IMEx) Consortium curators.
 
-* [**Rare Diseases**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Rare%20Diseases%22) - Dataset of Molecular interactions affected by gene mutations associated with known Rare diseases. The gene list was collected form Orphanet database and the related interactions availabel in the lituretaure are manually curated by IntAct curators
+* [**Rare Diseases**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Rare%20Diseases%22) - Dataset of Molecular interactions affected by gene mutations associated with known Rare diseases. The gene list was collected form Orphanet database and the related interactions from the literature are manually curated by IntAct curators
