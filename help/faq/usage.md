@@ -1,8 +1,10 @@
-# Usage
+# Advanced searching option for IntAct
+
 
 ## Can I search for more than one protein at a time?
 
 Yes. The [Batch Search](https://www.ebi.ac.uk/intact/home#batch-search) allows you to search for multiple proteins simultaneously in IntAct. Either paste a list of search terms directly into the box or upload a plain text file containing the list of terms. We recommend the use of common identifiers like UniProtKB ACs or gene names. In the following step, the Batch Search attempts to resolve the query terms and allows you to select the terms you want to use in the actual search. IntAct will retrive interactions containing interactors matching these terms.
+
 
 ## The results of my search contain mixed species e.g. human-mouse interactions – why, and how do I remove them?
 
@@ -16,17 +18,20 @@ To retrieve data for a specific species, search for its [NCBI taxon ID](https://
 
 We precompute [interactomes](https://www.ebi.ac.uk/intact/interactomes) for 16 bespoke species.
 
+
 ## I want to look for interactions between pathogen and host proteins, can I find this information in IntAct?
 
 Yes. Use the search for a single organism above and in the `Interactor Species` filter select both organisms.
+
 
 ## I submitted a list of 2000 UniProtKB accession numbers via the "search" interface of IntAct, I obtain "0 binary interactions found for search term", why and how do I find results to my search?
 
 The problem is the length of the query. It is difficult to provide a specific limit, because it is defined according to the length in characters that your query consists of, and that depends on the type of identifier you are using. If you submit a list of space-separated UniProtKB accessions, the limit is approximately **700** identifiers in search. This also applies to [PSCIQUIC view](www.ebi.ac.uk/Tools/webservices/psicquic/view/main.xhtml) and PSICQUIC-based Cytoscape import tool.
 
+
 ## I have found no interactions for my protein rat Zap70. How do I find if a homolog/ortholog/paralog with a high degree of sequence similarity has any interactions in the IntAct database?
 
-Select NCBI-BLAST at the [https://www.ebi.ac.uk/Tools/sss](https://www.ebi.ac.uk/Tools/sss/), click on `protein` and paste your sequence into the box. Make any required changes to the parameters, add your e-mail address and Submit.
+Select NCBI-BLAST at [https://www.ebi.ac.uk/Tools/sss](https://www.ebi.ac.uk/Tools/sss/), click on `protein` and paste your sequence into the box. Make any required changes to the parameters, add your e-mail address and Submit.
 
 ![](../../.gitbook/assets/image.png)
 
@@ -36,24 +41,26 @@ You will receive the results in tabular form, with additional hyperlinks through
 
 ![image](https://user-images.githubusercontent.com/77560653/132333470-954b0af3-25e7-4ab2-9f88-68614133307a.png)
 
-IntAct results can be found in Molecular Interactions cluster. Press on the link to access the data in IntAct
+IntAct results can be found in Molecular Interactions cluster. Press on the link to access the data in IntAct:
 
 ![image](https://user-images.githubusercontent.com/77560653/132332515-acd7ff82-bdea-427c-9581-88f8a2eeab2c.png)
+
 
 ## How do I find if there are interactions involving a specific domain or region in my protein of interest?
 
 IntAct annotates the binding region of interacting proteins at the feature level. Allowing the users to query for binding regions using InterPro accession numbers is still a work in progress.
 
+
 ## How do I find interactions affected by variant or mutant forms of my protein?
 
-Interactions affected by mutations can be visualized by selecting the “Affected by Mutation” option found on the left side of the network view. Alternatively, you can download the “Mutations” dataset [here](https://www.ebi.ac.uk/intact/download#dataset_files)
+Interactions affected by mutations can be visualized by selecting the “Affected by Mutation” option found on the left side of the network view. Alternatively, you can download the “Mutations” dataset [here](https://www.ebi.ac.uk/intact/download#dataset_files).
 
 ![image](https://user-images.githubusercontent.com/77560653/132435272-dbd69e4a-38c6-45ce-90b2-aef6793a421c.png)
 
 
 ## Does IntAct record isoform-specific interactions?
 
-Yes, IntAct curators stringently specify the protein isoform or the pro-chain as mentioned by the authors by using appropriate UniProtKB accession number. You can query using UniProtKB for the isoforms or make use of auto-suggestion option in the quick search mode
+Yes, IntAct curators stringently specify the protein isoform or the pro-chain as mentioned by the authors by using appropriate UniProtKB accession number. You can query using UniProtKB for the isoforms or make use of auto-suggestion option in the quick search mode.
 
 ![image](https://user-images.githubusercontent.com/77560653/132434908-58a995f3-875c-445c-bccd-57c679d6c393.png)
 
@@ -75,6 +82,7 @@ Interacting partner(s) in IntAct database can be of different molecular types su
 ## How to link to the IntAct website?
 
 Detailed access options for IntAct are discussed in our [User Guide](https://wwwdev.ebi.ac.uk/intact/beta/documentation/user-guide).
+
 
 ## Why do I get fewer results when I search IntAct via the PSICQUIC service, than when I search on the IntAct website?
 
