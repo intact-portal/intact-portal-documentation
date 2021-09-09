@@ -2,25 +2,27 @@
 
 ## Can I search for more than one protein at a time?
 
-For searching multiple proteins simultaneously, one can perform ‘Batch Search’ in IntAct. One can directly give the input query in the search box provided or can choose to upload a file containing an interested list of proteins. In the sequential steps, Batch search will allow you to choose to resolve the query terms and will fetch you the results.
+Yes. The [Batch Search](https://www.ebi.ac.uk/intact/home#batch-search) allows you to search for multiple proteins simultaneously in IntAct. Either paste a list of search terms directly into the box or upload a plain text file containing the list of terms. We recommend the use of common identifiers like UniProtKB ACs or gene names. In the following step, the Batch Search attempts to resolve the query terms and allows you to select the terms you want to use in the actual search. IntAct will retrive interactions containing interactors matching these terms.
 
 ## The results of my search contain mixed species e.g. human-mouse interactions – why, and how do I remove them?
 
-The data reflects how the authors performed the original experiments. In many cases genes from one species are exogenously expressed in a second, for example a tagged mouse protein is expressed in a human cell line, resulting in _mouse-human_ _interactions_. It is our practice to collate the data as it was observed in the experiment e.g. _human-mouse_, _mouse-rat_ and let the user decide whether to infer _human-human_ or _mouse-mouse_ _interactions_ from these observations. Of course, some of the data is _host-pathogen_, and the mixed species interaction is then valid.
+The data reflects how the authors performed the original experiments. In many cases genes from one species are exogenously expressed in a second, for example a tagged mouse protein is expressed in a human cell line, resulting in _mouse-human_ _interactions_. It is our practice to collate the data as it was observed in the experiment e.g. _human-mouse_, _mouse-rat_ and let the user decide whether to infer _human-human_ or _mouse-mouse_ _interactions_ from these observations. Of course, some of the data is _host-pathogen_, and the mixed species interaction is valid _in vivo_.
 
-The 'species' folder on the IntAct ftp site \([ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/species/](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/species/)\) contains species-specific datasets, in PSI-XML2.5 format. These files also contain mixed species interactions.
+The species folder on the IntAct ftp site contains species-specific datasets in [PSI-XML2.5](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/species/) and [PSI-XML3.0](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/species/) formats. These files also contain mixed species interactions.
 
-If you require species-specific data, you should perform the query `species:{your favourite taxID}` on the website and download the data in your format of choice. For example, for interactions involving human proteins, the query would be `species:9606`. It is preferable to use either the taxID or scientific name \(species:homo sapiens\) to avoid unspecific results. `species:human` will also return also interactions of proteins from organisms with the string `human` in their name, such as the human immunodeficiency virus. Please note that with this query you will obtain interactions that involve at least one human protein, but the interacting partner can still be of another species. To search for only those interactions from a single species, use the query `taxidA:{your favourite taxID} AND taxidB: :{your favourite taxID}`
+To retrieve data for a specific species, search for its [NCBI taxon ID](https://www.uniprot.org/taxonomy/), e.g. 9606 for human. On the results page, use the `Interactor Species` filter and, using the toggle button in the top right corner of the pop-up window, select if you want to retrieve any interactions containing at least one interactor of your choice of organism or only interactors of your choice of organism.
 
-For example, for only human proteins, `taxidA:9606 AND taxidB:9606`.
+![image](https://user-images.githubusercontent.com/10517124/132673663-5c46816a-ff28-4c1e-8639-e3a4971e2a1e.png)
+
+We precompute [interactomes](https://www.ebi.ac.uk/intact/interactomes) for 16 bespoke species.
 
 ## I want to look for interactions between pathogen and host proteins, can I find this information in IntAct?
 
-Using the Advanced search options, it is possible to get host-pathogen interactions. The query format is taxidA:{your favourite taxID} AND taxidB: :{your favourite taxID}, wherein you can choose tax IDs of the host organism and that of the pathogen.
+Yes. Use the search for a single organism above and in the `Interactor Species` filter select both organisms.
 
 ## I submitted a list of 2000 UniProtKB accession numbers via the "search" interface of IntAct, I obtain "0 binary interactions found for search term", why and how do I find results to my search?
 
-The problem is the length of the query. It is difficult to provide a specific limit, because it is defined according to the length in characters that your query consists of, and that depends on the type of identifier you are using. If you submit a list of space-separated UniProtKB accessions, the limit is approximately **700** identifiers in search. This also applies to PSCIQUIC view and PSICQUIC-based Cytoscape import tool.
+The problem is the length of the query. It is difficult to provide a specific limit, because it is defined according to the length in characters that your query consists of, and that depends on the type of identifier you are using. If you submit a list of space-separated UniProtKB accessions, the limit is approximately **700** identifiers in search. This also applies to [PSCIQUIC view](www.ebi.ac.uk/Tools/webservices/psicquic/view/main.xhtml) and PSICQUIC-based Cytoscape import tool.
 
 ## I have found no interactions for my protein rat Zap70. How do I find if a homolog/ortholog/paralog with a high degree of sequence similarity has any interactions in the IntAct database?
 
@@ -33,7 +35,7 @@ Click on protein then paste your sequence into the box, make any required change
 ![](../../.gitbook/assets/image.png)
 
 
-You will receive the results in tabular form, with additional hyperlinks through to other databases containing information about this protein. You can see below that, although IntAct  contains no molecular interactions for rat it does for mouse and human
+You will receive the results in tabular form, with additional hyperlinks through to other databases containing information about this protein. You can see below that, although IntAct contains no molecular interactions for rat it does for mouse and human
 
 
 ![image](https://user-images.githubusercontent.com/77560653/132332415-f1e3b27e-5c7d-4c97-a163-83f9f50f65f2.png)
@@ -53,26 +55,26 @@ IntAct annotates the binding region of interacting proteins at the feature level
 
 ## How do I find interactions affected by variant or mutant forms of my protein?
 
-Interactions affected by mutations can be visualized by checking out the “Affected by Mutation” option found in the right side of the results page. Alternatively, you can download the “Mutations” dataset at [here](https://www.ebi.ac.uk/intact/download#dataset_files)
+Interactions affected by mutations can be visualized by selecting the “Affected by Mutation” option found on the left side of the network view. Alternatively, you can download the “Mutations” dataset [here](https://www.ebi.ac.uk/intact/download#dataset_files)
 
 ![image](https://user-images.githubusercontent.com/77560653/132435272-dbd69e4a-38c6-45ce-90b2-aef6793a421c.png)
 
 
 ## Does IntAct record isoform-specific interactions?
 
-Yes, IntAct curators stringently specify the protein isoform or the pro-chain as mentioned by the authors by using appropriate UniProtKB accession number. The user can query using UniProtKB for the isoforms or make use of auto-suggestion option in the quick search mode
+Yes, IntAct curators stringently specify the protein isoform or the pro-chain as mentioned by the authors by using appropriate UniProtKB accession number. You can query using UniProtKB for the isoforms or make use of auto-suggestion option in the quick search mode
 
 ![image](https://user-images.githubusercontent.com/77560653/132434908-58a995f3-875c-445c-bccd-57c679d6c393.png)
 
 
 ## Can I find drug-target interactions in IntAct?
 
-Yes, IntAct has captured molecular iteraction of proteins with drugs and other small molecules using appropriate ChEBI accession number. Small molecules list will include entities which are synthetic or modified peptides but not those directly encoded by the genome.
+Yes, IntAct has captured molecular iteraction of proteins with drugs and other small molecules using appropriate ChEBI accession number. Small molecules include entities which are synthetic or modified peptides but not those directly encoded by the genome.
 
 ![image](https://user-images.githubusercontent.com/77560653/132433884-41bc3285-2c69-4855-b822-82d82d37e859.png)
 
 
-## Can I find interactions between different molecule types in IntAct? \(e.g. protein-DNA interactions\)
+## Can I find interactions between different molecule types in IntAct? (e.g. protein-DNA interactions)
 
 Interacting partner(s) in IntAct database can be of different molecular types such as proteins, small molecules, nucleic acids, complexes and genes. Based on the type of partner, interactions between protein-protein, protein-DNA and protein-RNA, protein-gene, RNA-RNA, protein-small molecule, protein-macromolecule complex interactions are well documented in IntAct.
 
