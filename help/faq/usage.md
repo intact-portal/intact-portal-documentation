@@ -1,4 +1,4 @@
-# Advanced searching option for IntAct
+# Advanced searching options available in IntAct
 
 
 ## Can I search for more than one protein at a time?
@@ -67,7 +67,7 @@ Yes, using appropriate UniProtKB accession numbers IntAct curators specify prote
 
 ## Can I find drug-target interactions in IntAct?
 
-Yes, IntAct has captured molecular iteraction of proteins with drugs and other small molecules using appropriate ChEBI accession number. Small molecules include entities which are synthetic or modified peptides but not those directly encoded by the genome.
+Yes, IntAct has captured molecular interaction of proteins with drugs and other small molecules using appropriate ChEBI accession number. Small molecules include entities which are synthetic or modified peptides but not those directly encoded by the genome.
 
 ![image](https://user-images.githubusercontent.com/77560653/132433884-41bc3285-2c69-4855-b822-82d82d37e859.png)
 
