@@ -48,7 +48,7 @@ IntAct results can be found in Molecular Interactions cluster. Press on the link
 
 ## How do I find if there are interactions involving a specific domain or region in my protein of interest?
 
-IntAct annotates the binding region of interacting proteins at the feature level. Allowing the users to query for binding regions using InterPro accession numbers is still a work in progress.
+IntAct annotates the binding region of interacting proteins at the feature level. Allowing the users to query for binding regions using InterPro accession numbers is still under development.
 
 
 ## How do I find interactions affected by variant or mutant forms of my protein?
