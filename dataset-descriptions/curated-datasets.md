@@ -47,7 +47,7 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
   This dataset consists of interactions of proteins that are involved in diabetes.
   
-  * [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5]
+ * [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5]
 
   Interactions extracted from publications focused on proteins involved in neurodegenerative diseases.
 
