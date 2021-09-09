@@ -48,3 +48,5 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
   Interactions were investigated in the context of Parkinsons disease with a particular focus on LRRK2 protein and were derived in the context of the The Michael J. Fox Foundation for Parkinson's Research LRRK2 Biology LEAPS Award 2012.
 
 * [**Coronavirus**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:coronavirus%22) - Physical molecular interactions focused on proteins from SARS-CoV-2, SARS-CoV-1 and other members of the Coronaviridae family that has been manually extracted by International Molecular Exchange (IMEx) Consortium curators.
+
+* [**Rare Diseases**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Rare%20Diseases%22) - Dataset of Molecular interactions affected by gene mutations associated with known Rare diseases. The gene list was collected form Orphanet database and the related interactions availabel in the lituretaure are manually curated by IntAct curators
