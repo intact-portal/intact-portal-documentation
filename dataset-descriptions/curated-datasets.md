@@ -51,6 +51,10 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
   This dataset consists of interactions of proteins that are involved in diabetes.
   
+ * [**Huntington's**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Huntington's%22) - Publications describing interactions involved in Huntington's disease. [![PSI 2.5]
+
+  Interactions extracted from publications focused on proteins involved in Huntington's disease.
+  
  * [**IBD**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:IBD%22) - Inflammatory bowel disease [![PSI 2.5]
 
    Interactions extracted from publications focused on proteins involved in Inflammatory Bowel Disease.
