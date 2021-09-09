@@ -26,24 +26,15 @@ The problem is the length of the query. It is difficult to provide a specific li
 
 ## I have found no interactions for my protein rat Zap70. How do I find if a homolog/ortholog/paralog with a high degree of sequence similarity has any interactions in the IntAct database?
 
-Go to [www.ebi.ac.uk/tools/sss](https://github.com/intact-portal/intact-portal-documentation/tree/8e742af7316018e9ef02c904bd4a4b7932e7cafc/help/faq/www.ebi.ac.uk/tools/sss/README.md)
-
-Select your Search Engine of choice e.g. NCBI-BLAST.
-
-Click on protein then paste your sequence into the box, make any required changes to the parameters, add your e-mail address and Submit.
+Select NCBI-BLAST at the [https://www.ebi.ac.uk/Tools/sss](https://www.ebi.ac.uk/Tools/sss/), click on `protein` and paste your sequence into the box. Make any required changes to the parameters, add your e-mail address and Submit.
 
 ![](../../.gitbook/assets/image.png)
 
-
-You will receive the results in tabular form, with additional hyperlinks through to other databases containing information about this protein. You can see below that, although IntAct contains no molecular interactions for rat it does for mouse and human
-
+You will receive the results in tabular form, with additional hyperlinks through to other databases containing information about this protein. You can see below that, although IntAct contains no molecular interactions for rat it does for mouse and human:
 
 ![image](https://user-images.githubusercontent.com/77560653/132332415-f1e3b27e-5c7d-4c97-a163-83f9f50f65f2.png)
 
-
 ![image](https://user-images.githubusercontent.com/77560653/132333470-954b0af3-25e7-4ab2-9f88-68614133307a.png)
-
-
 
 IntAct results can be found in Molecular Interactions cluster. Press on the link to access the data in IntAct
 
