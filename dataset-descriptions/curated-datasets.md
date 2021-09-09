@@ -53,7 +53,7 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
   
  * [**IBD**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:IBD%22) - Inflammatory bowel disease [![PSI 2.5]
 
-  Interactions extracted from publications focused on proteins involved in Inflammatory Bowel Disease.
+   Interactions extracted from publications focused on proteins involved in Inflammatory Bowel Disease.
   
  * [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5]
 
