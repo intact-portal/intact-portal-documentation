@@ -46,6 +46,10 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 * [**Diabetes**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:diabetes%22?conversationContext=7) - Interactions investigated in the context of Diabetes [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Diabetes.zip)
 
   This dataset consists of interactions of proteins that are involved in diabetes.
+  
+  * [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5]
+
+  Interactions extracted from publications focused on proteins involved in neurodegenerative diseases.
 
 * [**Parkinsons**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:parkinsons%22?conversationContext=7) - Interactions investigated in the context of Parkinsons disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Parkinsons.zip)
 
