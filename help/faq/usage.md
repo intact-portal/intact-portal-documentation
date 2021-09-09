@@ -12,7 +12,7 @@ The data reflects how the authors performed the original experiments. In many ca
 
 The species folder on the IntAct ftp site contains species-specific datasets in [PSI-XML2.5](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/species/) and [PSI-XML3.0](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/species/) formats. These files also contain mixed species interactions.
 
-To retrieve data for a specific species, search for its [NCBI taxon ID](https://www.uniprot.org/taxonomy/), e.g. 9606 for human. On the results page, use the `Interactor Species` filter, select your species of interest and, using the toggle button in the top right corner of the pop-up window, select if you want to retrieve any interactions containing at least one interactor of your species of interest or only interactors of your species of interest.
+To retrieve data for a specific species, search for its [NCBI taxon ID](https://www.uniprot.org/taxonomy/), e.g. 9606 for human. On the results page, use the `Interactor Species` filter, select your species of interest and, using the toggle button in the top right corner of the pop-up window, select if you want to retrieve any interactions containing at least one interactor of your species of interest ("Cross") or only interactors of your species of interest ("Intra").
 
 ![image](https://user-images.githubusercontent.com/10517124/132673663-5c46816a-ff28-4c1e-8639-e3a4971e2a1e.png)
 
