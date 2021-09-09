@@ -57,4 +57,4 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
 * [**Ulcerative colitis**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:ulcerative%20colitis%22) - Interactions of proteins identified as having a link to ulcerative colitis [![PSI 2.5]
 
- Interactions extracted from publications focused on proteins involved in ulcerative colitis.
+  Interactions extracted from publications focused on proteins involved in ulcerative colitis.
