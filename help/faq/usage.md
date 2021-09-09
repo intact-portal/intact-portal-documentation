@@ -16,7 +16,7 @@ To retrieve data for a specific species, search for its [NCBI taxon ID](https://
 
 ![image](https://user-images.githubusercontent.com/10517124/132673663-5c46816a-ff28-4c1e-8639-e3a4971e2a1e.png)
 
-We precompute [interactomes](https://www.ebi.ac.uk/intact/interactomes) for 16 bespoke species. The interactomes contain mixed-species interactions.
+We precompute [interactomes](https://www.ebi.ac.uk/intact/interactomes) for 16 bespoke species. These interactomes contain mixed-species interactions.
 
 
 ## I want to look for interactions between pathogen and host proteins, can I find this information in IntAct?
@@ -26,7 +26,7 @@ Yes, use the search for a single organism as described above for one species and
 
 ## I submitted a list of 2000 UniProtKB accession numbers via the "search" interface of IntAct, I obtain "0 binary interactions found for search term", why and how do I find results to my search?
 
-The problem is the length of the query. It is difficult to provide a specific limit, because it is defined according to the length in characters that your query consists of, and that depends on the type of identifier you are using. If you submit a list of space-separated UniProtKB accessions, the limit is approximately **700** identifiers in search. This also applies to [PSCIQUIC view](www.ebi.ac.uk/Tools/webservices/psicquic/view/main.xhtml) and PSICQUIC-based Cytoscape import tool.
+The problem is the length of the query. It is difficult to provide a specific limit, because it is defined according to the length in characters that your query consists of, and that depends on the type of identifier you are using. If you submit a list of space-separated UniProtKB accessions, the limit is approximately **700** identifiers in search. This also applies to [PSCIQUIC view](www.ebi.ac.uk/Tools/webservices/psicquic/view/main.xhtml) and the PSICQUIC-based Cytoscape import tool.
 
 
 ## I have found no interactions for my protein rat Zap70. How do I find if a homolog/ortholog/paralog with a high degree of sequence similarity has any interactions in the IntAct database?
@@ -41,7 +41,7 @@ You will receive the results in tabular form, with additional hyperlinks through
 
 ![image](https://user-images.githubusercontent.com/77560653/132333470-954b0af3-25e7-4ab2-9f88-68614133307a.png)
 
-IntAct results can be found in Molecular Interactions cluster. Press on the link to access the data in IntAct:
+IntAct results can be found in Molecular Interactions cluster. Click on the link to access the data in IntAct:
 
 ![image](https://user-images.githubusercontent.com/77560653/132332515-acd7ff82-bdea-427c-9581-88f8a2eeab2c.png)
 
@@ -81,9 +81,9 @@ Interacting partner(s) in IntAct database can be of different molecular types su
 
 ## How to link to the IntAct website?
 
-Detailed access options for IntAct are discussed in our [User Guide](https://wwwdev.ebi.ac.uk/intact/beta/documentation/user-guide).
+Detailed access options for IntAct are discussed [here](https://www.ebi.ac.uk/intact/documentation/user-guide).
 
 
 ## Why do I get fewer results when I search IntAct via the PSICQUIC service, than when I search on the IntAct website?
 
-The IntAct PSICQUIC webservice only contains interactions curated by IntAct curators while all entries curated by [IMEx](http://www.imexconsortium.org/) curators are available through the IntAct homepage. To see entries curated by external curators in the IntAct environment (for example MINT or UniProtKB), or from other IMEx partners select the results from their PSICQUIC service. All PSICQUIC data providers should support MITAB2.5.
+The [PSICQUIC](www.ebi.ac.uk/Tools/webservices/psicquic/view/main.xhtml) webservice retrieves results based interactions curated by curators from each individual service provider. Therefore, queries from the IntAct PSICQUIC service only contain interactions curated by IntAct curators. Because all curators from our [IMEx Consortium](http://www.imexconsortium.org/) partners (e.g. MINT, DIP, UniProtKB,...) curate directly into the IntAct database all of their contributions are also available through the IntAct homepage, with respective source database attributions in the table. To see entries curated by IMEx partner curators in PSCIQUIC select the results from their individual PSICQUIC service, or the IMEx PSICQUIC service results. All PSICQUIC data providers support at least PSI-MITAB 2.5 [format](https://www.ebi.ac.uk/intact/documentation/user-guide#definitions_formats).
