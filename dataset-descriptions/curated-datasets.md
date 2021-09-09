@@ -35,7 +35,7 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
   
  * [**Coronavirus**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:coronavirus%22) -  Interactions investigated in the context of Coronavirus [![PSI 2.5]
  
- Dataset of molecular interactions extracted from publications involving viral proteins from the Coronaviridae family and human proteins, along with a certain proportion of other model organisms. The data features mostly protein-protein and some RNA-protein interactions and covers SARS-CoV2 and SARS-CoV primarily, with some interactions from other members of Coronaviridae as well. Interactions between human proteins relevant for SARS-CoV2 infection have also been included.
+  Dataset of molecular interactions extracted from publications involving viral proteins from the Coronaviridae family and human proteins, along with a certain      proportion of other model organisms. The data features mostly protein-protein and some RNA-protein interactions and covers SARS-CoV2 and SARS-CoV primarily, with   some interactions from other members of Coronaviridae as well. Interactions between human proteins relevant for SARS-CoV2 infection have also been included.
 
 * [**Cyanobacteria**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:cyanobacteria%22?conversationContext=7) - Interaction dataset based on Cyanobacteria proteins and related species [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Cyanobacteria.zip)
 
