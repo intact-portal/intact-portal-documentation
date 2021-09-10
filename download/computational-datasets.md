@@ -1,4 +1,4 @@
-# Computationally maintained datasets
+# Computationally Maintained Datasets
 
 These datasets are computationally maintained but additional papers may be manually added to this set by a curator during the curation process.
 
