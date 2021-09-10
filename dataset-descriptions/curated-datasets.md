@@ -33,7 +33,7 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
   Chromatin relevant protein-protein interaction studies have been curated by IntAct curators from peer reviewed literature. These comprise interactions which are involved in modulating, modifying or forming chromatin. This dataset aims at capturing major epigenetic interactions resulting in chromatin modulation. Most of the publications were derived from 'Chromatin Papers ListServe' maintained by Bone J.
   
-* [**Coronavirus**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:coronavirus%22) -  Interactions investigated in the context of Coronavirus [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=2)
+* [**Coronavirus**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:coronavirus%22) -  Interactions investigated in the context of Coronavirus [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png)
  
    Dataset of molecular interactions extracted from publications involving viral proteins from the Coronaviridae family and human proteins, along with a certain       proportion of other model organisms. The data features mostly protein-protein and some RNA-protein interactions and covers SARS-CoV2 and SARS-CoV primarily, with   some interactions from other members of Coronaviridae as well. Interactions between human proteins relevant for SARS-CoV2 infection have also been included.
 
