@@ -1,4 +1,4 @@
-## IntAct Cytoscape App
+# IntAct Cytoscape App
 
 The bespoke [Cytoscape App](https://apps.cytoscape.org/apps/intactapp) lets users query IntAct directly through Cytoscape and create Molecular Interaction networks within Cytoscape.
 
