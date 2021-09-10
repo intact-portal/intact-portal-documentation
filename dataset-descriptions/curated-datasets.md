@@ -37,7 +37,7 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
  
    Dataset of molecular interactions extracted from publications involving viral proteins from the Coronaviridae family and human proteins, along with a certain       proportion of other model organisms. The data features mostly protein-protein and some RNA-protein interactions and covers SARS-CoV2 and SARS-CoV primarily, with   some interactions from other members of Coronaviridae as well. Interactions between human proteins relevant for SARS-CoV2 infection have also been included.
 
-* [**Crohn's disease**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Crohn's%20disease%22) - Interactions of proteins identified as having a link to Crohn's disease. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=2)
+* [**Crohn's disease**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Crohn's%20disease%22) - Interactions of proteins identified as having a link to Crohn's disease. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png)
 
   Interactions extracted from publications focused on proteins involved in Crohn's disease.
 
@@ -51,15 +51,15 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
   This dataset consists of interactions of proteins that are involved in diabetes.
   
- * [**Huntington's**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Huntington's%22) - Publications describing interactions involved in Huntington's disease. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=2)
+ * [**Huntington's**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Huntington's%22) - Publications describing interactions involved in Huntington's disease. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png)
 
    Interactions extracted from publications focused on proteins involved in Huntington's disease.
   
- * [**IBD**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:IBD%22) - Inflammatory bowel disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=2)
+ * [**IBD**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:IBD%22) - Inflammatory bowel disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png)
 
    Interactions extracted from publications focused on proteins involved in Inflammatory Bowel Disease.
   
- * [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=2)
+ * [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png)
 
    Interactions extracted from publications focused on proteins involved in neurodegenerative diseases.
 
@@ -67,10 +67,10 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
   Interactions were investigated in the context of Parkinsons disease with a particular focus on LRRK2 protein and were derived in the context of the The Michael J. Fox Foundation for Parkinson's Research LRRK2 Biology LEAPS Award 2012.
 
-* [**Rare Diseases**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Rare%20Diseases%22) - Interactions investigated in the context of Rare genetic disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=2)
+* [**Rare Diseases**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Rare%20Diseases%22) - Interactions investigated in the context of Rare genetic disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png)
 
   This is a dataset of molecular interactions extracted from publications focused on the study of any rare disease. 'A rare disease' is defined according to the    European Union Regulation on Orphan Medicinal Products (1999): a disease that affects not more than 1 person per 2000 in the European population. The dataset is enriched with experimentally proven impact of clinical mutations on interactions, and also with the non-clinical mutations which are found to have effect on protein functionality.
 
-* [**Ulcerative colitis**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:ulcerative%20colitis%22) - Interactions of proteins identified as having a link to ulcerative colitis [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=2)
+* [**Ulcerative colitis**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:ulcerative%20colitis%22) - Interactions of proteins identified as having a link to ulcerative colitis [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png)
 
   Interactions extracted from publications focused on proteins involved in ulcerative colitis.
