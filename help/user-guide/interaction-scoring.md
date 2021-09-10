@@ -85,4 +85,4 @@ As in the method score, $scv\_i$ is a normalized score between 0 and 1, in this 
 
 $$Gscv_1 = scv_1 \,\|\; Gscv_2 = scv_2 \,\|\; Gscv_3 = scv_3, scv_4, scv_5$$
 
-More details including examples of how to use MIscore are available at [https://europepmc.org/articles/PMC4316181](https://europepmc.org/articles/PMC4316181). The code is fully available at [https://github.com/MICommunity/miscore](https://github.com/MICommunity/miscore).
+More details including examples of how to use MIscore are available in PMID:[4316181](https://europepmc.org/article/PMC/4316181). The code is fully available in the [MISCORE GitHub repository](https://github.com/MICommunity/miscore).
