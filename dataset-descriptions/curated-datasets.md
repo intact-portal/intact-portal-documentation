@@ -71,6 +71,6 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
   This is a dataset of molecular interactions extracted from publications focused on the study of any rare disease. 'A rare disease' is defined according to the    European Union Regulation on Orphan Medicinal Products (1999): a disease that affects not more than 1 person per 2000 in the European population. The dataset is enriched with experimentally proven impact of clinical mutations on interactions, and also with the non-clinical mutations which are found to have effect on protein functionality.
 
-* [**Ulcerative colitis**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:ulcerative%20colitis%22) - Interactions of proteins identified as having a link to ulcerative colitis [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Ulcerative colitis.zip)
+* [**Ulcerative colitis**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:ulcerative%20colitis%22) - Interactions of proteins identified as having a link to ulcerative colitis [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Ulcerative_colitis.zip)
 
   Interactions extracted from publications focused on proteins involved in ulcerative colitis.
