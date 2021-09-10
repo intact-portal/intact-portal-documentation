@@ -37,7 +37,7 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
  
    Dataset of molecular interactions extracted from publications involving viral proteins from the Coronaviridae family and human proteins, along with a certain       proportion of other model organisms. The data features mostly protein-protein and some RNA-protein interactions and covers SARS-CoV2 and SARS-CoV primarily, with   some interactions from other members of Coronaviridae as well. Interactions between human proteins relevant for SARS-CoV2 infection have also been included.
 
-* [**Crohn's disease**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:crohn's%20disease%22?conversationContext=6) - Interactions of proteins identified as having a link to Crohn's disease. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/crohn's_disease.zip)
+* [**Crohn's disease**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:crohn's%20disease%22) - Interactions of proteins identified as having a link to Crohn's disease. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/crohn's_disease.zip)
 
   Interactions extracted from publications focused on proteins involved in Crohn's disease.
 
