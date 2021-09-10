@@ -51,15 +51,15 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
   This dataset consists of interactions of proteins that are involved in diabetes.
   
- * [**Huntington's**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:huntington's%22) - Publications describing interactions involved in Huntington's disease. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/huntington's.zip)
+* [**Huntington's**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:huntington's%22) - Publications describing interactions involved in Huntington's disease. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/huntington's.zip)
 
    Interactions extracted from publications focused on proteins involved in Huntington's disease.
   
- * [**IBD**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:IBD%22) - Inflammatory bowel disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/IBD.zip)
+* [**IBD**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:IBD%22) - Inflammatory bowel disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/IBD.zip)
 
    Interactions extracted from publications focused on proteins involved in Inflammatory Bowel Disease.
   
- * [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Neurodegeneration.zip)
+* [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Neurodegeneration.zip)
 
    Interactions extracted from publications focused on proteins involved in neurodegenerative diseases.
 
