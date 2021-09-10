@@ -3,7 +3,7 @@
 Curated datasets are publications tagged, either computationally or manually by a curator, as being relevant to a specific area of biology.
 
 These are actively maintained and grow with every release.   
-New datasets can be requested, if relevant to your work, by mailing [intact-help@ebi.ac.uk.](mailto:intact-help@ebi.ac.uk)
+Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) to request a new dataset relevant to your work. 
 
 * [**Affinomics**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:affinomics%22%20or%20detmethod:%22MI:0813%22?conversationContext=7) - Interactions curated for the Affinomics consortium. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Affinomics.zip)
 
@@ -74,3 +74,5 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 * [**Ulcerative colitis**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:ulcerative%20colitis%22) - Interactions of proteins identified as having a link to ulcerative colitis [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Ulcerative_colitis.zip)
 
   Interactions extracted from publications focused on proteins involved in ulcerative colitis.
+  
+_Disclaimer: Search results for our datasets are displayed on our old website while we implement this search capacity in our new website._
