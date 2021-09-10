@@ -1,2 +1,3 @@
 # Help
 
+delete this folder
