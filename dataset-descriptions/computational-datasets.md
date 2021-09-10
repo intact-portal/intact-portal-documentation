@@ -2,7 +2,7 @@
 
 These datasets are computationally maintained but additional papers may be manually added to this set by a curator during the curation process.
 
-When datasets are computationally added to a publication, the large scale papers \(more than 100 interactions per experiment\) are excluded.
+When datasets are computationally added to a publication, large scale papers \(more than 100 interactions per experiment\) are excluded.
 
 * [**AFCS**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:afcs%22?conversationContext=7) - Interactions from the Alliance for Cell Signaling database [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/AFCS.zip)
 
@@ -34,3 +34,4 @@ When datasets are computationally added to a publication, the large scale papers
 
   The MINT and HPIDb databases are major contributors to this dataset.
 
+_Disclaimer: Search results for our datasets are displayed on our old website while we implement this search capacity in our new website._
