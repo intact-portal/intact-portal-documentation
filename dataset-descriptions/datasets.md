@@ -12,4 +12,4 @@ For 16 different [species](https://www.ebi.ac.uk/intact/documentation/datasets#s
 
 ### Mutations: 
 
-Annotations of experimental evidence where [mutations](https://www.ebi.ac.uk/intact/documentation/datasets#mutations) have been shown to affect a protein interaction.
+Annotations of experimental evidence where [mutations](https://www.ebi.ac.uk/intact/documentation/datasets#mutations) have been shown to affect a molecular interaction.
