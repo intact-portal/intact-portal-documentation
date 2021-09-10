@@ -67,7 +67,7 @@ New datasets can be requested, if relevant to your work, by mailing [intact-help
 
   Interactions were investigated in the context of Parkinsons disease with a particular focus on LRRK2 protein and were derived in the context of the The Michael J. Fox Foundation for Parkinson's Research LRRK2 Biology LEAPS Award 2012.
 
-* [**Rare Diseases**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Rare%20Diseases%22) - Interactions investigated in the context of Rare genetic disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Rare_Diseases.zip)
+* [**Rare Diseases**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Rare%20Diseases%22) - Interactions investigated in the context of Rare genetic diseases [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Rare_Diseases.zip)
 
   This is a dataset of molecular interactions extracted from publications focused on the study of any rare disease. 'A rare disease' is defined according to the    European Union Regulation on Orphan Medicinal Products (1999): a disease that affects not more than 1 person per 2000 in the European population. The dataset is enriched with experimentally proven impact of clinical mutations on interactions, and also with the non-clinical mutations which are found to have effect on protein functionality.
 
