@@ -1,6 +1,6 @@
-## Datasets of interactions of biological significance
+## Datasets of biological significance
 
-We provide several different types of precomputed interaction datasets:
+We provide 4 types of interaction datasets:
 
 ### Topical: 
 
