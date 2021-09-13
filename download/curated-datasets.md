@@ -5,7 +5,7 @@ Curated datasets are publications tagged, either computationally or manually by 
 These are actively maintained and grow with every release.   
 Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) to request a new dataset relevant to your work. 
 
-* [**Affinomics**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:affinomics%22%20or%20detmethod:%22MI:0813%22?conversationContext=7) - Interactions curated for the Affinomics consortium. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Affinomics.zip)
+* [**Affinomics**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:affinomics%22%20or%20detmethod:%22MI:0813%22?conversationContext=7) - Interactions curated for the Affinomics consortium. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Affinomics.zip) [![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/Affinomics.zip)
 
   This dataset contains interactions which have been derived in the context of the EU Affinomics project \(Grant number 241481\). This comprises interactions directly submitted by the consortium partners as well as interaction derived from the literature. The current focus is on interactions derived by Proximity Ligation Assay \([MI:0813](http://www.ebi.ac.uk/ontology-lookup/?termId=MI:0813)\), a method pioneered by the group of consortium partner Ulf Landegreen.
 
