@@ -21,11 +21,11 @@ Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) to requ
 
   Publications based on this dataset: PMID: [18834496](http://genomebiology.com/2008/9/S2/S5), [18834487](http://genomebiology.com/2008/9/S2/S1), [19208158](http://www.biomedcentral.com/1471-2105/10/S1/S55)
 
-* [**Cancer** ](http://www.ebi.ac.uk/intact/query/annot:%22dataset:cancer%22?conversationContext=7)- Interactions investigated in the context of cancer [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Cancer.zip)[![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/Cancer.zip)
+* [**Cancer** ](http://www.ebi.ac.uk/intact/query/annot:%22dataset:cancer%22?conversationContext=7)- Interactions investigated in the context of cancer [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Cancer.zip) [![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/Cancer.zip)
 
   This dataset consists of interactions of proteins that are involved in cancer. An ongoing literature survey was carried out to determine publications of interest. Protein annotations were also considered when choosing the publications to be curated.
 
-* [**Cardiac**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:cardiac%22?conversationContext=7) - Interactions involving cardiac related proteins [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Cardiac.zip)[![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/Cardiac.zip)
+* [**Cardiac**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:cardiac%22?conversationContext=7) - Interactions involving cardiac related proteins [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Cardiac.zip) [![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/Cardiac.zip)
 
   A collection of interactions relating to proteins identified as associated with the cardiovascular system. These annotations create a PPI network which can be used to advance the understanding of protein interactions within the cardiovascular system. The gene lists have been assembled by the Cardiovascular Gene Annotation group at the University College, London and the dataset has also largely been assembled by that group, funded by the British Heart Foundation grant RG/13/5/30112, with the help of IntAct curators located at the EBI. This work is a collaboration with the Cardiac Proteomics and Signalling Laboratory at UCLA, funded by NHLBI Proteomics Center Award HHSN268201000035C.
 
@@ -55,7 +55,7 @@ Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) to requ
 
    Interactions extracted from publications focused on proteins involved in Huntington's disease.
   
-* [**IBD**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:IBD%22) - Inflammatory bowel disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/IBD.zip)[![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/IBD.zip)
+* [**IBD**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:IBD%22) - Inflammatory bowel disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/IBD.zip) [![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/IBD.zip)
 
    Interactions extracted from publications focused on proteins involved in Inflammatory Bowel Disease.
   
