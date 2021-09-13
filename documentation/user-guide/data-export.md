@@ -15,10 +15,10 @@ Score weightings were determined using the [PSI-MI CV](http://www.ebi.ac.uk/onto
 
 | Interaction Type | Weighting |
 | :--- | :--- |
-| Association |         1 |
-| Physical Association |        2 |
-| Direct Association \(and child terms\) |        5 |
-| Colocalization |         0.2 |
+| Association | 1 |
+| Physical Association | 2 |
+| Direct Association \(and child terms\) | 5 |
+| Colocalization | 0.2 |
 
 **Example 1 :**   
   
