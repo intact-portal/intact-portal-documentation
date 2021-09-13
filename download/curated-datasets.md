@@ -59,7 +59,7 @@ Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) to requ
 
    Interactions extracted from publications focused on proteins involved in Inflammatory Bowel Disease.
   
-* [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Neurodegeneration.zip)[![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/Neurodegeneration.zip)
+* [**Neurodegeneration**](https://www.ebi.ac.uk/intact/query/annot:%22dataset:Neurodegeneration%22) - Publications depicting interactions involved in neurodegenerative diseases [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Neurodegeneration.zip) [![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/Neurodegeneration.zip)
 
    Interactions extracted from publications focused on proteins involved in neurodegenerative diseases.
 
