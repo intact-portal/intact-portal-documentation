@@ -8,5 +8,4 @@ IntAct Database EMBL-EBI Wellcome Genome Campus Hinxton Cambridge CB10 1SD Unite
 
 ## Help and support
 
-If you have questions about use of our IntAct or the Complex Portal then email us at [intact-help@ebi.ac.uk](mailto:intact-help@ebi.ac.uk)
-
+If you have questions please contact us about the use of our [IntAct](https://www.ebi.ac.uk/support/intact) or the [Complex Portal](https://www.ebi.ac.uk/support/complexportal).
