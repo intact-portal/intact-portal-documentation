@@ -16,6 +16,6 @@ IntAct is a member of the [IMEx Consortium](www.imexconsortium.org), an internat
 * [Molecular Connections](http://www.molecularconnections.com)
 * [UCL-BHF group, UCL London](https://www.ucl.ac.uk/cardiovascular/research/pre-clinical-and-fundamental-science/functional-gene-annotation)
 * [UniProt group](https://www.uniprot.org/)
-* [Swiss-Prot group, SIB](https://www.sib.swiss/)
+* [Swiss-Prot group, SIB](https://www.expasy.org/resources/uniprotkb-swiss-prot)
 
 
