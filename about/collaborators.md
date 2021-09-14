@@ -18,9 +18,4 @@ IntAct is a member of the [IMEx Consortium](www.imexconsortium.org), an internat
 * [UniProt group](https://www.uniprot.org/)
 * [Swiss-Prot group, SIB](https://web.expasy.org/groups/swissprot/)
 
-## Additional collaborators
-
-Is this needed?
-
-
 
