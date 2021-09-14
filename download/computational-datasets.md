@@ -24,7 +24,7 @@ When datasets are computationally added to a publication, large scale papers \(m
 
   NDPKs, which play a major role in the synthesis of nucleoside triphosphates other than ATP, also possess other enzymatic activities and are required for cell proliferation, differentiation and development.
 
-  Publications based on this dataset: PMID: [19415463](http://www.springerlink.com/content/8311676488281522/)
+  Publications based on this dataset: PMID: [19415463](http://europepmc.org/article/MED/19415463)
 
 * [**Synapse**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:synapse%22?conversationContext=7) - Interactions of proteins with an established role in the presynapse. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Synapse.zip) [![PSI 3.0](https://www.ebi.ac.uk/intact/images/psi30.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi30/datasets/Synapse.zip)
 
