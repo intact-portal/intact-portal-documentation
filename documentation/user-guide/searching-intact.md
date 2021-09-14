@@ -53,7 +53,7 @@ IntAct annotates the binding region of interacting proteins at the feature level
 
 ## How do I find interactions affected by variant or mutant forms of my protein?
 
-Interactions affected by mutations can be visualized by selecting the “Affected by Mutation” option found on the left side of the network view. Alternatively, you can download the “Mutations” dataset [here](https://www.ebi.ac.uk/intact/download#dataset_files).
+Interactions affected by mutations can be visualized by selecting the “Affected by Mutation” option found on the left side of the network view. Alternatively, you can download the “Mutations” dataset [here](https://www.ebi.ac.uk/intact/download/datasets#mutations).
 
 ![image](https://user-images.githubusercontent.com/77560653/132435272-dbd69e4a-38c6-45ce-90b2-aef6793a421c.png)
 
