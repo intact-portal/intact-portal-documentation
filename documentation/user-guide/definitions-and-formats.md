@@ -28,7 +28,7 @@ Use case: [ComplexViewer](https://github.com/MICommunity/ComplexViewer)
 
 ## XGMML
 
-The XGMML data interchange format is used for importing data from IntAct directly into network analysis software such as as [Cytoscape](https://cytoscape.org/). Documentation for the XGMML format is available in [Wikipedia](https://en.wikipedia.org/wiki/XGMML). IntAct has developed its own [Cytocsape App](https://apps.cytoscape.org/apps/intactapp) for querying IntAct data directly from Cytoscape.
+The XGMML data interchange format is used for importing data from IntAct directly into network analysis software such as as [Cytoscape](https://cytoscape.org/). Documentation for the XGMML format is available in [Wikipedia](https://en.wikipedia.org/wiki/XGMML). IntAct has developed its own [Cytoscape App](https://apps.cytoscape.org/apps/intactapp) for querying IntAct data directly from Cytoscape.
 
 # Controlled Vocabulary (CV)
 
