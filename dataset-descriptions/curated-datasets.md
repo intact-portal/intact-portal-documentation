@@ -13,13 +13,13 @@ Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) to requ
 
   The compilation of this dataset and its curation was carried out in collaboration with Perreau V.M. University of Melbourne, Australia. Interactions were investigated in the context of Alzheimers disease with a particular focus on APP \(A4\) protein. The articles to be curated were determined based on protein annotations and literature scanning.
 
-  Publications based on this dataset: PMID: [20391539](http://www3.interscience.wiley.com/journal/123349836/abstract?CRETRY=1&SRETRY=0)
+  Publications based on this dataset: PMID: [20391539](http://europepmc.org/article/MED/20391539?singleResult=true)
 
 * [**BioCreative**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:biocreative%22?conversationContext=7) - Critical Assessment of Information Extraction systems in Biology [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/BioCreative.zip)
 
   The Biocreative dataset is a large dataset of curated publications from the [Journal of Biological Chemistry \(2006\)](http://www.jbc.org/) and [Nature publishing house](http://www.signaling-gateway.org/aboutus/) which were manually curated by IntAct curators. This dataset has been used in [BioCreative II](http://biocreative.sourceforge.net/biocreative_2_ppi.html)\(Critical Assessment of Information Extraction systems in Biology\): Protein-Protein Interaction Task . The protein-protein interaction task focused on the prediction of protein interactions from full text articles, which are represented in the Biocreative dataset. The Biocreative dataset provided by IntAct is a resource for text mining development and testing. The data file \(source-text.txt\) that provides a mapping between IntAct interactions and the sentence\(s\) of the publication that allowed an IntAct curator to identify the interaction is available [here](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/various/data-mining/).
 
-  Publications based on this dataset: PMID: [18834496](http://genomebiology.com/2008/9/S2/S5), [18834487](http://genomebiology.com/2008/9/S2/S1), [19208158](http://www.biomedcentral.com/1471-2105/10/S1/S55)
+  Publications based on this dataset: PMID: [18834496](http://europepmc.org/article/MED/18834496?singleResult=true), [18834487](http://europepmc.org/article/MED/18834487?singleResult=true), [19208158](http://europepmc.org/article/MED/19208158?singleResult=true)
 
 * [**Cancer** ](http://www.ebi.ac.uk/intact/query/annot:%22dataset:cancer%22?conversationContext=7)- Interactions investigated in the context of cancer [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Cancer.zip)
 
