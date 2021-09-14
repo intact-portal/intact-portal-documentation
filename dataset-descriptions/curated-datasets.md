@@ -45,7 +45,7 @@ Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) to requ
 
   This dataset was obtained in a collaboratice effort with Franck Chauvat, Corinne Cassier-Chauvat, Jean-Cristophe Aude, Magali Michaut, and Pierre Legrain from DBJC, CEA Saclay, Gif-Sur-Yvette, France. Cyanobacteria like Synechocystis sp. can be used as model organism as they undergo both oxidative respiration and photosythesis. Cyanobacteria have many features common to bacteria including a lack of compartmentalisation. This dataset is used to gather articles showing interactions relevant to plant photosynthesis, redox metabolism, resistance to metal and oxidative stress. Most interactors belong to Cyanobacteria species, with a focus on Synechocystis sp. \(strain PCC 6803\), TaxID 1148, but some interactors belong to species where biological events seen in Cyanobacteria may also occurs like plants for photosynthesis. Also, the dataset contains a number of hybrid experiments using electron transfer between proteins from different species.
 
-  Publications based on this dataset: PMID: [18508856](http://bioinformatics.oxfordjournals.org/cgi/content/full/24/14/1625?view=long&pmid=18508856)
+  Publications based on this dataset: PMID: [18508856](https://europepmc.org/article/MED/18508856?singleResult=true)
 
 * [**Diabetes**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:diabetes%22?conversationContext=7) - Interactions investigated in the context of Diabetes [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Diabetes.zip)
 
