@@ -4,11 +4,11 @@ IntAct provides a number of different ways to access its data:
 
 ## Website
 
-Users can create bespoke, manual searches directly through the [website](www.ebi.ac.uk/intact). For help with getting started, please consult the [Quick Guide to searching IntAct](https://github.com/intact-portal/intact-portal-documentation/blob/master/help/user-guide/searching-intact.md).
+Users can create bespoke, manual searches directly through the [website](www.ebi.ac.uk/intact). For help with getting started, please consult the [Quick Guide to searching IntAct](https://www.ebi.ac.uk/intact/documentation/user-guide#usage).
 
 ## Webservice
 
-IntAct provides a range of different [webservices](https://github.com/intact-portal/intact-portal-documentation/blob/master/technical-corner/apis.md).
+IntAct provides a range of different [webservices](https://www.ebi.ac.uk/intact/documentation/technical_corner#apis).
 
 ## Download
 
