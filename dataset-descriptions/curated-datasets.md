@@ -7,7 +7,7 @@ Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) to requ
 
 * [**Affinomics**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:affinomics%22%20or%20detmethod:%22MI:0813%22?conversationContext=7) - Interactions curated for the Affinomics consortium. [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Affinomics.zip)
 
-  This dataset contains interactions which have been derived in the context of the EU Affinomics project \(Grant number 241481\). This comprises interactions directly submitted by the consortium partners as well as interaction derived from the literature. The current focus is on interactions derived by Proximity Ligation Assay \([MI:0813](http://www.ebi.ac.uk/ontology-lookup/?termId=MI:0813)\), a method pioneered by the group of consortium partner Ulf Landegreen.
+  This dataset contains interactions which have been derived in the context of the EU Affinomics project \(Grant number 241481\). This comprises interactions directly submitted by the consortium partners as well as interaction derived from the literature. The current focus is on interactions derived by Proximity Ligation Assay \([MI:0813](https://www.ebi.ac.uk/ols/ontologies/mi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMI_0813), a method pioneered by the group of consortium partner Ulf Landegreen.
 
 * [**Alzheimers**](http://www.ebi.ac.uk/intact/query/annot:%22dataset:alzheimers%22?conversationContext=7) - Interaction dataset based on proteins with an association to Alzheimer disease [![PSI 2.5](https://www.ebi.ac.uk/intact/images/psi25.png?conversationContext=7)](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/psi25/datasets/Alzheimers.zip)
 
