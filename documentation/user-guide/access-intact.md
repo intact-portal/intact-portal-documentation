@@ -12,11 +12,11 @@ IntAct provides a range of different [webservices](https://www.ebi.ac.uk/intact/
 
 ## Download
 
-Download the data via our [ftp server](https://www.ebi.ac.uk/intact/download#ftp) or access bespoke [datasets](https://www.ebi.ac.uk/intact/documentation/datasets) directly.
+Download the data via our [ftp server](https://www.ebi.ac.uk/intact/download#ftp) or access bespoke [datasets](https://www.ebi.ac.uk/intact/download/datasets) directly.
 
 ## PSICQUIC Service
 
-IntAct provides its data through the bespoke [PSICQUIC](http://www.ebi.ac.uk/Tools/webservices/psicquic/view/main.xhtml) webservice for molecular interactions data. PSICQUIC queries data from a number of providers using the [PSI-MI TAB (miTab) format](https://www.ebi.ac.uk/intact/documentation/docs#definitions_formats) and returns its results per providers, e.g. IntAct, MINT, MENTHA. 
+IntAct provides its data through the bespoke [PSICQUIC](http://www.ebi.ac.uk/Tools/webservices/psicquic/view/main.xhtml) webservice for molecular interactions data. PSICQUIC queries data from a number of providers using the [PSI-MI TAB (miTab) format](https://www.ebi.ac.uk/intact/documentation/user-guide#definitions_formats) and returns its results per providers, e.g. IntAct, MINT, MENTHA. 
 
 Details on the data provided by each service can be found in the [PSICQUIC registry](http://www.ebi.ac.uk/Tools/webservices/psicquic/registry/registry?action=STATUS). All PSICQUIC data providers should support MITAB2.5.
 
