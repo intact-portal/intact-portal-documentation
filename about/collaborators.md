@@ -2,7 +2,7 @@
 
 ## IntAct and the IMEx Consortium
 
-IntAct is a member of the , an international collaboration between a group of major public interaction data providers who have agreed to share curation effort and practices. 
+IntAct is a member of the [IMEx Consortium](www.imexconsortium.org), an international collaboration between a group of major public interaction data providers who have agreed to share curation effort and practices. 
 
 ## IMEx Consortium active members
 
