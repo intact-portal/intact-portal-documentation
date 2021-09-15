@@ -12,7 +12,7 @@ Once we'll have your data we'll provide you with an IMEx ID to cite in the manus
 
 Here an example:
 
-"The protein interactions from this publication have been submitted to the IMEx \([http://www.imexconsortium.org](http://www.imexconsortium.org)\) consortium through IntAct \[X\] and assigned the identifier IM-xxxx."
+"The protein interactions from this publication have been submitted to the [IMEx consortium](http://www.imexconsortium.org) through IntAct \[X\] and assigned the identifier IM-xxxx."
 
 X.- "The MIntAct project—IntAct as a common curation platform for 11 molecular interaction databases." Orchard S, Ammari M, Aranda B, Breuza L, Briganti L,Broackes-Carter F, Campbell NH, Chavali G, Chen C, del-Toro N,Duesbury M, Dumousseau M, Galeota E, Hinz U, Iannuccelli M,Jagannathan S, Jimenez R, Khadake J, Lagreid A, Licata L, LoveringRC, Meldal B, Melidoni AN, Milagros M, Peluso D, Perfetto L,Porras P, Raghunath A, Ricard-Blum S, Roechert B, Stutz A,Tognolli M, van Roey K, Cesareni G, Hermjakob H Nucleic Acids Res.2014 Jan;42\(Database issue\):D358-D363. doi:10.1093/nar/gkt1115. PMID:24234451
 
