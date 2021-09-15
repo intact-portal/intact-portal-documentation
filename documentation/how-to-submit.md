@@ -4,7 +4,7 @@
 
 The IntAct database encourages and welcomes direct user submissions of molecular interaction data, which may be deposited with us prior to publication in a peer-reviewed journal. We will be happy to assist you with final data preparation and will make your submission publicly available as soon as your article is published. We are happy to accept data in any format, but recommend that you read the [IMEx guideline](http://imex.sourceforge.net/MIMIx/) which may help you in preparing for both deposition and publication.
 
-[Here](http://www.ebi.ac.uk/~intact/site/doc/LargeScaleSubmissionTable.xlsx) you have an example excel file detailing the type of information we require for a submission. Please take this a simple guidance, you do not need to accommodate every single detail in terms of format. Interaction data does not constrain to a single way of representation and we can easily re-format your data if we have the required information.
+[Here](https://www.ebi.ac.uk/~intact/site/doc/LargeScaleSubmissionTable.xlsx) you have an example excel file detailing the type of information we require for a submission. Please take this a simple guidance, you do not need to accommodate every single detail in terms of format. Interaction data does not constrain to a single way of representation and we can easily re-format your data if we have the required information.
 
 Please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) once you are ready to send your data, if you have any further questions, or if you would like curator assistance in your data preparation.
 
@@ -22,4 +22,4 @@ Presubmission data will remain confidential until you give us permission to publ
 
 ## Post-publication submissions
 
-We are also willing to curate specific papers, on request, or become more actively involved in specific projects. Again, please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) if you would like to discuss this further. [Here](http://www.ebi.ac.uk/~intact/site/doc/LargeScaleSubmissionTable.xlsx) you have an example excel file detailing the type of information we require for a submission.
+We are also willing to curate specific papers, on request, or become more actively involved in specific projects. Again, please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) if you would like to discuss this further. [Here](https://www.ebi.ac.uk/~intact/site/doc/LargeScaleSubmissionTable.xlsx) you have an example excel file detailing the type of information we require for a submission.
