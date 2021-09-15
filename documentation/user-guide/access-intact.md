@@ -12,7 +12,7 @@ IntAct provides a range of different [webservices](https://www.ebi.ac.uk/intact/
 
 ## Download
 
-Download the data via our [ftp server](https://www.ebi.ac.uk/intact/download#ftp) or access bespoke [datasets](https://www.ebi.ac.uk/intact/download/datasets) directly.
+Download the data via our [ftp server](https://www.ebi.ac.uk/intact/download/ftp) or access bespoke [datasets](https://www.ebi.ac.uk/intact/download/datasets) directly.
 
 ## PSICQUIC Service
 
@@ -38,8 +38,8 @@ Example: search for interactions for gene name ["ncd80"](https://www.ebi.ac.uk/i
 
 Example: search for interactions for UniProt ID ["P40460"](https://www.ebi.ac.uk/intact/search?query=P40460).
 
-Example: search for interactions for publication [11179222](https://www.ebi.ac.uk/intact/search?query=11179222).
+Example: search for interactions for publication ["11179222"](https://www.ebi.ac.uk/intact/search?query=11179222).
 
 ### 2. Link directly to an interaction AC:
 
-Example: interaction [EBI-1003164](https://www.ebi.ac.uk/intact/details/interaction/EBI-1003164)
+Example: interaction ["EBI-1003164"](https://www.ebi.ac.uk/intact/details/interaction/EBI-1003164)
