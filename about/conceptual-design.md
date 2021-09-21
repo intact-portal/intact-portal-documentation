@@ -20,8 +20,8 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 | Download |
 | :--- |
-| [Logo SVG](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_wca.svg) |
-| [Logo small](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_50x18_transparentbg_300dpi.png) |
+| [Logo SVG](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/icon_gradient_wca.svg) |
+| [Logo small](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_gradient_50x18_transparentbg_300dpi.png) |
 | [Logo medium](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_gradient_150x50_transparentbg_300dpi.png) |
 | [Logo large](https://github.com/intact-portal/intact-portal-documentation/tree/74585c74035aa205ff9ad503032228eae2e785f8/.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png) |
 
