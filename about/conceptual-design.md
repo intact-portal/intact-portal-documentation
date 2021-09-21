@@ -13,7 +13,7 @@ Both the logo and the icon are freely available here for use provided appropriat
 ## Logo
 
 ![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)
-![logo_gradient_transparentbg](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_250x82_transparentbg_300dpi.png) |
+![logo_gradient_transparentbg](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_250x82_transparentbg_300dpi.png)
 
 | Download |
 | :--- |
