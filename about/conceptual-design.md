@@ -14,6 +14,8 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 ![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)
 
+![](https://github.com/intact-portal/intact-portal-documentation/blob/5253882821ce83f6580eadf9ecd73aa2e4c01922/assets/logo_gradient_250x82_transparentbg_300dpi.png)
+
 ![](https://github.com/intact-portal/intact-portal-documentation/blob/caddeaa5774f5584eb8302350a507a1e229cb921/assets/expansion.png)
 
 
