@@ -10,8 +10,6 @@ There are several known algorithms allowing to transform an n-ary interaction in
 
 ![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/expansion.png)
 
-![](https://github.com/intact-portal/intact-portal-documentation/blob/caddeaa5774f5584eb8302350a507a1e229cb921/assets/expansion.png)
-
 * **Spoke expansion**: Links a given molecule \(the [bait](https://www.ebi.ac.uk/ols/ontologies/mi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMI_0496) when such experimental role is appliable, a random one otherwise\) to all the other molecules individually \(the [prey\(s\)](https://www.ebi.ac.uk/ols/ontologies/mi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMI_0498) if such role is appliable\). If N is the count of molecules in the complex, it generates N-1 binary interactions.
 * **Matrix expansion**: Links all molecules to all other molecules present in the complex. If N is the count of molecule in the complex, it generates \(N\*\(N-1\)\)/2 binary interactions.
 
