@@ -14,7 +14,7 @@ The species folder on the IntAct ftp site contains species-specific datasets in 
 
 To retrieve data for a specific species, search for its [NCBI taxon ID](https://www.uniprot.org/taxonomy/), e.g. 9606 for human. On the results page, use the `Interactor Species` filter, select your species of interest and, using the toggle button in the top right corner of the pop-up window, select if you want to retrieve any interactions containing at least one interactor of your species of interest ("Cross") or only interactors of your species of interest ("Intra").
 
-![image](https://user-images.githubusercontent.com/10517124/132673663-5c46816a-ff28-4c1e-8639-e3a4971e2a1e.png)
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/IntAct_search_human.png)
 
 We precompute [interactomes](https://www.ebi.ac.uk/intact/interactomes) for 16 bespoke species. These interactomes contain mixed-species interactions.
 
@@ -33,18 +33,17 @@ The problem is the length of the query. It is difficult to provide a specific li
 
 Select NCBI-BLAST at [https://www.ebi.ac.uk/Tools/sss](https://www.ebi.ac.uk/Tools/sss/), click on `protein` and paste your sequence into the box. Make any required changes to the parameters, add your e-mail address and Submit.
 
-![](../../.gitbook/assets/image.png)
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/blast_search1.png)
 
 You will receive the results in tabular form, with additional hyperlinks through to other databases containing information about this protein. You can see below that, although IntAct contains no molecular interactions for rat it does for mouse and human:
 
-![image](https://user-images.githubusercontent.com/77560653/132332415-f1e3b27e-5c7d-4c97-a163-83f9f50f65f2.png)
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/blast_search2.png)
 
-![image](https://user-images.githubusercontent.com/77560653/132333470-954b0af3-25e7-4ab2-9f88-68614133307a.png)
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/blast_search3.png)
 
 IntAct results can be found in Molecular Interactions cluster. Click on the link to access the data in IntAct:
 
-![image](https://user-images.githubusercontent.com/77560653/132332515-acd7ff82-bdea-427c-9581-88f8a2eeab2c.png)
-
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/EBI_search.png)
 
 ## How do I find if there are interactions involving a specific domain or region in my protein of interest?
 
@@ -55,28 +54,28 @@ IntAct annotates the binding region of interacting proteins at the feature level
 
 Interactions affected by mutations can be visualized by selecting the “Affected by Mutation” option found on the left side of the network view. Alternatively, you can download the “Mutations” dataset [here](https://www.ebi.ac.uk/intact/download/datasets#mutations).
 
-![image](https://user-images.githubusercontent.com/77560653/132435272-dbd69e4a-38c6-45ce-90b2-aef6793a421c.png)
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/IntAct_results_mutations.png)
 
 
 ## Does IntAct record isoform-specific interactions?
 
 Yes, using appropriate UniProtKB accession numbers IntAct curators specify protein isoforms or post-translational chains (PRO chains) if an interaction has been experimentally demonstrated to be specific for these forms of the protein. You can query IntAct with these UniProtKB accession numbers or make use of auto-suggestion option in the quick search mode.
 
-![image](https://user-images.githubusercontent.com/77560653/132434908-58a995f3-875c-445c-bccd-57c679d6c393.png)
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/IntAct_search_isoform.png)
 
 
 ## Can I find drug-target interactions in IntAct?
 
 Yes, IntAct has captured molecular interaction of proteins with drugs and other small molecules using appropriate ChEBI accession number. Small molecules include entities which are synthetic or modified peptides but not those directly encoded by the genome.
 
-![image](https://user-images.githubusercontent.com/77560653/132433884-41bc3285-2c69-4855-b822-82d82d37e859.png)
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/IntAct_ChEBI_search.png)
 
 
 ## Can I find interactions between different molecule types in IntAct? (e.g. protein-DNA interactions)
 
 Interacting partner(s) in IntAct database can be of different molecular types such as proteins, small molecules, nucleic acids, complexes and genes. Based on the type of partner, interactions between protein-protein, protein-DNA and protein-RNA, protein-gene, RNA-RNA, protein-small molecule, protein-macromolecule complex interactions are well documented in IntAct.
 
-![image](https://user-images.githubusercontent.com/77560653/132434006-7b5636cb-d04f-4c84-b2ea-5ec99e12899b.png)
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/IntAct_search_results_gene.png)
 
 
 ## How to link to the IntAct website?
