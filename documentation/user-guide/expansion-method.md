@@ -8,7 +8,7 @@ Some experimental methods such as Tandem Affinity Purification do generate molec
 
 There are several known algorithms allowing to transform an n-ary interaction into a set of binaries. The illustration below present the two most common expansion models and illustrates their potential for the generation of 'false positives'.
 
-![](https://www.ebi.ac.uk/intact/images/documentation/matrix-spoke.png?conversationContext=4)
+![Expansion](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/expansion.png)
 
 * **Spoke expansion**: Links a given molecule \(the [bait](https://www.ebi.ac.uk/ols/ontologies/mi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMI_0496) when such experimental role is appliable, a random one otherwise\) to all the other molecules individually \(the [prey\(s\)](https://www.ebi.ac.uk/ols/ontologies/mi/terms?iri=http%3A%2F%2Fpurl.obolibrary.org%2Fobo%2FMI_0498) if such role is appliable\). If N is the count of molecules in the complex, it generates N-1 binary interactions.
 * **Matrix expansion**: Links all molecules to all other molecules present in the complex. If N is the count of molecule in the complex, it generates \(N\*\(N-1\)\)/2 binary interactions.

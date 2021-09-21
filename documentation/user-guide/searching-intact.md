@@ -81,7 +81,7 @@ Interacting partner(s) in IntAct database can be of different molecular types su
 
 ## How to link to the IntAct website?
 
-Please visit the [Access IntAct] (https://www.ebi.ac.uk/intact/documentation/user-guide#access_intact) section of this user guide for details on how to access IntAct data with direct queries. 
+Please visit the [Access IntAct](https://www.ebi.ac.uk/intact/documentation/user-guide#access_intact) section of this user guide for details on how to access IntAct data with direct queries. 
 
 
 ## Why do I get fewer results when I search IntAct via the PSICQUIC service, than when I search on the IntAct website?
