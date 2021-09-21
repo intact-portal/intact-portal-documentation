@@ -10,7 +10,7 @@ MIscore is a customizable, heuristic scoring system that takes three factors int
 
 MIscore provides a score that represents the degree of confidence in the existence of a particular interaction by assessing the annotation of that specific interaction in a standards-compliant dataset. The score given to an interaction will increase as the number of experimental evidences supporting that interaction increases. Experimental evidences contribute more highly to the final score than evidences derived by predictive algorithms or literature text-mining methods. Combinations of evidences, such as low scoring experimental interactions \(e.g. co-localizations\) supported by non-experimental evidence provide a higher degree of confidence than either would in isolation. In the versions of MIscore implemented by the IntAct database and for the filtering of data for export from IntAct to UniProtKB, the values have been selected to reflect the ethos of these databases, with a strong emphasis on there being experimental evidence for the existence of a physical interaction.
 
-![MI Score Sources](../.gitbook/assets/MIScore.png)
+![MI Score Sources](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/MIScore.png)
 
 ## Score calculation
 
