@@ -8,7 +8,7 @@ Some experimental methods such as Tandem Affinity Purification do generate molec
 
 There are several known algorithms allowing to transform an n-ary interaction into a set of binaries. The illustration below present the two most common expansion models and illustrates their potential for the generation of 'false positives'.
 
-![Expansion](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/expansion.png)
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/expansion.png)
 
 ![](https://github.com/intact-portal/intact-portal-documentation/blob/caddeaa5774f5584eb8302350a507a1e229cb921/assets/expansion.png)
 
