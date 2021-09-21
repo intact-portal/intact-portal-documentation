@@ -15,6 +15,9 @@ Both the logo and the icon are freely available here for use provided appropriat
 ![](../.gitbook/assets/logo_gradient_250x82_transparentbg_300dpi.png)
 ![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_250x82_transparentbg_300dpi.png)
 
+![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/expansion.png)
+
+
 | Download |
 | :--- |
 | [Logo SVG](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_wca.svg) |
