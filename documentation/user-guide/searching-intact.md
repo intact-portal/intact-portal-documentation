@@ -83,11 +83,12 @@ Interacting partner(s) in IntAct database can be of different molecular types su
 Please visit the [Access IntAct](https://www.ebi.ac.uk/intact/documentation/user-guide#access_intact) section of this user guide for details on how to access IntAct data with direct queries. 
 
 
+
+## Why do I get fewer results when I download the results in miJSON format than when I search on the IntAct website?
+
+For the results table on the website interactions with more than 2 participant (n-ary interactions) are expanded into binary pairs by the [Spoke expansion algorithm](https://www.ebi.ac.uk/intact/documentation/user-guide#expansion_method). These exanded binary pairs are also exported in the PSI-MI TAB files. For the export to PSI-XML and MI-JSON n-ary interactions are retained and therefore the interaction counts in the latter file formats are often lower than those dispayed on the website or exported in the PSI-MI TAB files.
+
+
 ## Why do I get fewer results when I search IntAct via the PSICQUIC service, than when I search on the IntAct website?
 
 The [PSICQUIC](http://www.ebi.ac.uk/Tools/webservices/psicquic/view/main.xhtml) webservice retrieves results based interactions curated by curators from each individual service provider. Therefore, queries from the IntAct PSICQUIC service only contain interactions curated by IntAct curators. Because all curators from our [IMEx Consortium](http://www.imexconsortium.org/) partners (e.g. MINT, DIP, UniProtKB,...) curate directly into the IntAct database all of their contributions are also available through the IntAct homepage, with respective source database attributions in the table. To see entries curated by IMEx partner curators in PSICQUIC select the results from their individual PSICQUIC service. All PSICQUIC data providers support at least PSI-MITAB 2.5 [format](https://www.ebi.ac.uk/intact/documentation/user-guide#definitions_formats).
-
-
-## Why do I get lesser results when I download the results in miJSON format, than when I search on the IntAct website?
-
-The difference is because the n-ary interactions are not expanded into binaries by Spoke expansion algorithm in miJSON while in the results, they are expanded into respective binaries.  Futher detilas on expansion method can be found at https://www.ebi.ac.uk/intact/documentation/user-guide#expansion_method.
