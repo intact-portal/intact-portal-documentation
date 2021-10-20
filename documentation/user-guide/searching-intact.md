@@ -86,7 +86,7 @@ Please visit the [Access IntAct](https://www.ebi.ac.uk/intact/documentation/user
 
 ## Why do I get fewer results when I download the results in miJSON format than when I search on the IntAct website?
 
-For the results table on the website interactions with more than 2 participant (n-ary interactions) are expanded into binary pairs by the [Spoke expansion algorithm](https://www.ebi.ac.uk/intact/documentation/user-guide#expansion_method). These exanded binary pairs are also exported in the PSI-MI TAB files. For the export to PSI-XML and MI-JSON n-ary interactions are retained and therefore the interaction counts in the latter file formats are often lower than those dispayed on the website or exported in the PSI-MI TAB files.
+For the results table on the website interactions with more than 2 participants (n-ary interactions) are expanded into binary pairs by the [Spoke expansion algorithm](https://www.ebi.ac.uk/intact/documentation/user-guide#expansion_method). These exanded binary pairs are also exported in the PSI-MI TAB files. For the export to PSI-XML and MI-JSON n-ary interactions are retained and therefore the interaction counts in the latter file formats are often lower than those dispayed on the website or exported in the PSI-MI TAB files.
 
 
 ## Why do I get fewer results when I search IntAct via the PSICQUIC service, than when I search on the IntAct website?
