@@ -1,3 +1,3 @@
-- Publications: 22,691
-- Interactors: 118,213
-- Interactions: 1,155,201
+- Publications: 22,851
+- Interactors: 118,759
+- Interactions: 1,184,144
