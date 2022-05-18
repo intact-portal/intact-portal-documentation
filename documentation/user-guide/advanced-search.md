@@ -1,3 +1,29 @@
+# Advanced Search
+
+This will help you in using our feature - [MIQL/Advanced Search](https://www.ebi.ac.uk/intact/home#advanced-search)
+
+## MIQL Syntax
+
+Use OR or space ' ' to search for ANY of the terms in a field, enclosed with brackets ()
+
+Use AND if you want to search for those interactions where ALL of your terms are found, enclosed with brackets ()
+
+Use quotes (") if you look for a specific phrase (group of terms that must be searched together) or terms containing special characters that may otherwise be interpreted by our query engine (eg. '-' in idA or idB) 
+
+Use parenthesis for complex queries (e.g. '(XXX OR YYY) AND ZZZ')
+
+Wildcards (*,?) can be used between letters in a term or at the end of terms to do fuzzy queries,
+but never at the beginning of a term 
+
+Optionally, you can prepend a symbol in from of your term.
+
+    + (plus): include this term. Equivalent to AND. e.g. +P12345
+    - (minus): do not include this term. Equivalent to NOT. e.g. -P12345
+    Nothing in front of the term. Equivalent to OR. e.g. P12345
+
+
+## MIQL fields
+
 | Field Name | Searches On | Example |
 | :--- | :--- | :--- |
 | idA | Identifier A | [idA:P74565](https://intact-portal.github.io/intact-portal-view/search?query=idA:P74565) |
