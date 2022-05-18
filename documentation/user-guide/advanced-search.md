@@ -4,7 +4,7 @@
 | idA | Identifier A | [idA:P74565](https://www.ebi.ac.uk/intact/search?query=idA:P74565) |
 | idB | Identifier B | [idB:P74565](https://www.ebi.ac.uk/intact/search?query=idB:P74565) |
 | id | Identifiers (A or B) | [id:P74565](https://www.ebi.ac.uk/intact/search?query=id:P74565) |
-| alias | Aliases (A or B) | [alias:(KHDRBS1 OR HCK)](https://www.ebi.ac.uk/intact/search?query=alias:(KHDRBS1 OR HCK)) |
+| alias | Aliases (A or B) | [alias:(KHDRBS1 OR HCK)](<https://www.ebi.ac.uk/intact/search?query=alias:(KHDRBS1 OR HCK)>) |
 | identifier | Identifiers and Aliases undistinctively | [identifier:P74565](https://www.ebi.ac.uk/intact/search?query=identifier:P74565) |
 | pubauth | Publication 1st author(s) | [pubauth:scott](https://www.ebi.ac.uk/intact/search?query=pubauth:scott) |
 | pubid | Publication Identifier(s) | [pubid:(10837477 OR 12029088)](https://www.ebi.ac.uk/intact/search?query=pubid:(10837477 OR 12029088)) |
