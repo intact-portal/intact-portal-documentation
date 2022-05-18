@@ -6,7 +6,7 @@
 | alias | Aliases (A or B) | [alias:(KHDRBS1 OR HCK)](<https://intact-portal.github.io/intact-portal-view/search?query=alias:(KHDRBS1 OR HCK)>) |
 | identifier | Identifiers and Aliases undistinctively | [identifier:P74565](https://intact-portal.github.io/intact-portal-view/search?query=identifier:P74565) |
 | pubauth | Publication 1st author(s) | [pubauth:scott](https://intact-portal.github.io/intact-portal-view/search?query=pubauth:scott) |
-| pubid | Publication Identifier(s) | [pubid:(10837477 OR 12029088)](<https://intact-portal.github.io/intact-portal-view/search?query=pubid:(10837477 OR 12029088)>)) |
+| pubid | Publication Identifier(s) | [pubid:(10837477 OR 12029088)](<https://intact-portal.github.io/intact-portal-view/search?query=pubid:(10837477 OR 12029088)>) |
 | taxidA | Tax ID interactor A: be it the tax ID or the species name | [taxidA:mouse](https://intact-portal.github.io/intact-portal-view/search?query=taxidA:mouse) |
 | taxidB | Tax ID interactor B: be it the tax ID or species name | [taxidB:9606](https://intact-portal.github.io/intact-portal-view/search?query=taxidB:9606) |
 | species | Species. Tax ID A or Tax ID B | [species:human](https://intact-portal.github.io/intact-portal-view/search?query=species:human) |
