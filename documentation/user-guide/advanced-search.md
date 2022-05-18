@@ -1,6 +1,6 @@
 # Advanced/MIQL Search
 
-This will help you in using our feature - [MIQL/Advanced Search](https://www.ebi.ac.uk/intact/home#advanced-search)
+This will help you in using our feature - [Advanced/MIQL Search](https://www.ebi.ac.uk/intact/home#advanced-search)
 
 ## Advanced/MIQL Syntax
 
