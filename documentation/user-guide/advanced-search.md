@@ -4,9 +4,9 @@ This will help you in using our feature - [MIQL/Advanced Search](https://www.ebi
 
 ## MIQL Syntax
 
-* Use OR or space ' ' to search for ANY of the terms in a field, enclosed with brackets ()
+* Use OR or space ' ' to search for ANY of the terms in a field, enclosed within brackets ()
 
-* Use AND if you want to search for those interactions where ALL of your terms are found, enclosed with brackets ()
+* Use AND if you want to search for those interactions where ALL of your terms are found, enclosed within brackets ()
 
 * Use quotes (") if you look for a specific phrase (group of terms that must be searched together) or terms containing special characters that may otherwise be interpreted by our query engine (eg. '-' in idA or idB) 
 
