@@ -39,16 +39,16 @@
 | geneName | Gene name for Interactor A or B | [geneName:brca2](https://www.ebi.ac.uk/intact/search?query=geneName:brca2) |
 | source | Source database(s) | [source:mbinfo](https://www.ebi.ac.uk/intact/search?query=source:mbinfo) |
 | intact-miscore | IntAct MI Score (between 0 and 1), based on number of publications, detection methods and interaction types. | [intact-miscore:[0.5 TO 1.0]](<https://www.ebi.ac.uk/intact/search?query=intact-miscore:[0.5 TO 1.0]>) |
-| altidA | Alternate ids A search | Example |
-| altidB | Alternate ids B search | Example |
-| aliasA | Aliases A | Example |
-| aliasB | Aliases B | Example |
+| altidA | Alternate ids A search | [altidA:ensemblfungi:YDR334W](https://www.ebi.ac.uk/intact/search?query=altidA:ensemblfungi:YDR334W) |
+| altidB | Alternate ids B search | [altidB:ensemblfungi:YFL039C](https://www.ebi.ac.uk/intact/search?query=altidB:ensemblfungi:YFL039C) |
+| aliasA | Aliases A | [aliasA:KHDRBS1](https://www.ebi.ac.uk/intact/search?query=aliasA:KHDRBS1) |
+| aliasB | Aliases B | [aliasB:HCK](https://www.ebi.ac.uk/intact/search?query=aliasB:HCK) |
 | pubyear | Publication year | [pubyear:[2012 TO 2022]](<https://www.ebi.ac.uk/intact/search?query=pubyear:[2012 TO 2022]>) |
-| pubauthors | Any author from the list | Example |
-| taxidHost | Host organism | Example |
+| pubauthors | Any author from the list | [pubauthors:Sviderskiy](https://www.ebi.ac.uk/intact/search?query=pubauthors:Sviderskiy) |
+| taxidHost | Host organism : be it the tax ID or species name| [taxidHost:9606](https://www.ebi.ac.uk/intact/search?query=taxidHost:9606) |
 | rdate | Released date | [rdate:[20110607 TO 20220906]](<https://www.ebi.ac.uk/intact/search?query=rdate:[20110607 TO 20220906]>) |
 | mutation | Effected by mutation Either by mutationA or mutationB | [mutation:true](https://www.ebi.ac.uk/intact/search?query=mutation:true) |
 | mutationA | Effected by mutation by mutationA | [mutationA:true](https://www.ebi.ac.uk/intact/search?query=mutationA:true) |
 | mutationB | Effected by mutation Either by mutationB | [mutationB:true](https://www.ebi.ac.uk/intact/search?query=mutationB:true) |
-| geneNameA | Gene name for Interactor A | Example |
-| geneNameB | Gene name for Interactor B | Example |
+| geneNameA | Gene name for Interactor A | [geneNameA:XRCC3](https://www.ebi.ac.uk/intact/search?query=geneNameA:XRCC3) |
+| geneNameB | Gene name for Interactor B | [geneNameB:brca2](https://www.ebi.ac.uk/intact/search?query=geneNameB:brca2) |
