@@ -1,8 +1,8 @@
-# Advanced Search
+# Advanced/MIQL Search
 
 This will help you in using our feature - [MIQL/Advanced Search](https://www.ebi.ac.uk/intact/home#advanced-search)
 
-## MIQL Syntax
+## Advanced/MIQL Syntax
 
 * Use OR or space ' ' to search for ANY of the terms in a field, enclosed within brackets ()
 
@@ -22,7 +22,7 @@ but never at the beginning of a term
     * Nothing in front of the term. Equivalent to OR. e.g. P12345
 
 
-## MIQL fields
+## Advanced/MIQL fields
 
 | Field Name | Searches On | Example |
 | :--- | :--- | :--- |
