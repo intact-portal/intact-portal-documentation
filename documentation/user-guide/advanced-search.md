@@ -2,16 +2,16 @@
 | :--- | :--- | :--- |
 | idA | Identifier A | [idA:P74565](https://intact-portal.github.io/intact-portal-view/search?query=idA:P74565) |
 | idB | Identifier B | [idB:P74565](https://intact-portal.github.io/intact-portal-view/search?query=idB:P74565) |
-| id | Identifiers (A or B) | [id:P74565](https://intact-portal.github.io/intact-portal-view/search?query=id:P74565) |
+| id | Identifiers (A or B) : Alternate ids included | [id:P74565](https://intact-portal.github.io/intact-portal-view/search?query=id:P74565) |
 | alias | Aliases (A or B) | [alias:(KHDRBS1 OR HCK)](<https://intact-portal.github.io/intact-portal-view/search?query=alias:(KHDRBS1 OR HCK)>) |
 | identifier | Identifiers and Aliases undistinctively | [identifier:P74565](https://intact-portal.github.io/intact-portal-view/search?query=identifier:P74565) |
 | pubauth | Publication 1st author(s) | [pubauth:scott](https://intact-portal.github.io/intact-portal-view/search?query=pubauth:scott) |
-| pubid | Publication Identifier(s) | [pubid:(10837477 OR 12029088)](<https://intact-portal.github.io/intact-portal-view/search?query=pubid:(10837477 OR 12029088>)) |
+| pubid | Publication Identifier(s) | [pubid:(10837477 OR 12029088)](<https://intact-portal.github.io/intact-portal-view/search?query=pubid:(10837477 OR 12029088)>)) |
 | taxidA | Tax ID interactor A: be it the tax ID or the species name | [taxidA:mouse](https://intact-portal.github.io/intact-portal-view/search?query=taxidA:mouse) |
 | taxidB | Tax ID interactor B: be it the tax ID or species name | [taxidB:9606](https://intact-portal.github.io/intact-portal-view/search?query=taxidB:9606) |
 | species | Species. Tax ID A or Tax ID B | [species:human](https://intact-portal.github.io/intact-portal-view/search?query=species:human) |
-| type | Interaction type(s) | [type:"physical interaction"](<https://intact-portal.github.io/intact-portal-view/search?query=type:"physical interaction">) |
-| detmethod | Interaction Detection method(s) | [detmethod:"two hybrid*"](<https://intact-portal.github.io/intact-portal-view/search?query=detmethod:"two hybrid*">) |
+| type | Interaction type(s) | [type:"physical association"](<https://intact-portal.github.io/intact-portal-view/search?query=type:"physical association">) |
+| detmethod | Interaction Detection method(s) | [detmethod:"two hybrid"](<https://intact-portal.github.io/intact-portal-view/search?query=detmethod:"two hybrid">) |
 | interaction_id | Interaction identifier(s) | [interaction_id:EBI-761050](https://intact-portal.github.io/intact-portal-view/search?query=interaction_id:EBI-761050) |
 | pbioroleA | Biological role(s) interactor A | [pbioroleA:enzyme](https://intact-portal.github.io/intact-portal-view/search?query=pbioroleA:enzyme) |
 | pbioroleB | Biological role(s) interactor B | [pbioroleB:enzyme](https://intact-portal.github.io/intact-portal-view/search?query=pbioroleB:enzyme) |
@@ -23,8 +23,8 @@
 | pxrefB | Interactor xref B | [pxrefB:"GO:0005794"](https://intact-portal.github.io/intact-portal-view/search?query=pxrefB:"GO:0005794") |
 | pxref | Interactor xref (A or B) | [pxref:"GO:0005794"](https://intact-portal.github.io/intact-portal-view/search?query=pxref:"GO:0005794") |
 | xref | Interaction xref(s) | [xref:"GO:0005634"](https://intact-portal.github.io/intact-portal-view/search?query=xref:"GO:0005634") |
-| annot | Annotations/Tags Interaction | [annotation:"imex curation"](<https://intact-portal.github.io/intact-portal-view/search?query=annotation:"imex curation">) |
-| udate | Last update of the interaction | [udate:[20110607 TO 20120906]](<https://intact-portal.github.io/intact-portal-view/search?query=udate:[20110607 TO 20120906]>) |
+| annot | Annotations/Tags Interaction | [annot:"imex curation"](<https://intact-portal.github.io/intact-portal-view/search?query= annot:"imex curation">) |
+| udate | Last update of the interaction | [udate:[20210607 TO 20220906]](<https://intact-portal.github.io/intact-portal-view/search?query=udate:[20210607 TO 20220906]>) |
 | negative | Boolean value which is true if an interaction is negative | [negative:true](https://intact-portal.github.io/intact-portal-view/search?query=negative:true) |
 | complex | Complex Expansion method(s) | [complex:spoke](https://intact-portal.github.io/intact-portal-view/search?query=complex:spoke) |
 | ftypeA | Feature type(s) A | [ftypeA:"binding region"](<https://intact-portal.github.io/intact-portal-view/search?query=ftypeA:"binding region">) |
