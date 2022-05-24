@@ -1,6 +1,6 @@
 # Mutations
 
-[This dataset](ftp://ftp.ebi.ac.uk/pub/databases/intact/current/various/mutations.tsv) contains annotations of experimental evidence where mutations have been shown to affect a protein interaction.
+[This dataset](https://ftp.ebi.ac.uk/pub/databases/intact/current/various/mutations.tsv) contains annotations of experimental evidence where mutations have been shown to affect a protein interaction.
 
 Several types of mutations are captured and the terms used to described them can be found in the [PSI Molecular Interactions Controlled Vocabulary](https://www.ebi.ac.uk/ols/ontologies/mi).
 
