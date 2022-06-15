@@ -2,7 +2,7 @@
 
 IntAct is released monthly. All IntAct data and software is freely available to all users, academic or commercial, under the terms of the Apache License, Version 2.0
 
-From [https://ftp.ebi.ac.uk/pub/databases/intact/current](ftp://ftp.ebi.ac.uk/pub/databases/intact/current)
+From [https://ftp.ebi.ac.uk/pub/databases/intact/current](https://ftp.ebi.ac.uk/pub/databases/intact/current)
 
 Contents of the IntAct FTP directory:
 
