@@ -10,6 +10,8 @@ This will help you in using our feature - [Advanced/MIQL Search](https://www.ebi
 
 * Use quotes (") if you look for a specific phrase (group of terms that must be searched together) or terms containing special characters that may otherwise be interpreted by our query engine (eg. '-' in idA or idB) 
 
+* Use '-' as a field value to specify that the field can be null or absent
+
 * Use parenthesis for complex queries (e.g. '(XXX OR YYY) AND ZZZ')
 
 * Wildcards (*,?) can be used between letters in a term or at the end of terms to do fuzzy queries,
