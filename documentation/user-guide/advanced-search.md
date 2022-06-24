@@ -74,8 +74,8 @@ but never at the beginning of a term
 | pubauthors | Any author from the list | [pubauthors:Sviderskiy](https://www.ebi.ac.uk/intact/search?query=pubauthors:Sviderskiy) |
 | taxidHost | Host organism : be it the tax ID or species name| [taxidHost:9606](https://www.ebi.ac.uk/intact/search?query=taxidHost:9606) |
 | rdate | Released date | [rdate:[20110607 TO 20220906]](<https://www.ebi.ac.uk/intact/search?query=rdate:[20110607 TO 20220906]>) |
-| mutation | Effected by mutation Either by mutationA or mutationB | [mutation:true](https://www.ebi.ac.uk/intact/search?query=mutation:true) |
-| mutationA | Effected by mutation by mutationA | [mutationA:true](https://www.ebi.ac.uk/intact/search?query=mutationA:true) |
-| mutationB | Effected by mutation Either by mutationB | [mutationB:true](https://www.ebi.ac.uk/intact/search?query=mutationB:true) |
+| mutation | Effected either by mutationA or mutationB | [mutation:true](https://www.ebi.ac.uk/intact/search?query=mutation:true) |
+| mutationA | Effected by mutationA | [mutationA:true](https://www.ebi.ac.uk/intact/search?query=mutationA:true) |
+| mutationB | Effected by mutationB | [mutationB:true](https://www.ebi.ac.uk/intact/search?query=mutationB:true) |
 | geneNameA | Gene name for Interactor A | [geneNameA:XRCC3](https://www.ebi.ac.uk/intact/search?query=geneNameA:XRCC3) |
 | geneNameB | Gene name for Interactor B | [geneNameB:brca2](https://www.ebi.ac.uk/intact/search?query=geneNameB:brca2) |
