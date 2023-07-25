@@ -2,6 +2,6 @@
 
 ## Please use this publication to cite IntAct:
 
-Orchard S, et al. (2013) The MIntAct project - IntAct as a common curation platform for 11 molecular interaction databases. Nucleic Acids Research, 42(Database issue):D358-63, 13 Nov 2013, PMID: 24234451: [Abstract](https://europepmc.org/article/MED/24234451), [Article](https://academic.oup.com/nar/article/42/D1/D358/1051282)
+N. Del Toro et al., “The IntAct database: efficient access to fine-grained molecular interaction data,” Nucleic Acids Res., vol. 50, no. D1, pp. D648–D653, Jan. 2022, PMID: 34761267: [Abstract](https://europepmc.org/article/MED/34761267), [Article](https://academic.oup.com/nar/article/50/D1/D648/6425548)
 
 Other publications by the team can be found in our [Google Scholar profile](https://scholar.google.com/citations?view_op=list_works&hl=en&hl=en&user=BM_RTG0AAAAJ&sortby=pubdate).
