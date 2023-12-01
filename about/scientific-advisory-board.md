@@ -1,6 +1,6 @@
 # Scientific Advisory Board
 
-A panel of internationally-renowned experts advise the IntAct team and hold a review meeting once every 18 months. Current SAB panel members are:
+A panel of internationally-renowned experts advise the IntAct and Complex Portal team and hold a review meeting once every 18 months. Current SAB panel members are:
 
 * Prof Pascal Falter-Braun [LMU](https://www.en.biologie.uni-muenchen.de/people/faculty/falter-braun/index.html)
 * Dr Alex Gutteridge, [Novo Nordisk](https://www.linkedin.com/in/alex-gutteridge-5102224)
