@@ -19,4 +19,3 @@ Representatives of IMEx consortium partners participate in the SAB as observers:
 * Dr Igor Jurisica, [I2D](http://ophid.utoronto.ca/)
 * Dr Luana Licata, [MINT](http://mint.bio.uniroma2.it/)
 * Prof David J. Lynn, [InnateDB](http://www.innatedb.com/)
-* Dr Lukasz Salwinski, [DIP](http://dip.doe-mbi.ucla.edu/)
