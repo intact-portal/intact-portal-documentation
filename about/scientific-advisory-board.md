@@ -8,3 +8,12 @@ A panel of internationally-renowned experts advise the IntAct team and hold a re
 * Dr Evangelia Petsalaki, [EMBL-EBI](https://www.ebi.ac.uk/about/people/evangelia-petsalaki)
 * Prof Edward M. Marcotte [University of Texas at Austin](https://molecularbiosci.utexas.edu/directory/edward-m-marcotte)
 * Prof Joseph Marsh  [University of Edinburgh](https://www.ed.ac.uk/profile/joe-marsh)
+
+# IMEX Consortium Partners
+
+* Dr Kalpana Panneerselvam [Intact](https://www.ebi.ac.uk/intact)
+* Dr Sandra Orchard [Uniprot](https://www.uniprot.org/)
+* Prof Sylvie Richard-Blum [MatrixDB](http://matrixdb.univ-lyon1.fr/)
+* Dr Igor Jurisica [I2D](http://ophid.utoronto.ca/)
+* Dr Luana Licata [MINT](http://mint.bio.uniroma2.it/)
+* Prof David J. Lynn [InnateDB](http://www.innatedb.com/)
