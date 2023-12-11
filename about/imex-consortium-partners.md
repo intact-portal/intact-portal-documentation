@@ -2,7 +2,7 @@
 
 Representatives of IMEx consortium partners participate in the SAB as observers:
 
-* Dr Kalpana Panneerselvam, [IntAct](https://www.ebi.ac.uk/intact)
+* Kalpana Panneerselvam, [IntAct](https://www.ebi.ac.uk/intact)
 * Sandra Orchard, [UniProt](https://www.uniprot.org/)
 * Prof Sylvie Richard-Blum, [MatrixDB](http://matrixdb.univ-lyon1.fr/)
 * Dr Igor Jurisica, [IID](https://ophid.utoronto.ca/)
