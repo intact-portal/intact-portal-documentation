@@ -19,3 +19,6 @@ IntAct and IMEx data is collected from published scientific articles via archiva
 * [Archival Curation Privacy Notice](https://www.ebi.ac.uk/data-protection/privacy-notice/intact-and-imex-archival-curation)
 * [Direct Submissions Privacy Notice](https://www.ebi.ac.uk/data-protection/privacy-notice/intact-and-imex-direct-submissions)
 
+## Data Preservation
+
+IntAct conforms to the EBI long-term data preservation [policies](https://www.ebi.ac.uk/long-term-data-preservation).
