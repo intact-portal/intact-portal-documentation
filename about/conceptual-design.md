@@ -17,19 +17,19 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 | Download |
 | :--- |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_wca.svg" download>Logo SVG</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_50x18_transparentbg_300dpi.png)" download>Logo small</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_150x50_transparentbg_300dpi.png)" download>Logo medium</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_250x82_transparentbg_300dpi.png)" download>Logo large</a> |
+| [Logo SVG](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_wca.svg) |
+| [Logo small](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_50x18_transparentbg_300dpi.png) |
+| [Logo medium](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_150x50_transparentbg_300dpi.png) |
+| [Logo large](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_gradient_250x82_transparentbg_300dpi.png) |
 
 ![](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/intact_white_wca_w_bckg.png)
 
 | Download |
 | :--- |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/intact_white_wca.svg" download>Logo negative SVG</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_white_50x18_transparentbg_300dpi.png" download>Logo negative small</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_white_150x50_transparentbg_300dpi.png" download>Logo negative medium</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_white_250x82_transparentbg_300dpi.png" download>Logo negative large</a> |
+| [Logo negative SVG](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/intact_white_wca.svg) |
+| [Logo negative small](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_white_50x18_transparentbg_300dpi.png) |
+| [Logo negative medium](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_white_150x50_transparentbg_300dpi.png) |
+| [Logo negative large](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/logo_white_250x82_transparentbg_300dpi.png) |
 
 ## Icon
 
@@ -37,17 +37,17 @@ Both the logo and the icon are freely available here for use provided appropriat
 
 | Downloads |
 | :--- |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_wca.svg" download>Icon SVG</a> |
-| <a href="hhttps://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_50x50_transparentbg_300dpi.png" download>Icon small</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_150x150_transparentbg_300dpi.png" download>Icon medium</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_250x250_transparentbg_300dpi.png" download>Icon large</a> |
+| [Icon SVG](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_wca.svg) |
+| [Icon small](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_50x50_transparentbg_300dpi.png) |
+| [Icon medium](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_150x150_transparentbg_300dpi.png) |
+| [Icon large](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_gradient_250x250_transparentbg_300dpi.png) |
 
 ![](../.gitbook/assets/icon_white_w_bckg.svg)
 
 | Downloads |
 | :--- |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_white_wca.svg" download>Icon negative SVG</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_white_50x50_transparentbg_300dpi.png" download>Icon negative small</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_white_150x150_transparentbg_300dpi.png" download>Icon negative medium</a> |
-| <a href="https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_white_250x250_transparentbg_300dpi.png" download>Icon negative large</a> |
+| [Icon negative SVG](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_white_wca.svg) |
+| [Icon negative small](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_white_50x50_transparentbg_300dpi.png) |
+| [Icon negative medium](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_white_150x150_transparentbg_300dpi.png) |
+| [Icon negative large](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/icon_white_250x250_transparentbg_300dpi.png) |
 
