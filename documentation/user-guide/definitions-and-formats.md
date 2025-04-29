@@ -26,6 +26,10 @@ The schema and full details can be found in the [MI Community GitHub repository]
 
 Use case: [ComplexViewer](https://github.com/MICommunity/ComplexViewer)
 
+## PSI-MI FEATURE TAB
+
+PSI-MI FeatureTab is a new common tab-delimited molecular interactions format. It takes inspiration from the existing PSI-MI XML and tab-delimited formats, which is actively supported by the MI worktrack. Documentation is available in the [HUPO-PSI GitHub repository](https://github.com/HUPO-PSI/miTab) and the [PSICQUIC GitHub repository](https://psicquic.github.io/PSIMITAB.html)
+
 ## XGMML
 
 The XGMML data interchange format is used for importing data from IntAct directly into network analysis software such as as [Cytoscape](https://cytoscape.org/). Documentation for the XGMML format is available in [Wikipedia](https://en.wikipedia.org/wiki/XGMML). IntAct has developed its own [Cytoscape App](https://apps.cytoscape.org/apps/intactapp) for querying IntAct data directly from Cytoscape.
