@@ -1,1 +1,2 @@
 # Negative and positive interactions
+IntAct annotates negative interactions in some very specific cirumstances, where a positive interaction has been reported in the same paper, and a related interaction has explicitly been tested for and not been observable. These are marked in downloadable data with a flag "negative", and in the web interface we provide specific filters to allow selection for all, positive only, and negative only interactions. In the graphical representation, they are marked by a red cross in the center of the interaction line.
