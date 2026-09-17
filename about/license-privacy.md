@@ -16,8 +16,8 @@ For attribution please go to our [Publications](https://www.ebi.ac.uk/intact/abo
 
 IntAct and IMEx data is collected from published scientific articles via archival curation or via authors' direct submission for pre-publication data. We record a small amount of personal data \(authors' names and corresponding authors' email addresses\) for data traceability and attribution. To learn more about how we manage your personal data and your privacy rights, please read the following Privacy Notices:
 
-* [Archival Curation Privacy Notice](https://www.ebi.ac.uk/data-protection/privacy-notice/intact-and-imex-archival-curation)
-* [Direct Submissions Privacy Notice](https://www.ebi.ac.uk/data-protection/privacy-notice/intact-and-imex-direct-submissions)
+* [Archival Curation Privacy Notice](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/IntAct-and-IMEx-archival-curation-privacy-notice.pdf)
+* [Direct Submissions Privacy Notice](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/IntAct-and-IMEx-direct-submissions-privacy-notice.pdf)
 
 ## Data Preservation
 
