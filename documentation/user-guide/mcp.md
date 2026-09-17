@@ -82,7 +82,7 @@ find interaction partners with annotated disorder, and check whether binding reg
 IntAct overlap with disordered regions in DisProt. This brings interaction and disorder evidence together, helping you
 explore the interactions of disordered proteins without manually matching records across the two databases.
 
-In the project's [May 2026 evaluation](../mcp/comparison), GPT-5.5 matched
+In the project's [May 2026 evaluation](../mcp/comparison.md), GPT-5.5 matched
 reference answers in **18/18 runs with MCP**, compared with **3/18 using web search without MCP**, across six questions
 repeated three times. This small benchmark demonstrates the benefit for those tasks; it does not guarantee perfect
 answers to every question.
@@ -120,7 +120,7 @@ type or learn their names.
 | `feature_disorder_overlap`   | Find overlaps between interaction features and disordered regions.            |
 | `enrichment_disorder`        | Test disorder enrichment among partners against a curated DisProt background. |
 
-For detailed options, see the [tool reference](../mcp/tool-cards). Ask for evidence and any limits on the returned results.
+For detailed options, see the [tool reference](../mcp/tool-cards.md). Ask for evidence and any limits on the returned results.
 Missing DisProt annotations mean “no curated evidence found”, not “this protein is ordered”.
 
 To compare answers with and without MCP, switch it off and start a **new conversation** with the same question: an
