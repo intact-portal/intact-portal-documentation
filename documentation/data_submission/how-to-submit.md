@@ -20,6 +20,10 @@ X.- "The MIntAct project—IntAct as a common curation platform for 11 molecular
 
 Presubmission data will remain confidential until you give us permission to publish it or the paper is made public, whatever happens first.
 
+## Public Release of Data
+
+Information displayed on the IntAct website is fully disclosed to the public. In accordance with the [EMBL-EBI Terms of Use](https://www.ebi.ac.uk/about/terms-of-use/), data submitters are responsible for checking that they have the right to submit the data, and that public release will not infringe the rights of any third party — such as intellectual property, contractual obligations, sample-provider or informed-consent conditions, and applicable national or international regulations governing access to genetic resources. Read more about how EMBL-EBI supports access and benefit sharing for digital sequence information [here](https://www.ebi.ac.uk/abs-dsi/).
+
 ## Post-publication submissions
 
 We are also willing to curate specific papers, on request, or become more actively involved in specific projects. Again, please [contact us](http://www.ebi.ac.uk/support/index.php?query=intact) if you would like to discuss this further. [Here](https://raw.githubusercontent.com/intact-portal/intact-portal-documentation/master/assets/LargeScaleSubmissionTable.xlsx) you have an example excel file detailing the type of information we require for a submission.
